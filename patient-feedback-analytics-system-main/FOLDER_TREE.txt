@@ -1,0 +1,69 @@
+MediFeedback AI - Complete Project Structure
+=============================================
+
+medifeedback-ai/
+│
+├── client/                                  # React + Vite Frontend
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── AdminChatbot.jsx            # AI Analyst chatbot (admin)
+│   │   │   ├── AnalyticsCharts.jsx         # Recharts visualizations
+│   │   │   └── PatientChatbot.jsx          # FAQ chatbot (patient)
+│   │   ├── pages/
+│   │   │   ├── Landing.jsx                 # Clerk unlock screen
+│   │   │   ├── RoleSelection.jsx           # Role selection
+│   │   │   ├── PatientPortal.jsx           # Patient feedback portal
+│   │   │   └── AdminDashboard.jsx          # Admin analytics dashboard
+│   │   ├── services/
+│   │   │   └── api.js                      # Axios API client
+│   │   ├── App.jsx                         # Main app router
+│   │   ├── main.jsx                        # React entry point
+│   │   └── index.css                       # Tailwind styles
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── tailwind.config.js
+│   ├── postcss.config.js
+│   ├── package.json
+│   └── .env                                 # API_URL config
+│
+├── server/                                  # Node.js + Express Backend
+│   ├── models/
+│   │   ├── Feedback.js                     # Feedback MongoDB schema
+│   │   └── Patient.js                      # Patient MongoDB schema
+│   ├── routes/
+│   │   ├── auth.js                         # Auth routes (clerk, admin)
+│   │   ├── feedback.js                     # Feedback submission
+│   │   └── admin.js                        # Admin analytics & chat
+│   ├── server.js                           # Express server
+│   ├── package.json
+│   └── .env                                 # MongoDB, secrets config
+│
+└── nlp_service/                             # Python Flask NLP API
+    ├── app.py                               # Flask API (sentiment + suggestions)
+    └── requirements.txt                     # Python dependencies
+
+FEATURES:
+=========
+✅ Landing Page with Clerk Secret Unlock
+✅ Role Selection (Patient / Admin)
+✅ Patient Portal:
+   - Patient login (name + ID only)
+   - Feedback submission with NLP sentiment analysis
+   - Floating chatbot (FAQs: visiting hours, cafeteria, emergency)
+   - Auto-saves feedback via chatbot
+✅ Admin Dashboard:
+   - Admin password authentication
+   - Real-time statistics cards
+   - Recharts Pie Chart (sentiment distribution)
+   - Recharts Line Chart (7-day trends)
+   - AI Analyst Chatbot (weekly insights, improvement suggestions)
+✅ NLP Microservice:
+   - TextBlob sentiment analysis
+   - Keyword extraction from negative feedback
+   - Actionable improvement suggestions
+
+TECH STACK:
+===========
+Frontend: React 18 + Vite + Tailwind CSS + Axios + Recharts + Lucide Icons
+Backend: Node.js + Express + Mongoose (MongoDB)
+NLP: Python 3 + Flask + TextBlob + NLTK

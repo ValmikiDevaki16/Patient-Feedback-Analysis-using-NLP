@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 100px 0;
+    margin-bottom: 60px;
+}
+
+.hero-section h1 {
+    color: white;
+}
+
+.hero-section .lead {
+    font-size: 1.2rem;
+    opacity: 0.95;
+}
+
+.hero-section img {
+    border-radius: 12px;
+}
+
+.feature-card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.feature-icon {
+    color: #667eea;
+    margin-bottom: 20px;
+}
+
+.feature-card h4 {
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #2d3748;
+}
+
+.feature-card p {
+    color: #718096;
+    margin-bottom: 0;
+}
+
+.chatbot-container {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.chatbot-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+}
+
+.chatbot-avatar {
+    width: 48px;
+    height: 48px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.chatbot-messages {
+    padding: 30px;
+    min-height: 200px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.message {
+    margin-bottom: 20px;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.bot-message .message-content {
+    background: #f1f3f5;
+    padding: 15px;
+    border-radius: 12px;
+    max-width: 80%;
+}
+
+.user-message .message-content {
+    background: #667eea;
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    max-width: 80%;
+    margin-left: auto;
+}
+
+.chatbot-input {
+    padding: 20px;
+    background: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+}
+
+.stat-card {
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.stat-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.stat-content h6 {
+    color: #718096;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.stat-content h2 {
+    font-weight: 700;
+    margin: 0;
+    color: #2d3748;
+}
+
+.chart-card {
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chart-card h5 {
+    font-weight: 600;
+    color: #2d3748;
+}
+
+.recommendations-card {
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recommendation-item {
+    background: #f8f9fa;
+    border-left: 4px solid #667eea;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+.recommendation-item.high-severity {
+    border-left-color: #dc3545;
+    background: #fff5f5;
+}
+
+.recommendation-item h6 {
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #2d3748;
+}
+
+.recommendation-item p {
+    margin: 0;
+    color: #4a5568;
+}
+
+.badge {
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-weight: 500;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table thead {
+    background: #f8f9fa;
+}
+
+.table tbody tr:hover {
+    background: #f8f9fa;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.spinner-border-sm {
+    width: 1rem;
+    height: 1rem;
+    border-width: 0.15em;
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 60px 0;
+        text-align: center;
+    }
+
+    .hero-section .display-4 {
+        font-size: 2rem;
+    }
+
+    .hero-section img {
+        margin-top: 30px;
+    }
+
+    .stat-card {
+        flex-direction: column;
+        text-align: center;
+    }
+}

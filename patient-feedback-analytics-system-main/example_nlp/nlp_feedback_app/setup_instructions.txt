@@ -1,0 +1,97 @@
+QUICK SETUP GUIDE - PATIENT FEEDBACK ANALYTICS SYSTEM
+=====================================================
+
+STEP 1: Install Python Dependencies
+------------------------------------
+Open terminal and run:
+    pip install -r requirements.txt
+
+Or if using pip3:
+    pip3 install -r requirements.txt
+
+
+STEP 2: (Optional) Enable Clerk Authentication
+-----------------------------------------------
+This project runs with the dashboard in public/local mode by default using local CSV storage.
+If you want to enable Clerk authentication for the dashboard in production, add your Clerk keys to the `.env` file
+and include Clerk's client in the frontend. This is optional and not required for local testing.
+
+
+STEP 5: Run the Application
+----------------------------
+In terminal, run:
+    python app.py
+
+Or if using python3:
+    python3 app.py
+
+The server will start on: http://localhost:5000
+
+
+STEP 6: Access the Application
+-------------------------------
+Open your browser and visit:
+    - Home Page: http://localhost:5000/
+    - Submit Feedback: http://localhost:5000/chatbot
+    - Dashboard: http://localhost:5000/dashboard
+
+
+TESTING THE APPLICATION:
+------------------------
+
+Test Patient Feedback Submission:
+1. Go to http://localhost:5000/chatbot
+2. Select a department (e.g., Emergency)
+3. Enter feedback like: "The staff was very rude and the waiting time was extremely long. I had to wait for 3 hours!"
+4. Submit and see the NLP analysis
+
+Test Dashboard Analytics:
+1. Go to http://localhost:5000/dashboard
+2. Sign in with Clerk when prompted
+3. View real-time charts and analytics
+4. Check recommendations based on feedback
+
+
+TROUBLESHOOTING:
+----------------
+
+Issue: "Module not found" error
+Solution: Run pip install -r requirements.txt again
+
+Issue: Port 5000 already in use
+Solution: Stop other applications using port 5000 or change port in app.py
+
+Issue: Dashboard shows "Authentication Required"
+Solution: Ensure Clerk keys are correctly configured in .env and dashboard.js
+
+Issue: Feedback storage problems
+Solution: Ensure the server can write to the `data/` directory. The CSV file `data/feedback.csv` is created on first run. Check file permissions if entries are not saved.
+
+
+SAMPLE FEEDBACK FOR TESTING:
+-----------------------------
+
+Negative Feedback:
+"The emergency department was extremely dirty and the staff was very rude. I waited for 4 hours and nobody attended to me. This is terrible service!"
+
+Positive Feedback:
+"Excellent care from the nursing staff! They were very professional and caring. The facilities were clean and well-maintained. Great experience overall!"
+
+Mixed Feedback:
+"The doctors were knowledgeable and helpful, but the waiting time was too long. The pharmacy service needs improvement."
+
+
+FEATURES TO DEMONSTRATE:
+------------------------
+✓ Sentiment Analysis (Positive/Negative/Neutral)
+✓ Emotion Detection
+✓ Issue Categorization
+✓ Severity Scoring
+✓ Real-time Analytics Dashboard
+✓ Interactive Charts (Plotly.js)
+✓ Severity Heatmap
+✓ AI-generated Recommendations
+✓ Secure Authentication (Clerk)
+
+
+For more details, see README.md

@@ -1,0 +1,79 @@
+staffId,name,role,department,specialization,email,phone,avatar,password,createdAt,updatedAt
+DOC001,Dr Asha Menon,Doctor,OPD,General,asha.menon@example.com,9000010001,,DOC001Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC002,Dr Rohan Kumar,Doctor,OPD,Cardiology,rohan.kumar@example.com,9000010002,,DOC002Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC003,Dr Meera Iyer,Doctor,OPD,Dermatology,meera.iyer@example.com,9000010003,,DOC003Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC004,Dr Vikram Das,Doctor,OPD,Orthopedics,vikram.das@example.com,9000010004,,DOC004Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC005,Dr Priya Sharma,Doctor,OPD,Pediatrics,priya.sharma@example.com,9000010005,,DOC005Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC006,Dr Arjun Rao,Doctor,OPD,Neurology,arjun.rao@example.com,9000010006,,DOC006Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC007,Dr Kavita Singh,Doctor,OPD,OBGYN,kavita.singh@example.com,9000010007,,DOC007Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC008,Dr Sameer Patel,Doctor,OPD,ENT,sameer.patel@example.com,9000010008,,DOC008Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC009,Dr Nisha Verma,Doctor,OPD,Ophthalmology,nisha.verma@example.com,9000010009,,DOC009Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC010,Dr Karan Mehta,Doctor,OPD,General,karan.mehta@example.com,9000010010,,DOC010Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC011,Dr Lata Rao,Doctor,OPD,Cardiology,lata.rao@example.com,9000010011,,DOC011Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC012,Dr Aditya Kulkarni,Doctor,OPD,Orthopedics,aditya.k@example.com,9000010012,,DOC012Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC013,Dr Sanya Bose,Doctor,OPD,Dermatology,sanya.bose@example.com,9000010013,,DOC013Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC014,Dr Imran Khan,Doctor,OPD,Neurology,imran.khan@example.com,9000010014,,DOC014Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC015,Dr Rekha Nair,Doctor,OPD,Pediatrics,rekha.nair@example.com,9000010015,,DOC015Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC016,Dr Amit Desai,Doctor,OPD,Cardiology,amit.desai@example.com,9000010016,,DOC016Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC017,Dr Tara Gupta,Doctor,OPD,OBGYN,tara.gupta@example.com,9000010017,,DOC017Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC018,Dr Rohit Sen,Doctor,OPD,General,rohit.sen@example.com,9000010018,,DOC018Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC019,Dr Neeta Joshi,Doctor,OPD,ENT,neeta.joshi@example.com,9000010019,,DOC019Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC020,Dr Vikas Kapoor,Doctor,OPD,General,vikas.kapoor@example.com,9000010020,,DOC020Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC021,Dr Suman Rao,Doctor,OPD,Cardiology,suman.rao@example.com,9000010021,,DOC021Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC022,Dr Priyanka Lal,Doctor,OPD,Dermatology,priyanka.lal@example.com,9000010022,,DOC022Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC023,Dr Manoj Yadav,Doctor,OPD,Orthopedics,manoj.yadav@example.com,9000010023,,DOC023Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC024,Dr Bhavana Reddy,Doctor,OPD,Pediatrics,bhavana.reddy@example.com,9000010024,,DOC024Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC025,Dr Harish Shah,Doctor,OPD,Neurology,harish.shah@example.com,9000010025,,DOC025Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC026,Dr Deepa Krishnan,Doctor,OPD,OBGYN,deepa.krishnan@example.com,9000010026,,DOC026Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC027,Dr Ramesh N,Doctor,OPD,ENT,ramesh.n@example.com,9000010027,,DOC027Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC028,Dr Shreya Kapoor,Doctor,OPD,Ophthalmology,shreya.kapoor@example.com,9000010028,,DOC028Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC029,Dr Nitin B,Doctor,OPD,General,nitin.b@example.com,9000010029,,DOC029Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC030,Dr Varsha D,Doctor,OPD,Cardiology,varsha.d@example.com,9000010030,,DOC030Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC031,Dr Kunal Sharma,Doctor,OPD,General,kunal.sharma@example.com,9000010031,,DOC031Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC032,Dr Geeta Menon,Doctor,OPD,Dermatology,geeta.menon@example.com,9000010032,,DOC032Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC033,Dr Ashok Pillai,Doctor,OPD,Orthopedics,ashok.pillai@example.com,9000010033,,DOC033Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC034,Dr Anjali Roy,Doctor,OPD,Pediatrics,anjali.roy@example.com,9000010034,,DOC034Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC035,Dr Sunil Gupta,Doctor,OPD,Neurology,sunil.gupta@example.com,9000010035,,DOC035Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC036,Dr Radha Srinivasan,Doctor,OPD,OBGYN,radha.s@example.com,9000010036,,DOC036Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC037,Dr Manoj Patel,Doctor,OPD,ENT,manoj.patel@example.com,9000010037,,DOC037Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC038,Dr Sonia Roy,Doctor,OPD,Ophthalmology,sonia.roy@example.com,9000010038,,DOC038Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC039,Dr Kiran Desai,Doctor,OPD,General,kiran.desai@example.com,9000010039,,DOC039Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC040,Dr Priyadarshini,Doctor,OPD,Cardiology,priya@example.com,9000010040,,DOC040Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC041,Dr Aruna Singh,Doctor,OPD,Dermatology,aruna.singh@example.com,9000010041,,DOC041Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC042,Dr Vikram Nair,Doctor,OPD,Orthopedics,vikram.nair@example.com,9000010042,,DOC042Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC043,Dr Mehul Shah,Doctor,OPD,Pediatrics,mehul.shah@example.com,9000010043,,DOC043Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC044,Dr Ritu Kapoor,Doctor,OPD,Neurology,ritu.kapoor@example.com,9000010044,,DOC044Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC045,Dr Nandini Rao,Doctor,OPD,OBGYN,nandini.rao@example.com,9000010045,,DOC045Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC046,Dr Rakesh B,Doctor,OPD,ENT,rakesh.b@example.com,9000010046,,DOC046Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC047,Dr Sunita Verma,Doctor,OPD,Ophthalmology,sunita.verma@example.com,9000010047,,DOC047Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC048,Dr Kamal Joshi,Doctor,OPD,General,kamal.joshi@example.com,9000010048,,DOC048Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC049,Dr Maya Singh,Doctor,OPD,Cardiology,maya.singh@example.com,9000010049,,DOC049Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC050,Dr Akash B,Doctor,OPD,Dermatology,akash.b@example.com,9000010050,,DOC050Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC051,Dr Leena Kapoor,Doctor,OPD,Orthopedics,leena.kapoor@example.com,9000010051,,DOC051Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC052,Dr Harpreet Kaur,Doctor,OPD,Pediatrics,harpreet.kaur@example.com,9000010052,,DOC052Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC053,Dr Nilesh Patil,Doctor,OPD,Neurology,nilesh.patil@example.com,9000010053,,DOC053Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC054,Dr Bina Shah,Doctor,OPD,OBGYN,bina.shah@example.com,9000010054,,DOC054Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC055,Dr Rajiv Menon,Doctor,OPD,ENT,rajiv.menon@example.com,9000010055,,DOC055Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC056,Dr Anu Thomas,Doctor,OPD,Ophthalmology,anu.thomas@example.com,9000010056,,DOC056Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC057,Dr Keshav Iyer,Doctor,OPD,General,keshav.iyer@example.com,9000010057,,DOC057Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC058,Dr Rina Das,Doctor,OPD,Cardiology,rina.das@example.com,9000010058,,DOC058Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC059,Dr Manoj Verma,Doctor,OPD,Dermatology,manoj.verma@example.com,9000010059,,DOC059Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC060,Dr Shalini N,Doctor,OPD,Orthopedics,shalini.n@example.com,9000010060,,DOC060Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+NUR001,Anita,Nurse,Nurse,General,anita.nurse@example.com,9000011001,,NUR001Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+TECH001,Raj,Technician,Technician,Laboratory,raj.tech@example.com,9000012001,,TECH001Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+ADMIN001,Admin User,Administrator,General,Administration,admin@example.com,9000013001,,ADMIN001Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC061,ver,Doctor,OPD,General,,,,,2025-12-06T04:37:14.434Z,2025-12-06T04:37:14.434Z
+DOC062,Dr Leela Nair,Doctor,OPD,Dermatology,leela.nair@example.com,9000010062,,DOC062Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC063,Dr Prashant Gupta,Doctor,OPD,Orthopedics,prashant.gupta@example.com,9000010063,,DOC063Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC064,Dr Saira Khan,Doctor,OPD,Pediatrics,saira.khan@example.com,9000010064,,DOC064Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC065,Dr Manisha Patel,Doctor,OPD,Pediatrics,manisha.patel@example.com,9000010065,,DOC065Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC066,Dr Vikrant Joshi,Doctor,OPD,Neurology,vikrant.joshi@example.com,9000010066,,DOC066Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC067,Dr Neelam Shah,Doctor,OPD,Neurology,neelam.shah@example.com,9000010067,,DOC067Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC068,Dr Kavya Iyer,Doctor,OPD,OBGYN,kavya.iyer@example.com,9000010068,,DOC068Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC069,Dr Smita Rao,Doctor,OPD,OBGYN,smita.rao@example.com,9000010069,,DOC069Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC070,Dr Arvind Kumar,Doctor,OPD,ENT,arvind.kumar@example.com,9000010070,,DOC070Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC071,Dr Nidhi Verma,Doctor,OPD,ENT,nidhi.verma@example.com,9000010071,,DOC071Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC072,Dr Tarun Mehta,Doctor,OPD,Ophthalmology,tarun.mehta@example.com,9000010072,,DOC072Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC073,Dr Pooja Singh,Doctor,OPD,Ophthalmology,pooja.singh@example.com,9000010073,,DOC073Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+DOC074,Dr Rohini Deshpande,Doctor,OPD,Ophthalmology,rohini.d@example.com,9000010074,,DOC074Pass!,2025-12-06T00:00:00.000Z,2025-12-06T00:00:00.000Z
+SA,S,Doctor,S,OBGYN,S@gmail.com,2435467898,,$2a$08$OiRySF07W9m..EmObPpr.edZX6EBy1HtxMOScl3Yn.kzjsF9IVAmK,2025-12-06T13:24:48.084Z,2025-12-06T13:24:48.084Z

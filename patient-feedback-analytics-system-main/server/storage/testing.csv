@@ -1,0 +1,1501 @@
+feedbackId,patientId,doctorId,specialization,text,rating,sentiment,sentimentScore,createdAt
+FB200001,P5431,DOC033,Pharmacy,Reports were delayed causing change in follow-up plan.,5,positive,0.569,2024-03-14T21:25:53Z
+FB200002,P5970,DOC038,Radiology,Facilities were well maintained and easy to access.,1,negative,-0.804,2024-01-12T09:36:51Z
+FB200003,P5177,DOC014,Radiology,Facilities were well maintained and easy to access.,4,positive,0.891,2024-04-30T00:58:07Z
+FB200004,P5285,DOC004,IPD,Very fast response and treatment offered immediately.,2,negative,-0.663,2024-07-05T17:15:46Z
+FB200005,P5183,DOC036,Surgery,Cost felt slightly higher compared to other places.,2,negative,-0.479,2024-10-14T22:08:24Z
+FB200006,P5755,DOC011,Surgery,Room or department was clean and well maintained.,4,positive,0.821,2024-01-13T15:52:33Z
+FB200007,P5930,DOC011,OPD,Very fast response and treatment offered immediately.,2,negative,-0.611,2024-10-13T03:46:27Z
+FB200008,P5179,DOC014,OPD,Very fast response and treatment offered immediately.,4,positive,0.987,2024-02-07T16:11:35Z
+FB200009,P5944,DOC046,IPD,Staff behavior was excellent and guidance was proper.,5,positive,0.653,2024-01-15T19:39:16Z
+FB200010,P5536,DOC033,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.483,2024-01-20T05:32:52Z
+FB200011,P5201,DOC028,Radiology,Medication availability was delayed initially.,3,neutral,-0.074,2024-12-20T09:46:01Z
+FB200012,P5573,DOC046,Radiology,Medication availability was delayed initially.,2,negative,-0.774,2024-07-18T04:26:16Z
+FB200013,P5159,DOC039,Emergency,Reports were delayed causing change in follow-up plan.,5,positive,0.899,2024-04-26T14:59:12Z
+FB200014,P5453,DOC043,Emergency,Good service overall but waiting time was slightly long.,5,positive,0.646,2024-11-03T21:51:45Z
+FB200015,P5882,DOC032,Laboratory,Reports were delayed causing change in follow-up plan.,5,positive,0.688,2024-05-22T20:04:35Z
+FB200016,P5083,DOC038,Surgery,Good service overall but waiting time was slightly long.,3,neutral,0.171,2024-01-09T07:53:23Z
+FB200017,P5499,DOC006,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.927,2024-01-09T16:05:42Z
+FB200018,P5815,DOC049,Surgery,Reports were delayed causing change in follow-up plan.,5,positive,0.82,2024-08-25T11:11:13Z
+FB200019,P5749,DOC006,IPD,Good service overall but waiting time was slightly long.,1,negative,-0.95,2024-01-26T10:44:42Z
+FB200020,P5938,DOC035,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.784,2024-08-24T07:53:45Z
+FB200021,P5400,DOC031,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.779,2024-11-01T18:32:59Z
+FB200022,P5712,DOC050,General,Staff behavior was excellent and guidance was proper.,2,negative,-0.585,2024-01-06T08:01:27Z
+FB200023,P5066,DOC034,OPD,Facilities were well maintained and easy to access.,5,positive,0.751,2024-06-26T07:23:39Z
+FB200024,P5092,DOC036,Pharmacy,Good service overall but waiting time was slightly long.,4,positive,0.539,2024-05-28T16:47:10Z
+FB200025,P5636,DOC014,Surgery,Very fast response and treatment offered immediately.,1,negative,-0.994,2024-09-10T13:33:23Z
+FB200026,P5883,DOC047,Radiology,Very fast response and treatment offered immediately.,5,positive,0.883,2024-12-10T02:56:02Z
+FB200027,P5328,DOC011,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.771,2024-04-29T23:03:56Z
+FB200028,P5709,DOC031,OPD,Medication availability was delayed initially.,4,positive,0.573,2024-06-05T18:05:31Z
+FB200029,P5530,DOC002,Surgery,Staff behavior was excellent and guidance was proper.,1,negative,-0.717,2024-01-24T22:21:42Z
+FB200030,P5346,DOC046,Pharmacy,Room or department was clean and well maintained.,2,negative,-0.483,2024-09-21T06:05:22Z
+FB200031,P5852,DOC034,Emergency,Good service overall but waiting time was slightly long.,3,neutral,0.008,2024-03-27T08:33:14Z
+FB200032,P5236,DOC025,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.528,2024-06-24T01:52:25Z
+FB200033,P5002,DOC018,Pharmacy,Room or department was clean and well maintained.,2,negative,-0.44,2024-01-01T00:03:48Z
+FB200034,P5747,DOC008,IPD,Room or department was clean and well maintained.,3,neutral,0.023,2024-07-19T22:32:57Z
+FB200035,P5777,DOC005,OPD,Cost felt slightly higher compared to other places.,3,neutral,-0.017,2024-08-20T06:23:21Z
+FB200036,P5832,DOC011,Radiology,Good service overall but waiting time was slightly long.,5,positive,0.803,2024-10-01T05:25:11Z
+FB200037,P5980,DOC028,Surgery,Facilities were well maintained and easy to access.,5,positive,0.719,2024-04-15T06:30:56Z
+FB200038,P5620,DOC007,Surgery,Room or department was clean and well maintained.,4,positive,0.676,2024-02-27T13:34:34Z
+FB200039,P5036,DOC047,Surgery,Room or department was clean and well maintained.,4,positive,0.999,2024-04-08T05:06:10Z
+FB200040,P5824,DOC003,Emergency,Facilities were well maintained and easy to access.,2,negative,-0.978,2024-04-05T05:14:52Z
+FB200041,P5008,DOC009,Pharmacy,Cost felt slightly higher compared to other places.,5,positive,0.918,2024-05-28T04:19:00Z
+FB200042,P5911,DOC037,Emergency,Facilities were well maintained and easy to access.,5,positive,0.552,2024-01-26T01:24:37Z
+FB200043,P5243,DOC006,OPD,Room or department was clean and well maintained.,5,positive,0.921,2024-12-22T23:03:55Z
+FB200044,P5764,DOC049,Emergency,Staff behavior was excellent and guidance was proper.,3,neutral,0.111,2024-12-09T23:22:36Z
+FB200045,P5354,DOC031,Laboratory,Medication availability was delayed initially.,2,negative,-0.785,2024-07-03T14:17:54Z
+FB200046,P5262,DOC025,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.696,2024-04-20T09:50:14Z
+FB200047,P5440,DOC046,Surgery,Reports were delayed causing change in follow-up plan.,3,neutral,0.006,2024-07-10T12:16:49Z
+FB200048,P5083,DOC001,Radiology,Room or department was clean and well maintained.,1,negative,-0.485,2024-11-19T01:49:36Z
+FB200049,P5584,DOC041,Laboratory,Good service overall but waiting time was slightly long.,1,negative,-0.524,2024-08-25T09:38:24Z
+FB200050,P5184,DOC033,Surgery,Good service overall but waiting time was slightly long.,2,negative,-0.623,2024-06-30T08:58:48Z
+FB200051,P5575,DOC016,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.938,2024-07-05T16:26:36Z
+FB200052,P5572,DOC041,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.621,2024-06-01T14:34:08Z
+FB200053,P5567,DOC050,OPD,Room or department was clean and well maintained.,2,negative,-0.603,2024-05-13T18:53:02Z
+FB200054,P5373,DOC005,OPD,Facilities were well maintained and easy to access.,4,positive,0.927,2024-08-17T02:24:56Z
+FB200055,P5133,DOC045,General,Facilities were well maintained and easy to access.,5,positive,0.926,2024-12-03T10:33:04Z
+FB200056,P5027,DOC041,Laboratory,Good service overall but waiting time was slightly long.,3,neutral,-0.094,2024-09-14T12:30:55Z
+FB200057,P5141,DOC015,Surgery,Staff behavior was excellent and guidance was proper.,1,negative,-0.581,2024-10-17T12:52:34Z
+FB200058,P5875,DOC036,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.844,2024-05-01T16:32:32Z
+FB200059,P5362,DOC035,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.669,2024-04-12T10:21:43Z
+FB200060,P5794,DOC024,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,-0.016,2024-04-14T12:03:27Z
+FB200061,P5043,DOC009,Surgery,Medication availability was delayed initially.,5,positive,0.825,2024-03-17T22:35:25Z
+FB200062,P5158,DOC043,Surgery,Medication availability was delayed initially.,5,positive,0.55,2024-08-14T05:00:29Z
+FB200063,P5631,DOC030,Emergency,Reports were delayed causing change in follow-up plan.,3,neutral,-0.009,2024-07-08T12:00:42Z
+FB200064,P5407,DOC040,Laboratory,Room or department was clean and well maintained.,4,positive,0.712,2024-04-02T03:03:09Z
+FB200065,P5282,DOC049,Surgery,Good service overall but waiting time was slightly long.,2,negative,-0.268,2024-06-09T07:18:48Z
+FB200066,P5332,DOC007,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.494,2024-01-04T19:33:39Z
+FB200067,P5821,DOC028,Surgery,Room or department was clean and well maintained.,1,negative,-0.733,2024-01-20T18:55:50Z
+FB200068,P5777,DOC035,Radiology,Very fast response and treatment offered immediately.,2,negative,-0.357,2024-11-30T06:23:29Z
+FB200069,P5585,DOC016,Radiology,Facilities were well maintained and easy to access.,1,negative,-0.803,2024-07-14T20:42:36Z
+FB200070,P5706,DOC043,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.898,2024-09-10T00:31:06Z
+FB200071,P5840,DOC047,IPD,Very fast response and treatment offered immediately.,5,positive,0.55,2024-08-25T05:31:42Z
+FB200072,P5082,DOC012,OPD,Cost felt slightly higher compared to other places.,4,positive,0.706,2024-01-13T21:15:46Z
+FB200073,P5281,DOC011,Surgery,Cost felt slightly higher compared to other places.,3,neutral,0.049,2024-07-07T13:48:43Z
+FB200074,P5411,DOC004,Emergency,Room or department was clean and well maintained.,3,neutral,0.006,2024-05-11T13:40:07Z
+FB200075,P5407,DOC035,Emergency,Reports were delayed causing change in follow-up plan.,5,positive,0.575,2024-07-17T21:37:57Z
+FB200076,P5964,DOC004,IPD,Facilities were well maintained and easy to access.,5,positive,0.6,2024-11-07T15:47:53Z
+FB200077,P5984,DOC025,Pharmacy,Room or department was clean and well maintained.,1,negative,-0.903,2024-04-08T04:37:23Z
+FB200078,P5798,DOC028,General,Staff behavior was excellent and guidance was proper.,5,positive,0.988,2024-08-05T06:42:04Z
+FB200079,P5734,DOC014,Radiology,Reports were delayed causing change in follow-up plan.,1,negative,-0.441,2024-03-24T18:40:24Z
+FB200080,P5048,DOC017,Pharmacy,Room or department was clean and well maintained.,5,positive,0.916,2024-12-13T13:18:46Z
+FB200081,P5060,DOC015,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.908,2024-08-13T15:28:32Z
+FB200082,P5258,DOC019,Surgery,Facilities were well maintained and easy to access.,2,negative,-0.826,2024-07-18T19:10:59Z
+FB200083,P5287,DOC012,Pharmacy,Medication availability was delayed initially.,4,positive,0.531,2024-06-02T15:44:36Z
+FB200084,P5012,DOC037,General,Room or department was clean and well maintained.,5,positive,0.79,2024-04-12T19:50:02Z
+FB200085,P5324,DOC023,Laboratory,Facilities were well maintained and easy to access.,4,positive,0.644,2024-06-15T18:25:57Z
+FB200086,P5995,DOC039,Emergency,Reports were delayed causing change in follow-up plan.,1,negative,-0.275,2024-02-05T13:34:11Z
+FB200087,P5669,DOC018,IPD,Medication availability was delayed initially.,3,neutral,0.112,2024-06-06T17:05:50Z
+FB200088,P5082,DOC023,IPD,Very fast response and treatment offered immediately.,4,positive,0.991,2024-09-14T03:26:12Z
+FB200089,P5518,DOC013,Pharmacy,Reports were delayed causing change in follow-up plan.,5,positive,0.961,2024-12-13T19:24:39Z
+FB200090,P5342,DOC023,Radiology,Medication availability was delayed initially.,1,negative,-0.281,2024-12-14T11:08:56Z
+FB200091,P5014,DOC016,Surgery,Cost felt slightly higher compared to other places.,5,positive,0.884,2024-05-05T10:28:06Z
+FB200092,P5599,DOC027,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,0.005,2024-11-23T18:55:36Z
+FB200093,P5296,DOC016,General,Staff behavior was excellent and guidance was proper.,5,positive,0.547,2024-12-09T15:45:16Z
+FB200094,P5852,DOC028,General,Room or department was clean and well maintained.,3,neutral,-0.08,2024-12-23T04:36:15Z
+FB200095,P5476,DOC006,IPD,Reports were delayed causing change in follow-up plan.,4,positive,0.723,2024-01-01T00:37:50Z
+FB200096,P5855,DOC050,OPD,Room or department was clean and well maintained.,1,negative,-0.551,2024-12-12T17:05:41Z
+FB200097,P5570,DOC045,Surgery,Cost felt slightly higher compared to other places.,4,positive,0.99,2024-08-14T19:27:17Z
+FB200098,P5028,DOC005,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.727,2024-03-02T07:19:23Z
+FB200099,P5273,DOC033,OPD,Medication availability was delayed initially.,5,positive,0.624,2024-11-09T22:00:44Z
+FB200100,P5078,DOC002,Laboratory,Staff behavior was excellent and guidance was proper.,2,negative,-0.581,2024-08-01T01:45:53Z
+FB200101,P5375,DOC043,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.32,2024-07-14T08:35:42Z
+FB200102,P5704,DOC050,Radiology,Good service overall but waiting time was slightly long.,3,neutral,0.033,2024-01-05T23:55:28Z
+FB200103,P5225,DOC044,OPD,Very fast response and treatment offered immediately.,2,negative,-0.768,2024-03-15T21:17:00Z
+FB200104,P5345,DOC013,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.922,2024-11-24T16:56:16Z
+FB200105,P5081,DOC001,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.249,2024-09-14T05:21:56Z
+FB200106,P5396,DOC045,Radiology,Medication availability was delayed initially.,4,positive,0.711,2024-08-26T21:45:17Z
+FB200107,P5753,DOC048,Surgery,Room or department was clean and well maintained.,5,positive,0.755,2024-04-09T10:55:00Z
+FB200108,P5864,DOC006,Laboratory,Reports were delayed causing change in follow-up plan.,4,positive,0.892,2024-02-20T06:41:20Z
+FB200109,P5365,DOC041,General,Room or department was clean and well maintained.,2,negative,-0.806,2024-01-29T12:27:52Z
+FB200110,P5760,DOC005,Radiology,Good service overall but waiting time was slightly long.,5,positive,0.702,2024-11-13T16:14:54Z
+FB200111,P5944,DOC041,OPD,Cost felt slightly higher compared to other places.,3,neutral,0.167,2024-03-15T11:04:28Z
+FB200112,P5886,DOC032,Surgery,Facilities were well maintained and easy to access.,5,positive,0.577,2024-02-01T08:39:00Z
+FB200113,P5936,DOC003,Emergency,Staff behavior was excellent and guidance was proper.,4,positive,0.727,2024-05-19T07:37:22Z
+FB200114,P5743,DOC048,OPD,Very fast response and treatment offered immediately.,5,positive,0.905,2024-06-20T10:29:29Z
+FB200115,P5910,DOC010,IPD,Facilities were well maintained and easy to access.,4,positive,0.706,2024-12-08T22:23:54Z
+FB200116,P5016,DOC010,OPD,Facilities were well maintained and easy to access.,4,positive,0.579,2024-06-13T13:32:59Z
+FB200117,P5413,DOC011,Radiology,Staff behavior was excellent and guidance was proper.,3,neutral,-0.003,2024-04-22T21:52:31Z
+FB200118,P5767,DOC008,General,Facilities were well maintained and easy to access.,3,neutral,-0.007,2024-12-23T08:45:30Z
+FB200119,P5093,DOC001,Radiology,Staff behavior was excellent and guidance was proper.,3,neutral,0.186,2024-01-26T15:40:16Z
+FB200120,P5860,DOC040,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.885,2024-03-05T03:41:31Z
+FB200121,P5096,DOC025,Surgery,Room or department was clean and well maintained.,5,positive,0.715,2024-11-04T02:46:35Z
+FB200122,P5166,DOC024,General,Medication availability was delayed initially.,2,negative,-0.792,2024-12-28T00:15:07Z
+FB200123,P5555,DOC002,Emergency,Room or department was clean and well maintained.,5,positive,0.775,2024-12-18T04:05:27Z
+FB200124,P5688,DOC029,General,Room or department was clean and well maintained.,1,negative,-0.411,2024-06-28T14:01:27Z
+FB200125,P5650,DOC019,General,Very fast response and treatment offered immediately.,4,positive,0.743,2024-02-25T19:11:14Z
+FB200126,P5269,DOC046,Surgery,Staff behavior was excellent and guidance was proper.,2,negative,-0.804,2024-02-05T08:35:44Z
+FB200127,P5991,DOC040,Emergency,Facilities were well maintained and easy to access.,4,positive,0.993,2024-03-05T09:37:25Z
+FB200128,P5239,DOC014,General,Cost felt slightly higher compared to other places.,1,negative,-0.542,2024-03-25T18:41:15Z
+FB200129,P5450,DOC035,Laboratory,Good service overall but waiting time was slightly long.,3,neutral,0.03,2024-01-30T16:35:15Z
+FB200130,P5616,DOC046,Pharmacy,Room or department was clean and well maintained.,2,negative,-0.798,2024-08-29T01:07:33Z
+FB200131,P5556,DOC035,IPD,Cost felt slightly higher compared to other places.,1,negative,-0.671,2024-02-09T19:36:35Z
+FB200132,P5593,DOC044,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.944,2024-09-21T09:01:48Z
+FB200133,P5488,DOC006,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.876,2024-12-20T11:10:20Z
+FB200134,P5881,DOC032,General,Very fast response and treatment offered immediately.,2,negative,-0.58,2024-10-16T14:45:45Z
+FB200135,P5970,DOC032,Laboratory,Medication availability was delayed initially.,5,positive,0.901,2024-11-09T16:01:06Z
+FB200136,P5991,DOC019,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.638,2024-07-14T03:52:41Z
+FB200137,P5294,DOC049,Laboratory,Room or department was clean and well maintained.,3,neutral,0.134,2024-03-17T17:13:05Z
+FB200138,P5629,DOC042,Laboratory,Cost felt slightly higher compared to other places.,3,neutral,0.145,2024-02-26T18:18:54Z
+FB200139,P5170,DOC045,IPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.5,2024-08-25T06:45:33Z
+FB200140,P5625,DOC015,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.975,2024-05-04T18:46:44Z
+FB200141,P5652,DOC020,OPD,Room or department was clean and well maintained.,2,negative,-0.61,2024-05-04T21:49:10Z
+FB200142,P5355,DOC038,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.959,2024-06-25T18:54:49Z
+FB200143,P5179,DOC032,Radiology,Staff behavior was excellent and guidance was proper.,3,neutral,0.016,2024-09-04T04:30:04Z
+FB200144,P5122,DOC015,IPD,Medication availability was delayed initially.,4,positive,0.809,2024-02-11T05:52:01Z
+FB200145,P5332,DOC036,General,Very fast response and treatment offered immediately.,1,negative,-0.983,2024-10-18T02:12:54Z
+FB200146,P5645,DOC042,General,Facilities were well maintained and easy to access.,4,positive,0.646,2024-03-23T20:19:47Z
+FB200147,P5736,DOC027,IPD,Good service overall but waiting time was slightly long.,5,positive,0.779,2024-07-31T16:08:22Z
+FB200148,P5821,DOC049,Emergency,Facilities were well maintained and easy to access.,3,neutral,0.108,2024-08-16T21:27:36Z
+FB200149,P5980,DOC013,General,Medication availability was delayed initially.,1,negative,-0.695,2024-10-25T17:43:57Z
+FB200150,P5038,DOC048,OPD,Reports were delayed causing change in follow-up plan.,3,neutral,-0.099,2024-08-30T12:22:15Z
+FB200151,P5462,DOC001,OPD,Good service overall but waiting time was slightly long.,3,neutral,0.002,2024-08-07T09:15:47Z
+FB200152,P5862,DOC047,IPD,Medication availability was delayed initially.,2,negative,-0.629,2024-07-10T14:02:18Z
+FB200153,P5590,DOC038,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,0.099,2024-03-06T15:19:00Z
+FB200154,P5959,DOC008,Laboratory,Room or department was clean and well maintained.,2,negative,-0.915,2024-09-10T23:28:20Z
+FB200155,P5681,DOC024,Laboratory,Cost felt slightly higher compared to other places.,1,negative,-0.526,2024-06-12T02:51:03Z
+FB200156,P5607,DOC013,Pharmacy,Good service overall but waiting time was slightly long.,3,neutral,-0.085,2024-05-03T04:24:38Z
+FB200157,P5053,DOC017,IPD,Very fast response and treatment offered immediately.,4,positive,0.845,2024-01-05T13:59:08Z
+FB200158,P5792,DOC026,IPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.621,2024-05-23T05:34:08Z
+FB200159,P5505,DOC048,General,Cost felt slightly higher compared to other places.,1,negative,-0.939,2024-08-15T02:34:59Z
+FB200160,P5616,DOC031,Surgery,Cost felt slightly higher compared to other places.,4,positive,0.629,2024-08-17T17:13:21Z
+FB200161,P5973,DOC026,OPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.849,2024-09-21T00:42:36Z
+FB200162,P5098,DOC034,Surgery,Reports were delayed causing change in follow-up plan.,2,negative,-0.64,2024-03-07T08:14:10Z
+FB200163,P5172,DOC001,Laboratory,Very fast response and treatment offered immediately.,3,neutral,-0.007,2024-07-22T10:27:25Z
+FB200164,P5822,DOC030,IPD,Very fast response and treatment offered immediately.,1,negative,-0.816,2024-06-19T06:21:13Z
+FB200165,P5124,DOC018,General,Good service overall but waiting time was slightly long.,4,positive,0.945,2024-03-07T06:48:14Z
+FB200166,P5838,DOC046,Radiology,Medication availability was delayed initially.,4,positive,0.617,2024-06-10T07:36:30Z
+FB200167,P5177,DOC034,Emergency,Facilities were well maintained and easy to access.,5,positive,0.608,2024-12-17T14:55:37Z
+FB200168,P5810,DOC035,IPD,Medication availability was delayed initially.,1,negative,-0.735,2024-02-21T07:39:49Z
+FB200169,P5352,DOC034,IPD,Medication availability was delayed initially.,5,positive,0.771,2024-10-01T18:22:59Z
+FB200170,P5960,DOC039,General,Cost felt slightly higher compared to other places.,5,positive,0.532,2024-03-16T14:07:15Z
+FB200171,P5453,DOC043,Surgery,Room or department was clean and well maintained.,1,negative,-0.458,2024-05-22T04:27:12Z
+FB200172,P5206,DOC043,General,Facilities were well maintained and easy to access.,4,positive,0.61,2024-06-03T03:43:02Z
+FB200173,P5073,DOC024,Pharmacy,Cost felt slightly higher compared to other places.,5,positive,0.823,2024-12-17T05:44:18Z
+FB200174,P5048,DOC042,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.442,2024-04-26T14:44:47Z
+FB200175,P5223,DOC015,Surgery,Staff behavior was excellent and guidance was proper.,1,negative,-0.923,2024-04-15T00:09:04Z
+FB200176,P5617,DOC040,General,Medication availability was delayed initially.,1,negative,-0.595,2024-01-28T07:46:32Z
+FB200177,P5014,DOC036,Emergency,Cost felt slightly higher compared to other places.,5,positive,0.541,2024-06-26T19:39:35Z
+FB200178,P5495,DOC046,Pharmacy,Room or department was clean and well maintained.,5,positive,0.547,2024-01-05T17:53:09Z
+FB200179,P5698,DOC003,General,Good service overall but waiting time was slightly long.,3,neutral,-0.098,2024-05-09T18:45:35Z
+FB200180,P5430,DOC042,Surgery,Reports were delayed causing change in follow-up plan.,4,positive,0.689,2024-08-17T19:30:07Z
+FB200181,P5976,DOC009,Radiology,Reports were delayed causing change in follow-up plan.,4,positive,0.982,2024-03-24T06:40:36Z
+FB200182,P5168,DOC019,Surgery,Medication availability was delayed initially.,1,negative,-0.234,2024-12-27T11:21:35Z
+FB200183,P5935,DOC009,Radiology,Good service overall but waiting time was slightly long.,2,negative,-0.631,2024-12-26T07:24:30Z
+FB200184,P5155,DOC016,OPD,Good service overall but waiting time was slightly long.,5,positive,0.543,2024-04-16T02:19:16Z
+FB200185,P5963,DOC047,OPD,Good service overall but waiting time was slightly long.,5,positive,0.8,2024-09-28T20:28:10Z
+FB200186,P5915,DOC038,General,Very fast response and treatment offered immediately.,4,positive,0.669,2024-05-11T13:53:22Z
+FB200187,P5908,DOC036,Emergency,Room or department was clean and well maintained.,3,neutral,-0.06,2024-09-05T09:01:47Z
+FB200188,P5967,DOC012,IPD,Good service overall but waiting time was slightly long.,2,negative,-0.572,2024-01-02T03:27:54Z
+FB200189,P5862,DOC001,Radiology,Room or department was clean and well maintained.,2,negative,-0.21,2024-09-18T09:42:46Z
+FB200190,P5291,DOC018,Laboratory,Staff behavior was excellent and guidance was proper.,2,negative,-0.229,2024-02-17T13:20:33Z
+FB200191,P5408,DOC012,Pharmacy,Reports were delayed causing change in follow-up plan.,2,negative,-0.578,2024-01-01T16:13:31Z
+FB200192,P5676,DOC031,Laboratory,Cost felt slightly higher compared to other places.,5,positive,0.84,2024-08-17T02:33:33Z
+FB200193,P5368,DOC016,Emergency,Cost felt slightly higher compared to other places.,4,positive,0.98,2024-03-28T11:35:02Z
+FB200194,P5543,DOC008,Surgery,Reports were delayed causing change in follow-up plan.,4,positive,0.867,2024-07-07T21:22:08Z
+FB200195,P5471,DOC026,IPD,Medication availability was delayed initially.,4,positive,0.843,2024-05-20T00:03:46Z
+FB200196,P5297,DOC018,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.711,2024-01-16T08:07:39Z
+FB200197,P5990,DOC028,Emergency,Reports were delayed causing change in follow-up plan.,4,positive,0.55,2024-07-16T19:31:59Z
+FB200198,P5489,DOC037,General,Very fast response and treatment offered immediately.,5,positive,0.975,2024-05-23T02:47:54Z
+FB200199,P5218,DOC010,IPD,Cost felt slightly higher compared to other places.,3,neutral,0.156,2024-01-03T00:19:25Z
+FB200200,P5294,DOC026,Surgery,Room or department was clean and well maintained.,5,positive,0.643,2024-11-06T20:39:09Z
+FB200201,P5479,DOC014,IPD,Cost felt slightly higher compared to other places.,2,negative,-0.21,2024-01-25T17:36:29Z
+FB200202,P5132,DOC021,OPD,Cost felt slightly higher compared to other places.,5,positive,0.843,2024-09-01T23:44:57Z
+FB200203,P5534,DOC029,Surgery,Medication availability was delayed initially.,3,neutral,0.1,2024-02-05T04:29:43Z
+FB200204,P5169,DOC050,Surgery,Cost felt slightly higher compared to other places.,2,negative,-0.928,2024-12-23T08:31:53Z
+FB200205,P5250,DOC043,Emergency,Cost felt slightly higher compared to other places.,2,negative,-0.656,2024-06-17T19:01:42Z
+FB200206,P5756,DOC030,IPD,Good service overall but waiting time was slightly long.,3,neutral,0.185,2024-03-14T12:05:57Z
+FB200207,P5969,DOC034,Pharmacy,Medication availability was delayed initially.,3,neutral,0.08,2024-02-01T08:55:26Z
+FB200208,P5307,DOC047,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.727,2024-06-19T09:04:17Z
+FB200209,P5934,DOC047,Emergency,Very fast response and treatment offered immediately.,4,positive,0.727,2024-12-18T04:34:04Z
+FB200210,P5648,DOC001,General,Very fast response and treatment offered immediately.,3,neutral,0.199,2024-09-06T03:37:54Z
+FB200211,P5300,DOC036,Surgery,Good service overall but waiting time was slightly long.,1,negative,-0.554,2024-04-09T04:07:55Z
+FB200212,P5333,DOC018,Radiology,Very fast response and treatment offered immediately.,1,negative,-0.912,2024-04-17T19:52:25Z
+FB200213,P5018,DOC026,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,-0.012,2024-05-31T02:38:38Z
+FB200214,P5874,DOC047,Laboratory,Medication availability was delayed initially.,4,positive,0.554,2024-09-07T05:38:53Z
+FB200215,P5299,DOC034,General,Cost felt slightly higher compared to other places.,5,positive,0.505,2024-06-03T09:37:29Z
+FB200216,P5092,DOC009,IPD,Very fast response and treatment offered immediately.,4,positive,0.73,2024-03-11T22:29:54Z
+FB200217,P5420,DOC017,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,-0.041,2024-10-10T11:28:27Z
+FB200218,P5870,DOC046,Surgery,Medication availability was delayed initially.,3,neutral,0.003,2024-07-24T06:33:10Z
+FB200219,P5349,DOC037,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.766,2024-01-27T23:20:43Z
+FB200220,P5587,DOC049,IPD,Facilities were well maintained and easy to access.,4,positive,0.766,2024-12-20T14:53:37Z
+FB200221,P5810,DOC040,General,Cost felt slightly higher compared to other places.,4,positive,0.671,2024-10-12T20:05:45Z
+FB200222,P5243,DOC019,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.663,2024-08-08T11:07:46Z
+FB200223,P5541,DOC029,Emergency,Good service overall but waiting time was slightly long.,1,negative,-0.424,2024-11-05T15:50:08Z
+FB200224,P5971,DOC019,Surgery,Reports were delayed causing change in follow-up plan.,3,neutral,0.067,2024-07-27T10:44:23Z
+FB200225,P5348,DOC009,Emergency,Good service overall but waiting time was slightly long.,3,neutral,0.047,2024-05-23T06:26:40Z
+FB200226,P5412,DOC019,OPD,Cost felt slightly higher compared to other places.,4,positive,0.765,2024-08-17T13:11:47Z
+FB200227,P5353,DOC007,Laboratory,Staff behavior was excellent and guidance was proper.,5,positive,0.668,2024-04-27T17:21:14Z
+FB200228,P5867,DOC020,OPD,Reports were delayed causing change in follow-up plan.,4,positive,0.81,2024-01-25T00:08:48Z
+FB200229,P5646,DOC013,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.706,2024-09-28T17:20:22Z
+FB200230,P5467,DOC026,General,Good service overall but waiting time was slightly long.,5,positive,0.501,2024-02-16T02:04:46Z
+FB200231,P5919,DOC039,OPD,Room or department was clean and well maintained.,1,negative,-0.339,2024-08-29T12:44:18Z
+FB200232,P5066,DOC005,General,Reports were delayed causing change in follow-up plan.,1,negative,-0.943,2024-07-05T22:04:51Z
+FB200233,P5884,DOC004,Radiology,Cost felt slightly higher compared to other places.,3,neutral,0.004,2024-05-02T19:13:38Z
+FB200234,P5508,DOC029,OPD,Cost felt slightly higher compared to other places.,1,negative,-0.464,2024-06-17T11:44:31Z
+FB200235,P5413,DOC002,Laboratory,Reports were delayed causing change in follow-up plan.,3,neutral,0.174,2024-05-09T08:20:27Z
+FB200236,P5636,DOC030,Radiology,Staff behavior was excellent and guidance was proper.,4,positive,0.704,2024-10-03T10:00:39Z
+FB200237,P5734,DOC042,Laboratory,Cost felt slightly higher compared to other places.,5,positive,0.574,2024-07-07T18:10:02Z
+FB200238,P5071,DOC049,General,Good service overall but waiting time was slightly long.,4,positive,0.809,2024-04-14T19:28:46Z
+FB200239,P5547,DOC046,OPD,Facilities were well maintained and easy to access.,2,negative,-0.837,2024-02-08T08:53:37Z
+FB200240,P5691,DOC013,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,-0.06,2024-09-16T05:57:26Z
+FB200241,P5383,DOC032,General,Medication availability was delayed initially.,3,neutral,0.161,2024-05-17T13:07:58Z
+FB200242,P5090,DOC038,Surgery,Reports were delayed causing change in follow-up plan.,1,negative,-0.674,2024-05-11T17:15:17Z
+FB200243,P5792,DOC043,Emergency,Very fast response and treatment offered immediately.,5,positive,0.724,2024-12-13T04:13:54Z
+FB200244,P5834,DOC047,Surgery,Good service overall but waiting time was slightly long.,2,negative,-0.425,2024-11-24T08:15:06Z
+FB200245,P5436,DOC038,IPD,Good service overall but waiting time was slightly long.,3,neutral,0.154,2024-12-27T18:03:42Z
+FB200246,P5619,DOC047,Laboratory,Room or department was clean and well maintained.,2,negative,-0.891,2024-02-20T15:00:54Z
+FB200247,P5750,DOC044,Radiology,Facilities were well maintained and easy to access.,5,positive,0.817,2024-09-07T22:20:55Z
+FB200248,P5096,DOC034,IPD,Very fast response and treatment offered immediately.,4,positive,0.947,2024-03-25T02:25:46Z
+FB200249,P5418,DOC047,Laboratory,Room or department was clean and well maintained.,2,negative,-0.927,2024-07-21T15:08:06Z
+FB200250,P5046,DOC012,Pharmacy,Room or department was clean and well maintained.,3,neutral,0.069,2024-11-22T22:18:06Z
+FB200251,P5912,DOC004,OPD,Very fast response and treatment offered immediately.,1,negative,-0.986,2024-09-28T15:15:20Z
+FB200252,P5634,DOC031,Surgery,Cost felt slightly higher compared to other places.,4,positive,0.96,2024-01-25T05:11:56Z
+FB200253,P5877,DOC018,OPD,Facilities were well maintained and easy to access.,1,negative,-0.425,2024-05-22T04:00:39Z
+FB200254,P5447,DOC031,IPD,Very fast response and treatment offered immediately.,4,positive,0.813,2024-12-27T16:38:31Z
+FB200255,P5164,DOC009,Pharmacy,Room or department was clean and well maintained.,3,neutral,0.125,2024-02-03T09:51:30Z
+FB200256,P5267,DOC017,General,Medication availability was delayed initially.,3,neutral,0.147,2024-11-02T19:18:23Z
+FB200257,P5847,DOC035,General,Medication availability was delayed initially.,2,negative,-0.641,2024-04-20T01:54:44Z
+FB200258,P5339,DOC042,Laboratory,Cost felt slightly higher compared to other places.,2,negative,-0.503,2024-10-02T14:56:18Z
+FB200259,P5069,DOC048,Laboratory,Medication availability was delayed initially.,2,negative,-0.314,2024-09-24T13:24:36Z
+FB200260,P5803,DOC046,General,Good service overall but waiting time was slightly long.,3,neutral,0.119,2024-03-29T14:13:01Z
+FB200261,P5584,DOC004,Surgery,Reports were delayed causing change in follow-up plan.,5,positive,0.961,2024-10-30T18:06:37Z
+FB200262,P5758,DOC026,IPD,Facilities were well maintained and easy to access.,3,neutral,0.126,2024-03-30T21:58:54Z
+FB200263,P5212,DOC031,Emergency,Good service overall but waiting time was slightly long.,3,neutral,0.078,2024-06-29T23:27:18Z
+FB200264,P5352,DOC009,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.588,2024-05-14T20:58:08Z
+FB200265,P5927,DOC044,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.434,2024-09-07T04:40:47Z
+FB200266,P5906,DOC019,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.625,2024-07-06T09:21:25Z
+FB200267,P5595,DOC023,IPD,Very fast response and treatment offered immediately.,3,neutral,0.096,2024-04-18T11:29:45Z
+FB200268,P5520,DOC019,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.585,2024-07-04T09:24:30Z
+FB200269,P5687,DOC041,Pharmacy,Medication availability was delayed initially.,3,neutral,0.162,2024-04-08T20:42:06Z
+FB200270,P5447,DOC020,Radiology,Room or department was clean and well maintained.,1,negative,-0.758,2024-12-24T18:47:45Z
+FB200271,P5019,DOC020,OPD,Good service overall but waiting time was slightly long.,3,neutral,-0.049,2024-03-15T05:57:09Z
+FB200272,P5086,DOC001,IPD,Cost felt slightly higher compared to other places.,4,positive,0.871,2024-01-11T08:39:45Z
+FB200273,P5997,DOC010,Pharmacy,Good service overall but waiting time was slightly long.,5,positive,0.62,2024-07-26T01:15:03Z
+FB200274,P5206,DOC005,Pharmacy,Staff behavior was excellent and guidance was proper.,4,positive,0.708,2024-09-28T04:26:55Z
+FB200275,P5954,DOC042,OPD,Room or department was clean and well maintained.,4,positive,0.595,2024-07-17T02:32:38Z
+FB200276,P5045,DOC043,IPD,Reports were delayed causing change in follow-up plan.,5,positive,0.96,2024-12-28T22:13:21Z
+FB200277,P5416,DOC019,OPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.571,2024-12-07T06:02:23Z
+FB200278,P5306,DOC026,Pharmacy,Staff behavior was excellent and guidance was proper.,5,positive,0.815,2024-11-20T18:12:19Z
+FB200279,P5879,DOC035,Radiology,Room or department was clean and well maintained.,5,positive,0.52,2024-07-13T01:31:28Z
+FB200280,P5999,DOC046,Laboratory,Facilities were well maintained and easy to access.,1,negative,-0.437,2024-04-12T09:28:15Z
+FB200281,P5698,DOC023,Emergency,Reports were delayed causing change in follow-up plan.,4,positive,0.957,2024-07-12T08:30:52Z
+FB200282,P5352,DOC021,Pharmacy,Room or department was clean and well maintained.,5,positive,0.675,2024-03-13T09:08:33Z
+FB200283,P5213,DOC029,Surgery,Room or department was clean and well maintained.,5,positive,0.547,2024-12-25T16:57:29Z
+FB200284,P5749,DOC005,General,Reports were delayed causing change in follow-up plan.,3,neutral,0.072,2024-09-23T14:37:51Z
+FB200285,P5240,DOC042,IPD,Very fast response and treatment offered immediately.,5,positive,0.845,2024-07-30T22:44:37Z
+FB200286,P5981,DOC005,Surgery,Room or department was clean and well maintained.,1,negative,-0.662,2024-11-05T03:05:03Z
+FB200287,P5299,DOC035,General,Facilities were well maintained and easy to access.,4,positive,0.93,2024-12-15T18:22:18Z
+FB200288,P5748,DOC040,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.343,2024-09-07T00:33:54Z
+FB200289,P5930,DOC001,General,Cost felt slightly higher compared to other places.,4,positive,0.577,2024-04-09T17:49:03Z
+FB200290,P5836,DOC013,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.409,2024-01-04T05:16:57Z
+FB200291,P5253,DOC015,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.654,2024-02-06T06:44:04Z
+FB200292,P5729,DOC035,Pharmacy,Medication availability was delayed initially.,2,negative,-0.907,2024-10-15T04:01:18Z
+FB200293,P5969,DOC003,Surgery,Very fast response and treatment offered immediately.,3,neutral,0.194,2024-04-27T21:27:34Z
+FB200294,P5488,DOC039,Laboratory,Very fast response and treatment offered immediately.,2,negative,-0.552,2024-09-12T18:37:36Z
+FB200295,P5009,DOC046,IPD,Very fast response and treatment offered immediately.,3,neutral,-0.016,2024-04-06T17:16:36Z
+FB200296,P5891,DOC007,Radiology,Room or department was clean and well maintained.,3,neutral,0.038,2024-09-19T14:52:51Z
+FB200297,P5169,DOC022,Emergency,Very fast response and treatment offered immediately.,4,positive,0.808,2024-04-07T08:36:42Z
+FB200298,P5775,DOC005,Radiology,Room or department was clean and well maintained.,5,positive,0.895,2024-06-01T02:41:50Z
+FB200299,P5707,DOC040,Laboratory,Reports were delayed causing change in follow-up plan.,4,positive,0.598,2024-08-10T22:39:46Z
+FB200300,P5239,DOC024,Surgery,Reports were delayed causing change in follow-up plan.,4,positive,0.593,2024-05-14T00:35:57Z
+FB200301,P5545,DOC040,OPD,Staff behavior was excellent and guidance was proper.,3,neutral,0.003,2024-09-04T04:18:19Z
+FB200302,P5542,DOC023,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.776,2024-11-06T15:28:12Z
+FB200303,P5606,DOC034,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.958,2024-10-25T16:11:51Z
+FB200304,P5703,DOC024,Radiology,Medication availability was delayed initially.,4,positive,0.885,2024-05-11T03:34:41Z
+FB200305,P5908,DOC018,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.667,2024-11-18T18:51:59Z
+FB200306,P5304,DOC015,Pharmacy,Staff behavior was excellent and guidance was proper.,1,negative,-0.295,2024-07-29T17:12:33Z
+FB200307,P5078,DOC022,OPD,Reports were delayed causing change in follow-up plan.,3,neutral,-0.05,2024-06-30T10:17:55Z
+FB200308,P5411,DOC039,Pharmacy,Facilities were well maintained and easy to access.,2,negative,-0.367,2024-09-26T11:42:44Z
+FB200309,P5040,DOC030,OPD,Good service overall but waiting time was slightly long.,2,negative,-0.992,2024-03-30T22:58:10Z
+FB200310,P5024,DOC005,General,Room or department was clean and well maintained.,1,negative,-0.686,2024-04-02T04:51:35Z
+FB200311,P5706,DOC016,General,Good service overall but waiting time was slightly long.,4,positive,0.526,2024-05-02T15:20:45Z
+FB200312,P5685,DOC028,Pharmacy,Room or department was clean and well maintained.,4,positive,0.591,2024-09-10T07:10:51Z
+FB200313,P5331,DOC040,General,Medication availability was delayed initially.,1,negative,-0.584,2024-01-31T06:33:56Z
+FB200314,P5363,DOC033,IPD,Facilities were well maintained and easy to access.,4,positive,0.814,2024-09-26T23:13:53Z
+FB200315,P5736,DOC020,Emergency,Reports were delayed causing change in follow-up plan.,3,neutral,0.042,2024-05-20T08:28:33Z
+FB200316,P5152,DOC015,Radiology,Staff behavior was excellent and guidance was proper.,2,negative,-0.299,2024-12-05T21:46:36Z
+FB200317,P5741,DOC016,OPD,Cost felt slightly higher compared to other places.,3,neutral,-0.062,2024-01-15T22:53:24Z
+FB200318,P5268,DOC013,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.933,2024-07-01T18:16:46Z
+FB200319,P5148,DOC045,IPD,Facilities were well maintained and easy to access.,5,positive,0.992,2024-01-06T04:21:24Z
+FB200320,P5816,DOC001,Pharmacy,Good service overall but waiting time was slightly long.,1,negative,-0.567,2024-08-15T17:33:49Z
+FB200321,P5227,DOC046,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.968,2024-12-09T09:10:00Z
+FB200322,P5243,DOC001,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.247,2024-01-08T10:54:36Z
+FB200323,P5887,DOC041,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,-0.077,2024-02-19T05:41:55Z
+FB200324,P5918,DOC034,General,Cost felt slightly higher compared to other places.,4,positive,0.682,2024-06-08T05:44:44Z
+FB200325,P5015,DOC008,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.778,2024-01-08T21:36:18Z
+FB200326,P5293,DOC034,Surgery,Cost felt slightly higher compared to other places.,1,negative,-0.613,2024-06-03T10:33:59Z
+FB200327,P5330,DOC046,General,Good service overall but waiting time was slightly long.,5,positive,0.817,2024-10-17T20:43:25Z
+FB200328,P5278,DOC030,Emergency,Medication availability was delayed initially.,2,negative,-0.301,2024-07-30T04:12:01Z
+FB200329,P5368,DOC009,OPD,Room or department was clean and well maintained.,5,positive,0.647,2024-01-28T21:20:47Z
+FB200330,P5361,DOC007,General,Very fast response and treatment offered immediately.,3,neutral,0.103,2024-02-13T01:26:53Z
+FB200331,P5016,DOC025,Surgery,Medication availability was delayed initially.,1,negative,-0.784,2024-03-23T11:06:39Z
+FB200332,P5101,DOC036,OPD,Facilities were well maintained and easy to access.,2,negative,-0.652,2024-07-25T17:31:20Z
+FB200333,P5960,DOC006,IPD,Cost felt slightly higher compared to other places.,1,negative,-0.928,2024-04-30T07:17:25Z
+FB200334,P5099,DOC041,Radiology,Medication availability was delayed initially.,5,positive,0.985,2024-06-16T14:02:26Z
+FB200335,P5536,DOC008,Surgery,Room or department was clean and well maintained.,5,positive,0.987,2024-07-07T15:32:00Z
+FB200336,P5893,DOC050,Radiology,Facilities were well maintained and easy to access.,4,positive,0.861,2024-12-08T23:12:31Z
+FB200337,P5684,DOC013,Radiology,Good service overall but waiting time was slightly long.,5,positive,0.933,2024-01-26T08:31:58Z
+FB200338,P5159,DOC029,Surgery,Very fast response and treatment offered immediately.,4,positive,0.591,2024-01-14T14:09:51Z
+FB200339,P5852,DOC032,IPD,Medication availability was delayed initially.,3,neutral,0.191,2024-11-07T13:09:31Z
+FB200340,P5701,DOC022,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,0.198,2024-12-16T03:59:02Z
+FB200341,P5959,DOC016,Laboratory,Medication availability was delayed initially.,2,negative,-0.857,2024-09-16T10:22:36Z
+FB200342,P5644,DOC042,OPD,Facilities were well maintained and easy to access.,1,negative,-0.399,2024-12-29T03:13:00Z
+FB200343,P5624,DOC023,OPD,Facilities were well maintained and easy to access.,2,negative,-0.278,2024-06-06T05:51:03Z
+FB200344,P5990,DOC029,OPD,Reports were delayed causing change in follow-up plan.,3,neutral,0.168,2024-08-05T21:13:18Z
+FB200345,P5853,DOC031,Pharmacy,Cost felt slightly higher compared to other places.,5,positive,0.829,2024-02-07T14:25:55Z
+FB200346,P5886,DOC017,Laboratory,Cost felt slightly higher compared to other places.,4,positive,0.791,2024-12-22T17:01:40Z
+FB200347,P5355,DOC026,General,Reports were delayed causing change in follow-up plan.,2,negative,-0.206,2024-08-31T08:56:23Z
+FB200348,P5920,DOC045,General,Facilities were well maintained and easy to access.,3,neutral,0.036,2024-02-13T21:16:19Z
+FB200349,P5756,DOC042,IPD,Room or department was clean and well maintained.,5,positive,0.636,2024-09-19T05:54:46Z
+FB200350,P5051,DOC015,Laboratory,Very fast response and treatment offered immediately.,3,neutral,0.006,2024-08-09T14:48:36Z
+FB200351,P5785,DOC011,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.744,2024-10-24T13:09:12Z
+FB200352,P5928,DOC019,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.689,2024-01-15T21:34:10Z
+FB200353,P5551,DOC035,Radiology,Good service overall but waiting time was slightly long.,3,neutral,-0.085,2024-07-26T17:11:10Z
+FB200354,P5465,DOC012,OPD,Good service overall but waiting time was slightly long.,4,positive,0.939,2024-02-08T03:37:03Z
+FB200355,P5016,DOC047,IPD,Medication availability was delayed initially.,1,negative,-0.571,2024-08-29T02:08:13Z
+FB200356,P5794,DOC044,General,Room or department was clean and well maintained.,1,negative,-0.633,2024-12-20T21:01:26Z
+FB200357,P5228,DOC031,Radiology,Cost felt slightly higher compared to other places.,3,neutral,-0.016,2024-10-17T09:58:35Z
+FB200358,P5759,DOC035,Laboratory,Room or department was clean and well maintained.,1,negative,-0.633,2024-01-25T11:39:40Z
+FB200359,P5662,DOC047,Pharmacy,Medication availability was delayed initially.,5,positive,0.973,2024-09-04T14:20:23Z
+FB200360,P5899,DOC012,Surgery,Very fast response and treatment offered immediately.,5,positive,0.918,2024-01-27T18:00:55Z
+FB200361,P5920,DOC018,Radiology,Medication availability was delayed initially.,3,neutral,0.061,2024-10-10T02:05:53Z
+FB200362,P5888,DOC027,General,Very fast response and treatment offered immediately.,5,positive,0.583,2024-02-29T03:33:23Z
+FB200363,P5635,DOC001,OPD,Cost felt slightly higher compared to other places.,4,positive,0.713,2024-12-29T00:39:03Z
+FB200364,P5699,DOC029,OPD,Good service overall but waiting time was slightly long.,4,positive,0.888,2024-12-04T01:45:29Z
+FB200365,P5055,DOC045,OPD,Staff behavior was excellent and guidance was proper.,4,positive,0.569,2024-11-28T00:40:44Z
+FB200366,P5216,DOC030,Laboratory,Staff behavior was excellent and guidance was proper.,1,negative,-0.825,2024-10-26T22:10:07Z
+FB200367,P5297,DOC015,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.585,2024-07-26T07:35:50Z
+FB200368,P5747,DOC018,Surgery,Room or department was clean and well maintained.,4,positive,0.956,2024-03-03T04:45:44Z
+FB200369,P5598,DOC043,Pharmacy,Reports were delayed causing change in follow-up plan.,3,neutral,0.093,2024-10-14T14:45:04Z
+FB200370,P5430,DOC009,OPD,Good service overall but waiting time was slightly long.,2,negative,-0.274,2024-11-16T00:39:12Z
+FB200371,P5287,DOC001,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.89,2024-09-10T10:24:05Z
+FB200372,P5065,DOC031,General,Very fast response and treatment offered immediately.,4,positive,0.87,2024-01-11T19:51:26Z
+FB200373,P5785,DOC011,IPD,Facilities were well maintained and easy to access.,4,positive,0.848,2024-02-18T00:29:22Z
+FB200374,P5763,DOC047,General,Reports were delayed causing change in follow-up plan.,1,negative,-0.95,2024-05-16T16:46:55Z
+FB200375,P5708,DOC019,Pharmacy,Good service overall but waiting time was slightly long.,1,negative,-0.688,2024-10-29T09:25:00Z
+FB200376,P5968,DOC049,OPD,Room or department was clean and well maintained.,3,neutral,0.003,2024-08-01T13:47:36Z
+FB200377,P5296,DOC006,Laboratory,Staff behavior was excellent and guidance was proper.,1,negative,-0.336,2024-01-28T22:00:51Z
+FB200378,P5110,DOC041,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.77,2024-02-14T19:32:17Z
+FB200379,P5037,DOC024,Radiology,Staff behavior was excellent and guidance was proper.,4,positive,0.502,2024-12-14T11:46:49Z
+FB200380,P5581,DOC002,Radiology,Facilities were well maintained and easy to access.,5,positive,0.7,2024-12-26T15:27:40Z
+FB200381,P5593,DOC044,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.821,2024-10-26T10:22:24Z
+FB200382,P5691,DOC026,Surgery,Staff behavior was excellent and guidance was proper.,1,negative,-0.917,2024-03-01T14:18:41Z
+FB200383,P5673,DOC025,IPD,Cost felt slightly higher compared to other places.,3,neutral,-0.082,2024-01-19T10:48:54Z
+FB200384,P5811,DOC017,Pharmacy,Room or department was clean and well maintained.,2,negative,-0.856,2024-08-23T11:49:53Z
+FB200385,P5657,DOC011,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.896,2024-07-25T22:33:17Z
+FB200386,P5615,DOC012,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.836,2024-09-17T09:58:48Z
+FB200387,P5495,DOC019,Laboratory,Very fast response and treatment offered immediately.,3,neutral,-0.076,2024-12-04T15:41:22Z
+FB200388,P5097,DOC038,Radiology,Cost felt slightly higher compared to other places.,2,negative,-0.555,2024-01-08T09:35:18Z
+FB200389,P5183,DOC017,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.256,2024-11-11T21:07:31Z
+FB200390,P5456,DOC034,General,Medication availability was delayed initially.,3,neutral,-0.098,2024-12-06T16:13:51Z
+FB200391,P5304,DOC016,Surgery,Reports were delayed causing change in follow-up plan.,5,positive,0.97,2024-07-27T22:24:53Z
+FB200392,P5487,DOC046,General,Medication availability was delayed initially.,3,neutral,-0.039,2024-04-08T21:37:34Z
+FB200393,P5667,DOC021,Radiology,Staff behavior was excellent and guidance was proper.,4,positive,0.694,2024-07-25T09:20:31Z
+FB200394,P5037,DOC008,IPD,Medication availability was delayed initially.,2,negative,-0.775,2024-01-04T00:39:34Z
+FB200395,P5831,DOC002,IPD,Room or department was clean and well maintained.,4,positive,0.768,2024-09-14T07:20:24Z
+FB200396,P5014,DOC047,Surgery,Room or department was clean and well maintained.,4,positive,0.774,2024-12-24T23:00:24Z
+FB200397,P5937,DOC046,General,Good service overall but waiting time was slightly long.,3,neutral,0.09,2024-12-04T08:16:46Z
+FB200398,P5263,DOC016,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.642,2024-09-25T09:39:06Z
+FB200399,P5688,DOC050,Laboratory,Room or department was clean and well maintained.,2,negative,-0.643,2024-11-18T11:54:40Z
+FB200400,P5661,DOC038,Laboratory,Facilities were well maintained and easy to access.,5,positive,0.888,2024-07-02T20:43:47Z
+FB200401,P5964,DOC022,Emergency,Facilities were well maintained and easy to access.,3,neutral,0.127,2024-12-31T12:11:18Z
+FB200402,P5360,DOC035,Emergency,Room or department was clean and well maintained.,5,positive,0.716,2024-01-15T20:06:54Z
+FB200403,P5541,DOC044,Radiology,Room or department was clean and well maintained.,4,positive,0.748,2024-11-28T08:16:19Z
+FB200404,P5790,DOC048,General,Room or department was clean and well maintained.,4,positive,0.524,2024-05-29T17:35:45Z
+FB200405,P5559,DOC007,IPD,Facilities were well maintained and easy to access.,1,negative,-0.556,2024-12-15T13:05:33Z
+FB200406,P5957,DOC036,Laboratory,Very fast response and treatment offered immediately.,3,neutral,-0.048,2024-03-02T14:00:06Z
+FB200407,P5069,DOC013,Laboratory,Good service overall but waiting time was slightly long.,4,positive,0.813,2024-06-02T00:33:48Z
+FB200408,P5198,DOC005,IPD,Facilities were well maintained and easy to access.,3,neutral,0.151,2024-10-12T23:38:45Z
+FB200409,P5800,DOC002,General,Very fast response and treatment offered immediately.,2,negative,-0.462,2024-06-07T15:07:41Z
+FB200410,P5816,DOC014,Radiology,Room or department was clean and well maintained.,1,negative,-0.802,2024-03-07T04:04:55Z
+FB200411,P5330,DOC013,Laboratory,Medication availability was delayed initially.,5,positive,0.953,2024-07-30T05:53:58Z
+FB200412,P5144,DOC046,Surgery,Staff behavior was excellent and guidance was proper.,2,negative,-0.219,2024-03-19T04:45:42Z
+FB200413,P5393,DOC012,Pharmacy,Staff behavior was excellent and guidance was proper.,4,positive,0.675,2024-10-13T22:36:33Z
+FB200414,P5524,DOC012,Pharmacy,Medication availability was delayed initially.,4,positive,0.83,2024-08-27T04:04:14Z
+FB200415,P5153,DOC002,IPD,Staff behavior was excellent and guidance was proper.,4,positive,0.916,2024-01-10T19:15:39Z
+FB200416,P5289,DOC016,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.646,2024-10-03T09:06:09Z
+FB200417,P5630,DOC040,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,0.125,2024-08-13T13:49:38Z
+FB200418,P5354,DOC041,Radiology,Medication availability was delayed initially.,2,negative,-0.928,2024-08-22T23:03:46Z
+FB200419,P5051,DOC039,General,Facilities were well maintained and easy to access.,4,positive,0.503,2024-04-13T10:53:40Z
+FB200420,P5737,DOC013,Laboratory,Very fast response and treatment offered immediately.,2,negative,-0.864,2024-11-18T00:00:14Z
+FB200421,P5855,DOC034,General,Cost felt slightly higher compared to other places.,2,negative,-0.984,2024-09-30T22:39:29Z
+FB200422,P5964,DOC010,OPD,Good service overall but waiting time was slightly long.,3,neutral,0.15,2024-06-25T03:21:07Z
+FB200423,P5541,DOC007,Laboratory,Good service overall but waiting time was slightly long.,4,positive,0.75,2024-02-27T23:51:32Z
+FB200424,P5856,DOC050,OPD,Medication availability was delayed initially.,1,negative,-0.832,2024-02-19T02:55:14Z
+FB200425,P5402,DOC034,Emergency,Good service overall but waiting time was slightly long.,3,neutral,0.156,2024-08-12T12:21:24Z
+FB200426,P5651,DOC019,Radiology,Staff behavior was excellent and guidance was proper.,1,negative,-0.979,2024-04-06T14:02:21Z
+FB200427,P5365,DOC012,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.805,2024-04-09T13:46:53Z
+FB200428,P5016,DOC013,OPD,Room or department was clean and well maintained.,5,positive,0.676,2024-11-23T23:37:02Z
+FB200429,P5745,DOC003,General,Very fast response and treatment offered immediately.,2,negative,-0.789,2024-10-21T12:53:34Z
+FB200430,P5679,DOC040,Laboratory,Staff behavior was excellent and guidance was proper.,3,neutral,0.057,2024-02-03T09:27:10Z
+FB200431,P5355,DOC008,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.979,2024-03-06T17:01:21Z
+FB200432,P5943,DOC010,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.907,2024-12-23T01:25:38Z
+FB200433,P5810,DOC040,IPD,Staff behavior was excellent and guidance was proper.,4,positive,0.694,2024-05-10T00:59:14Z
+FB200434,P5465,DOC022,Radiology,Staff behavior was excellent and guidance was proper.,5,positive,0.917,2024-01-03T10:22:57Z
+FB200435,P5152,DOC032,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.797,2024-09-05T22:33:06Z
+FB200436,P5735,DOC022,Laboratory,Reports were delayed causing change in follow-up plan.,1,negative,-0.825,2024-04-27T05:35:38Z
+FB200437,P5886,DOC006,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.309,2024-11-14T14:27:19Z
+FB200438,P5983,DOC028,General,Room or department was clean and well maintained.,3,neutral,0.004,2024-05-14T05:48:47Z
+FB200439,P5905,DOC006,Emergency,Good service overall but waiting time was slightly long.,1,negative,-0.779,2024-03-06T15:08:39Z
+FB200440,P5536,DOC027,IPD,Very fast response and treatment offered immediately.,2,negative,-0.653,2024-07-08T11:03:55Z
+FB200441,P5737,DOC007,General,Facilities were well maintained and easy to access.,1,negative,-0.273,2024-12-20T17:44:22Z
+FB200442,P5358,DOC011,Radiology,Staff behavior was excellent and guidance was proper.,5,positive,0.808,2024-09-01T06:45:47Z
+FB200443,P5514,DOC050,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.519,2024-12-02T02:52:04Z
+FB200444,P5156,DOC037,Emergency,Good service overall but waiting time was slightly long.,5,positive,0.537,2024-10-24T22:55:25Z
+FB200445,P5530,DOC017,Pharmacy,Room or department was clean and well maintained.,3,neutral,0.067,2024-08-06T20:05:25Z
+FB200446,P5942,DOC032,General,Medication availability was delayed initially.,5,positive,0.832,2024-06-18T01:26:53Z
+FB200447,P5265,DOC028,General,Medication availability was delayed initially.,4,positive,0.827,2024-02-13T18:26:19Z
+FB200448,P5086,DOC025,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.701,2024-03-25T02:22:31Z
+FB200449,P5005,DOC023,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,0.17,2024-05-26T04:10:07Z
+FB200450,P5670,DOC024,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.781,2024-05-07T20:13:00Z
+FB200451,P5408,DOC005,OPD,Staff behavior was excellent and guidance was proper.,4,positive,0.516,2024-05-14T01:57:04Z
+FB200452,P5654,DOC032,General,Staff behavior was excellent and guidance was proper.,4,positive,0.894,2024-08-08T07:46:39Z
+FB200453,P5389,DOC031,Pharmacy,Facilities were well maintained and easy to access.,1,negative,-0.858,2024-03-28T10:59:04Z
+FB200454,P5347,DOC037,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.255,2024-08-08T01:58:39Z
+FB200455,P5218,DOC012,Laboratory,Cost felt slightly higher compared to other places.,5,positive,0.875,2024-03-29T01:48:00Z
+FB200456,P5971,DOC023,OPD,Cost felt slightly higher compared to other places.,5,positive,0.81,2024-06-12T06:19:15Z
+FB200457,P5762,DOC030,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.758,2024-08-29T10:32:07Z
+FB200458,P5201,DOC010,Pharmacy,Cost felt slightly higher compared to other places.,4,positive,0.667,2024-05-26T03:44:41Z
+FB200459,P5670,DOC049,Surgery,Staff behavior was excellent and guidance was proper.,5,positive,0.912,2024-10-22T08:37:24Z
+FB200460,P5471,DOC010,Surgery,Cost felt slightly higher compared to other places.,5,positive,0.554,2024-07-08T14:18:18Z
+FB200461,P5097,DOC036,Laboratory,Medication availability was delayed initially.,2,negative,-0.725,2024-12-25T17:16:04Z
+FB200462,P5678,DOC029,Surgery,Facilities were well maintained and easy to access.,1,negative,-0.898,2024-08-16T07:49:02Z
+FB200463,P5471,DOC033,Radiology,Room or department was clean and well maintained.,4,positive,0.612,2024-04-21T02:32:30Z
+FB200464,P5587,DOC020,General,Very fast response and treatment offered immediately.,3,neutral,-0.073,2024-05-13T18:30:50Z
+FB200465,P5763,DOC046,IPD,Medication availability was delayed initially.,5,positive,0.537,2024-11-05T03:54:04Z
+FB200466,P5427,DOC018,Laboratory,Reports were delayed causing change in follow-up plan.,3,neutral,0.185,2024-02-23T01:26:10Z
+FB200467,P5828,DOC010,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.48,2024-07-22T02:46:17Z
+FB200468,P5319,DOC049,Surgery,Facilities were well maintained and easy to access.,2,negative,-0.917,2024-12-12T22:54:29Z
+FB200469,P5242,DOC008,OPD,Room or department was clean and well maintained.,2,negative,-0.312,2024-03-04T17:49:42Z
+FB200470,P5213,DOC018,OPD,Facilities were well maintained and easy to access.,3,neutral,0.174,2024-10-30T08:21:43Z
+FB200471,P5605,DOC037,General,Cost felt slightly higher compared to other places.,4,positive,0.73,2024-02-03T15:58:33Z
+FB200472,P5293,DOC018,Pharmacy,Medication availability was delayed initially.,4,positive,0.616,2024-03-24T13:41:43Z
+FB200473,P5033,DOC048,Laboratory,Very fast response and treatment offered immediately.,3,neutral,0.016,2024-07-02T12:45:10Z
+FB200474,P5557,DOC038,Surgery,Medication availability was delayed initially.,5,positive,0.976,2024-10-07T04:58:34Z
+FB200475,P5064,DOC004,General,Very fast response and treatment offered immediately.,4,positive,0.532,2024-04-15T03:30:49Z
+FB200476,P5434,DOC018,Radiology,Very fast response and treatment offered immediately.,2,negative,-0.321,2024-08-16T01:45:10Z
+FB200477,P5817,DOC027,OPD,Medication availability was delayed initially.,3,neutral,0.04,2024-03-02T06:57:51Z
+FB200478,P5190,DOC008,OPD,Room or department was clean and well maintained.,4,positive,0.991,2024-10-24T07:57:11Z
+FB200479,P5932,DOC050,OPD,Staff behavior was excellent and guidance was proper.,3,neutral,0.151,2024-01-15T20:08:22Z
+FB200480,P5168,DOC011,OPD,Room or department was clean and well maintained.,2,negative,-0.909,2024-10-10T09:13:03Z
+FB200481,P5370,DOC006,Surgery,Staff behavior was excellent and guidance was proper.,4,positive,0.856,2024-07-29T09:48:35Z
+FB200482,P5010,DOC020,Radiology,Very fast response and treatment offered immediately.,1,negative,-0.913,2024-05-08T09:54:35Z
+FB200483,P5629,DOC036,Emergency,Very fast response and treatment offered immediately.,4,positive,0.609,2024-12-13T06:32:30Z
+FB200484,P5929,DOC014,Radiology,Medication availability was delayed initially.,3,neutral,-0.009,2024-10-29T07:41:23Z
+FB200485,P5215,DOC033,IPD,Reports were delayed causing change in follow-up plan.,5,positive,0.55,2024-06-25T19:44:47Z
+FB200486,P5560,DOC003,IPD,Medication availability was delayed initially.,4,positive,0.922,2024-04-13T15:21:21Z
+FB200487,P5071,DOC045,IPD,Cost felt slightly higher compared to other places.,5,positive,0.881,2024-08-27T07:26:25Z
+FB200488,P5352,DOC027,Radiology,Good service overall but waiting time was slightly long.,3,neutral,-0.087,2024-01-05T09:37:28Z
+FB200489,P5134,DOC026,Surgery,Facilities were well maintained and easy to access.,4,positive,0.565,2024-04-27T22:06:42Z
+FB200490,P5057,DOC045,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.264,2024-01-24T12:52:31Z
+FB200491,P5225,DOC017,Emergency,Good service overall but waiting time was slightly long.,1,negative,-0.808,2024-08-28T20:22:14Z
+FB200492,P5178,DOC008,General,Facilities were well maintained and easy to access.,5,positive,0.876,2024-10-10T02:59:21Z
+FB200493,P5535,DOC043,Pharmacy,Good service overall but waiting time was slightly long.,3,neutral,-0.017,2024-06-22T21:08:36Z
+FB200494,P5917,DOC015,Laboratory,Room or department was clean and well maintained.,1,negative,-0.381,2024-09-05T12:16:10Z
+FB200495,P5047,DOC001,Pharmacy,Facilities were well maintained and easy to access.,1,negative,-0.217,2024-01-08T04:04:59Z
+FB200496,P5216,DOC010,OPD,Good service overall but waiting time was slightly long.,5,positive,0.976,2024-01-08T03:35:00Z
+FB200497,P5083,DOC017,Surgery,Good service overall but waiting time was slightly long.,3,neutral,0.062,2024-10-13T03:21:35Z
+FB200498,P5455,DOC037,Surgery,Room or department was clean and well maintained.,2,negative,-0.265,2024-08-23T18:43:00Z
+FB200499,P5260,DOC031,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.786,2024-07-16T20:11:45Z
+FB200500,P5943,DOC014,Radiology,Medication availability was delayed initially.,5,positive,0.764,2024-04-16T21:01:46Z
+FB200501,P5969,DOC031,Emergency,Staff behavior was excellent and guidance was proper.,5,positive,0.696,2024-03-23T06:01:04Z
+FB200502,P5778,DOC043,IPD,Facilities were well maintained and easy to access.,2,negative,-0.888,2024-01-12T17:03:32Z
+FB200503,P5886,DOC040,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.794,2024-03-15T02:30:24Z
+FB200504,P5909,DOC016,Laboratory,Good service overall but waiting time was slightly long.,2,negative,-0.985,2024-06-02T09:27:59Z
+FB200505,P5553,DOC011,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.711,2024-09-30T10:08:27Z
+FB200506,P5968,DOC036,General,Very fast response and treatment offered immediately.,1,negative,-0.742,2024-06-16T05:52:28Z
+FB200507,P5352,DOC020,Pharmacy,Good service overall but waiting time was slightly long.,5,positive,0.731,2024-03-22T14:37:09Z
+FB200508,P5780,DOC036,General,Reports were delayed causing change in follow-up plan.,3,neutral,0.173,2024-06-20T21:24:27Z
+FB200509,P5894,DOC006,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.352,2024-09-23T22:08:58Z
+FB200510,P5802,DOC011,General,Very fast response and treatment offered immediately.,1,negative,-0.225,2024-07-20T05:04:15Z
+FB200511,P5353,DOC004,Pharmacy,Good service overall but waiting time was slightly long.,5,positive,0.542,2024-06-18T02:09:21Z
+FB200512,P5583,DOC047,Laboratory,Good service overall but waiting time was slightly long.,2,negative,-0.466,2024-09-20T08:38:24Z
+FB200513,P5470,DOC014,Emergency,Cost felt slightly higher compared to other places.,2,negative,-0.317,2024-10-30T13:04:28Z
+FB200514,P5535,DOC035,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.513,2024-01-05T01:40:11Z
+FB200515,P5515,DOC043,OPD,Good service overall but waiting time was slightly long.,3,neutral,-0.087,2024-09-29T10:26:00Z
+FB200516,P5018,DOC044,Surgery,Medication availability was delayed initially.,1,negative,-0.482,2024-10-02T22:31:46Z
+FB200517,P5808,DOC027,General,Cost felt slightly higher compared to other places.,5,positive,0.936,2024-04-23T11:54:46Z
+FB200518,P5768,DOC019,OPD,Good service overall but waiting time was slightly long.,1,negative,-0.479,2024-09-08T08:49:27Z
+FB200519,P5745,DOC035,IPD,Facilities were well maintained and easy to access.,3,neutral,-0.045,2024-01-05T03:28:34Z
+FB200520,P5327,DOC010,OPD,Facilities were well maintained and easy to access.,1,negative,-0.419,2024-12-15T20:58:21Z
+FB200521,P5185,DOC024,Laboratory,Very fast response and treatment offered immediately.,1,negative,-0.501,2024-12-11T05:39:30Z
+FB200522,P5884,DOC011,Radiology,Facilities were well maintained and easy to access.,1,negative,-0.241,2024-07-15T02:20:52Z
+FB200523,P5862,DOC008,Emergency,Room or department was clean and well maintained.,3,neutral,0.019,2024-09-19T11:15:19Z
+FB200524,P5975,DOC015,Radiology,Cost felt slightly higher compared to other places.,3,neutral,0.014,2024-11-03T05:34:49Z
+FB200525,P5928,DOC034,Pharmacy,Reports were delayed causing change in follow-up plan.,1,negative,-0.945,2024-08-17T14:30:08Z
+FB200526,P5187,DOC018,OPD,Facilities were well maintained and easy to access.,4,positive,0.904,2024-03-31T10:20:42Z
+FB200527,P5012,DOC049,Emergency,Good service overall but waiting time was slightly long.,2,negative,-0.623,2024-05-17T21:56:18Z
+FB200528,P5119,DOC049,General,Very fast response and treatment offered immediately.,4,positive,0.642,2024-08-15T02:53:47Z
+FB200529,P5648,DOC035,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.657,2024-03-01T01:25:25Z
+FB200530,P5767,DOC005,Emergency,Facilities were well maintained and easy to access.,5,positive,0.737,2024-09-03T15:31:00Z
+FB200531,P5646,DOC026,Surgery,Facilities were well maintained and easy to access.,4,positive,0.958,2024-11-25T12:11:23Z
+FB200532,P5224,DOC033,Laboratory,Good service overall but waiting time was slightly long.,1,negative,-0.673,2024-07-08T20:32:37Z
+FB200533,P5156,DOC038,OPD,Good service overall but waiting time was slightly long.,2,negative,-0.903,2024-10-18T17:01:28Z
+FB200534,P5126,DOC037,Emergency,Medication availability was delayed initially.,3,neutral,-0.022,2024-01-25T20:00:12Z
+FB200535,P5138,DOC024,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,-0.091,2024-04-23T19:32:35Z
+FB200536,P5736,DOC018,Surgery,Cost felt slightly higher compared to other places.,2,negative,-0.884,2024-12-20T09:39:05Z
+FB200537,P5109,DOC048,Emergency,Staff behavior was excellent and guidance was proper.,5,positive,0.621,2024-01-19T03:44:10Z
+FB200538,P5303,DOC009,General,Facilities were well maintained and easy to access.,3,neutral,-0.07,2024-10-25T14:38:41Z
+FB200539,P5353,DOC003,Radiology,Room or department was clean and well maintained.,3,neutral,0.064,2024-12-26T05:58:54Z
+FB200540,P5618,DOC038,Radiology,Staff behavior was excellent and guidance was proper.,5,positive,0.71,2024-04-20T00:52:43Z
+FB200541,P5888,DOC039,OPD,Facilities were well maintained and easy to access.,5,positive,0.517,2024-05-27T19:01:44Z
+FB200542,P5555,DOC025,Laboratory,Reports were delayed causing change in follow-up plan.,4,positive,0.528,2024-07-03T14:02:38Z
+FB200543,P5809,DOC020,Pharmacy,Very fast response and treatment offered immediately.,2,negative,-0.984,2024-09-21T13:52:11Z
+FB200544,P5200,DOC025,Surgery,Facilities were well maintained and easy to access.,4,positive,0.953,2024-12-10T07:39:31Z
+FB200545,P5822,DOC012,General,Cost felt slightly higher compared to other places.,4,positive,0.601,2024-03-30T15:21:26Z
+FB200546,P5591,DOC022,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.216,2024-04-08T18:39:31Z
+FB200547,P5150,DOC050,Radiology,Good service overall but waiting time was slightly long.,3,neutral,0.063,2024-10-13T00:00:51Z
+FB200548,P5600,DOC029,Surgery,Cost felt slightly higher compared to other places.,5,positive,0.975,2024-12-30T11:53:20Z
+FB200549,P5845,DOC013,Radiology,Room or department was clean and well maintained.,5,positive,0.524,2024-08-07T05:21:00Z
+FB200550,P5406,DOC023,Laboratory,Room or department was clean and well maintained.,4,positive,0.542,2024-12-15T12:25:15Z
+FB200551,P5539,DOC011,General,Room or department was clean and well maintained.,4,positive,0.847,2024-08-28T23:44:54Z
+FB200552,P5772,DOC050,IPD,Facilities were well maintained and easy to access.,5,positive,0.827,2024-07-16T22:04:57Z
+FB200553,P5506,DOC029,IPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.84,2024-07-01T14:12:09Z
+FB200554,P5596,DOC006,Surgery,Medication availability was delayed initially.,3,neutral,0.079,2024-08-21T04:31:00Z
+FB200555,P5041,DOC043,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.456,2024-01-26T13:11:12Z
+FB200556,P5544,DOC050,Radiology,Staff behavior was excellent and guidance was proper.,3,neutral,0.023,2024-08-18T02:36:34Z
+FB200557,P5189,DOC003,OPD,Good service overall but waiting time was slightly long.,5,positive,0.71,2024-04-24T01:51:41Z
+FB200558,P5181,DOC008,Surgery,Very fast response and treatment offered immediately.,4,positive,0.58,2024-10-27T01:55:12Z
+FB200559,P5294,DOC012,Laboratory,Cost felt slightly higher compared to other places.,4,positive,0.801,2024-08-13T12:45:18Z
+FB200560,P5917,DOC028,Emergency,Staff behavior was excellent and guidance was proper.,3,neutral,0.061,2024-06-13T13:22:39Z
+FB200561,P5975,DOC038,Emergency,Facilities were well maintained and easy to access.,5,positive,0.621,2024-05-01T17:14:29Z
+FB200562,P5576,DOC003,Pharmacy,Room or department was clean and well maintained.,3,neutral,0.167,2024-01-24T02:38:13Z
+FB200563,P5022,DOC012,Radiology,Very fast response and treatment offered immediately.,1,negative,-0.517,2024-10-22T05:41:23Z
+FB200564,P5927,DOC022,Laboratory,Room or department was clean and well maintained.,3,neutral,-0.055,2024-10-22T10:46:34Z
+FB200565,P5481,DOC013,OPD,Room or department was clean and well maintained.,2,negative,-0.263,2024-08-09T18:05:02Z
+FB200566,P5096,DOC011,Emergency,Staff behavior was excellent and guidance was proper.,3,neutral,0.038,2024-08-14T14:23:17Z
+FB200567,P5528,DOC029,Emergency,Reports were delayed causing change in follow-up plan.,1,negative,-0.765,2024-05-09T21:22:21Z
+FB200568,P5581,DOC047,IPD,Reports were delayed causing change in follow-up plan.,5,positive,0.924,2024-12-13T14:32:30Z
+FB200569,P5826,DOC016,Emergency,Cost felt slightly higher compared to other places.,4,positive,0.54,2024-08-02T02:33:05Z
+FB200570,P5769,DOC034,Surgery,Medication availability was delayed initially.,4,positive,0.714,2024-06-15T18:08:48Z
+FB200571,P5408,DOC013,IPD,Cost felt slightly higher compared to other places.,4,positive,0.922,2024-04-13T08:49:11Z
+FB200572,P5136,DOC034,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.692,2024-12-18T22:29:30Z
+FB200573,P5877,DOC029,Surgery,Reports were delayed causing change in follow-up plan.,5,positive,0.919,2024-12-25T08:35:50Z
+FB200574,P5490,DOC024,Laboratory,Room or department was clean and well maintained.,2,negative,-0.9,2024-10-02T04:59:56Z
+FB200575,P5545,DOC012,IPD,Room or department was clean and well maintained.,5,positive,0.923,2024-06-28T09:55:54Z
+FB200576,P5037,DOC014,Laboratory,Staff behavior was excellent and guidance was proper.,4,positive,0.706,2024-08-25T11:27:20Z
+FB200577,P5982,DOC036,Emergency,Cost felt slightly higher compared to other places.,1,negative,-0.275,2024-07-05T18:49:11Z
+FB200578,P5696,DOC022,General,Medication availability was delayed initially.,2,negative,-0.328,2024-12-30T19:00:01Z
+FB200579,P5060,DOC016,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.592,2024-09-06T07:52:29Z
+FB200580,P5013,DOC012,OPD,Medication availability was delayed initially.,5,positive,0.546,2024-03-17T02:44:50Z
+FB200581,P5458,DOC039,General,Cost felt slightly higher compared to other places.,4,positive,0.739,2024-03-13T09:50:58Z
+FB200582,P5223,DOC014,Emergency,Cost felt slightly higher compared to other places.,5,positive,0.922,2024-11-07T00:45:22Z
+FB200583,P5047,DOC036,General,Cost felt slightly higher compared to other places.,2,negative,-0.245,2024-01-22T19:07:52Z
+FB200584,P5534,DOC044,IPD,Staff behavior was excellent and guidance was proper.,5,positive,0.601,2024-07-22T14:10:15Z
+FB200585,P5122,DOC035,Pharmacy,Medication availability was delayed initially.,4,positive,0.942,2024-11-23T16:23:36Z
+FB200586,P5747,DOC029,General,Room or department was clean and well maintained.,2,negative,-0.276,2024-06-22T10:30:31Z
+FB200587,P5264,DOC004,Pharmacy,Medication availability was delayed initially.,4,positive,0.874,2024-03-06T21:53:03Z
+FB200588,P5890,DOC018,IPD,Facilities were well maintained and easy to access.,5,positive,0.949,2024-10-22T04:52:22Z
+FB200589,P5596,DOC045,Emergency,Good service overall but waiting time was slightly long.,2,negative,-0.628,2024-03-14T06:12:07Z
+FB200590,P5671,DOC032,Surgery,Staff behavior was excellent and guidance was proper.,1,negative,-0.763,2024-03-16T13:35:32Z
+FB200591,P5490,DOC006,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.915,2024-10-06T12:08:47Z
+FB200592,P5288,DOC018,OPD,Good service overall but waiting time was slightly long.,5,positive,0.713,2024-04-12T14:47:43Z
+FB200593,P5563,DOC021,General,Facilities were well maintained and easy to access.,3,neutral,0.042,2024-01-04T03:13:51Z
+FB200594,P5249,DOC041,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.361,2024-08-19T16:52:49Z
+FB200595,P5653,DOC015,Radiology,Facilities were well maintained and easy to access.,2,negative,-0.662,2024-12-24T16:40:13Z
+FB200596,P5977,DOC031,Laboratory,Good service overall but waiting time was slightly long.,3,neutral,-0.028,2024-08-12T11:57:13Z
+FB200597,P5090,DOC049,General,Cost felt slightly higher compared to other places.,4,positive,0.802,2024-12-25T07:22:18Z
+FB200598,P5180,DOC020,Laboratory,Staff behavior was excellent and guidance was proper.,5,positive,0.992,2024-11-04T18:46:22Z
+FB200599,P5106,DOC013,Emergency,Medication availability was delayed initially.,2,negative,-0.58,2024-04-16T20:52:09Z
+FB200600,P5881,DOC012,Pharmacy,Room or department was clean and well maintained.,4,positive,0.723,2024-05-08T11:29:25Z
+FB200601,P5228,DOC007,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.966,2024-04-25T02:06:58Z
+FB200602,P5624,DOC039,Pharmacy,Reports were delayed causing change in follow-up plan.,2,negative,-0.959,2024-07-20T20:01:02Z
+FB200603,P5392,DOC028,Radiology,Facilities were well maintained and easy to access.,5,positive,0.502,2024-01-11T14:47:23Z
+FB200604,P5317,DOC004,IPD,Facilities were well maintained and easy to access.,1,negative,-0.591,2024-03-04T09:33:54Z
+FB200605,P5001,DOC032,Pharmacy,Good service overall but waiting time was slightly long.,4,positive,0.973,2024-02-09T12:45:53Z
+FB200606,P5275,DOC049,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.833,2024-07-30T02:58:39Z
+FB200607,P5551,DOC026,Emergency,Reports were delayed causing change in follow-up plan.,1,negative,-0.928,2024-11-14T23:51:35Z
+FB200608,P5539,DOC050,Laboratory,Cost felt slightly higher compared to other places.,4,positive,0.917,2024-10-08T22:13:50Z
+FB200609,P5137,DOC013,Radiology,Very fast response and treatment offered immediately.,5,positive,0.645,2024-12-07T04:50:46Z
+FB200610,P5830,DOC017,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.705,2024-01-11T20:11:20Z
+FB200611,P5848,DOC016,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.867,2024-06-12T02:59:28Z
+FB200612,P5522,DOC036,IPD,Medication availability was delayed initially.,3,neutral,-0.032,2024-12-01T07:22:44Z
+FB200613,P5634,DOC037,IPD,Reports were delayed causing change in follow-up plan.,4,positive,0.784,2024-08-31T02:45:22Z
+FB200614,P5040,DOC007,Laboratory,Reports were delayed causing change in follow-up plan.,5,positive,0.792,2024-01-18T11:00:20Z
+FB200615,P5627,DOC050,Surgery,Good service overall but waiting time was slightly long.,1,negative,-0.834,2024-03-07T03:20:36Z
+FB200616,P5711,DOC006,Laboratory,Reports were delayed causing change in follow-up plan.,3,neutral,0.179,2024-09-28T22:10:23Z
+FB200617,P5877,DOC015,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,-0.09,2024-07-09T05:33:41Z
+FB200618,P5513,DOC013,IPD,Reports were delayed causing change in follow-up plan.,4,positive,0.85,2024-10-25T01:57:47Z
+FB200619,P5393,DOC049,Surgery,Very fast response and treatment offered immediately.,3,neutral,0.172,2024-05-12T16:31:06Z
+FB200620,P5627,DOC014,OPD,Good service overall but waiting time was slightly long.,5,positive,0.942,2024-03-09T05:15:24Z
+FB200621,P5516,DOC019,Pharmacy,Reports were delayed causing change in follow-up plan.,5,positive,0.788,2024-11-04T20:57:54Z
+FB200622,P5690,DOC049,Surgery,Reports were delayed causing change in follow-up plan.,1,negative,-0.271,2024-09-14T11:34:29Z
+FB200623,P5821,DOC017,General,Medication availability was delayed initially.,1,negative,-0.338,2024-03-22T08:07:20Z
+FB200624,P5549,DOC048,Laboratory,Very fast response and treatment offered immediately.,2,negative,-0.74,2024-12-21T09:23:29Z
+FB200625,P5268,DOC013,Pharmacy,Staff behavior was excellent and guidance was proper.,1,negative,-0.85,2024-12-17T21:37:03Z
+FB200626,P5765,DOC007,Pharmacy,Medication availability was delayed initially.,4,positive,0.977,2024-10-16T10:36:15Z
+FB200627,P5407,DOC033,Laboratory,Room or department was clean and well maintained.,4,positive,0.952,2024-04-27T02:55:05Z
+FB200628,P5312,DOC045,Laboratory,Facilities were well maintained and easy to access.,3,neutral,0.049,2024-06-26T20:52:44Z
+FB200629,P5228,DOC016,IPD,Good service overall but waiting time was slightly long.,4,positive,0.791,2024-07-29T01:33:03Z
+FB200630,P5896,DOC035,OPD,Good service overall but waiting time was slightly long.,2,negative,-0.408,2024-01-25T00:47:44Z
+FB200631,P5602,DOC035,Radiology,Facilities were well maintained and easy to access.,3,neutral,0.018,2024-09-13T03:39:23Z
+FB200632,P5119,DOC001,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.459,2024-08-29T09:20:52Z
+FB200633,P5339,DOC022,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.834,2024-01-08T23:50:13Z
+FB200634,P5665,DOC036,Pharmacy,Room or department was clean and well maintained.,1,negative,-0.342,2024-12-13T12:29:15Z
+FB200635,P5942,DOC010,Radiology,Facilities were well maintained and easy to access.,2,negative,-0.528,2024-01-02T01:47:58Z
+FB200636,P5541,DOC005,Radiology,Cost felt slightly higher compared to other places.,2,negative,-0.448,2024-01-25T05:11:11Z
+FB200637,P5734,DOC020,Radiology,Medication availability was delayed initially.,2,negative,-0.482,2024-08-25T03:05:06Z
+FB200638,P5771,DOC003,Radiology,Staff behavior was excellent and guidance was proper.,2,negative,-0.96,2024-07-13T05:43:51Z
+FB200639,P5711,DOC009,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.582,2024-04-05T04:47:16Z
+FB200640,P5436,DOC025,Laboratory,Medication availability was delayed initially.,4,positive,0.703,2024-04-10T17:57:06Z
+FB200641,P5343,DOC027,OPD,Medication availability was delayed initially.,3,neutral,0.081,2024-06-03T03:27:16Z
+FB200642,P5096,DOC011,General,Reports were delayed causing change in follow-up plan.,2,negative,-0.701,2024-08-21T22:01:48Z
+FB200643,P5803,DOC011,Laboratory,Room or department was clean and well maintained.,1,negative,-0.488,2024-08-03T12:54:14Z
+FB200644,P5311,DOC011,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.304,2024-05-08T06:53:32Z
+FB200645,P5415,DOC044,Laboratory,Facilities were well maintained and easy to access.,3,neutral,-0.081,2024-05-29T16:13:55Z
+FB200646,P5918,DOC047,IPD,Room or department was clean and well maintained.,5,positive,0.761,2024-03-31T01:25:58Z
+FB200647,P5578,DOC039,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,-0.092,2024-07-29T21:27:49Z
+FB200648,P5630,DOC041,Laboratory,Facilities were well maintained and easy to access.,4,positive,0.862,2024-01-26T06:33:57Z
+FB200649,P5163,DOC007,Radiology,Medication availability was delayed initially.,5,positive,0.564,2024-09-24T00:54:41Z
+FB200650,P5187,DOC005,General,Good service overall but waiting time was slightly long.,1,negative,-0.63,2024-02-23T13:52:34Z
+FB200651,P5336,DOC014,General,Good service overall but waiting time was slightly long.,1,negative,-0.814,2024-11-01T04:15:47Z
+FB200652,P5178,DOC008,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.781,2024-01-24T22:23:19Z
+FB200653,P5737,DOC031,Radiology,Staff behavior was excellent and guidance was proper.,3,neutral,0.173,2024-05-06T06:46:09Z
+FB200654,P5852,DOC019,Surgery,Room or department was clean and well maintained.,2,negative,-0.931,2024-10-24T02:45:47Z
+FB200655,P5652,DOC046,Radiology,Medication availability was delayed initially.,2,negative,-0.936,2024-02-24T07:08:30Z
+FB200656,P5835,DOC005,IPD,Room or department was clean and well maintained.,3,neutral,0.141,2024-04-21T01:16:25Z
+FB200657,P5877,DOC043,Radiology,Very fast response and treatment offered immediately.,2,negative,-0.259,2024-05-23T04:52:51Z
+FB200658,P5424,DOC019,Surgery,Staff behavior was excellent and guidance was proper.,5,positive,0.666,2024-03-26T09:48:20Z
+FB200659,P5648,DOC001,Emergency,Reports were delayed causing change in follow-up plan.,5,positive,0.524,2024-12-05T03:37:43Z
+FB200660,P5806,DOC039,Pharmacy,Room or department was clean and well maintained.,4,positive,0.978,2024-06-10T15:41:45Z
+FB200661,P5311,DOC036,Radiology,Cost felt slightly higher compared to other places.,1,negative,-0.905,2024-12-05T19:59:35Z
+FB200662,P5678,DOC006,IPD,Room or department was clean and well maintained.,5,positive,0.895,2024-12-01T18:54:45Z
+FB200663,P5591,DOC039,Radiology,Reports were delayed causing change in follow-up plan.,2,negative,-0.859,2024-05-08T12:35:03Z
+FB200664,P5794,DOC020,Surgery,Room or department was clean and well maintained.,5,positive,0.799,2024-11-11T18:51:55Z
+FB200665,P5024,DOC005,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.764,2024-04-13T22:53:13Z
+FB200666,P5437,DOC040,Laboratory,Medication availability was delayed initially.,3,neutral,-0.052,2024-01-27T14:20:03Z
+FB200667,P5144,DOC044,OPD,Cost felt slightly higher compared to other places.,1,negative,-0.839,2024-09-28T00:46:22Z
+FB200668,P5182,DOC049,OPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.936,2024-01-03T22:33:42Z
+FB200669,P5764,DOC044,Laboratory,Medication availability was delayed initially.,4,positive,0.748,2024-01-30T07:53:00Z
+FB200670,P5109,DOC022,OPD,Staff behavior was excellent and guidance was proper.,4,positive,0.93,2024-01-25T05:34:09Z
+FB200671,P5529,DOC017,General,Cost felt slightly higher compared to other places.,5,positive,0.783,2024-09-30T11:22:18Z
+FB200672,P5248,DOC006,Surgery,Room or department was clean and well maintained.,2,negative,-0.656,2024-11-13T22:44:26Z
+FB200673,P5174,DOC013,Emergency,Cost felt slightly higher compared to other places.,2,negative,-0.441,2024-04-04T10:11:49Z
+FB200674,P5269,DOC033,Laboratory,Facilities were well maintained and easy to access.,3,neutral,-0.053,2024-03-19T01:32:56Z
+FB200675,P5931,DOC010,Radiology,Medication availability was delayed initially.,4,positive,0.841,2024-08-26T13:27:35Z
+FB200676,P5289,DOC048,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.697,2024-05-05T03:30:36Z
+FB200677,P5607,DOC005,Emergency,Staff behavior was excellent and guidance was proper.,1,negative,-0.738,2024-07-23T11:36:06Z
+FB200678,P5660,DOC001,Laboratory,Cost felt slightly higher compared to other places.,3,neutral,0.058,2024-06-27T09:42:13Z
+FB200679,P5503,DOC010,Emergency,Medication availability was delayed initially.,1,negative,-0.268,2024-04-02T02:09:43Z
+FB200680,P5004,DOC044,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.404,2024-10-12T11:20:12Z
+FB200681,P5253,DOC021,Emergency,Good service overall but waiting time was slightly long.,4,positive,0.534,2024-08-26T21:18:12Z
+FB200682,P5520,DOC047,Radiology,Good service overall but waiting time was slightly long.,2,negative,-0.824,2024-02-01T06:28:25Z
+FB200683,P5812,DOC025,Emergency,Staff behavior was excellent and guidance was proper.,3,neutral,-0.086,2024-10-12T17:01:28Z
+FB200684,P5836,DOC021,OPD,Cost felt slightly higher compared to other places.,4,positive,0.942,2024-02-06T06:24:44Z
+FB200685,P5478,DOC024,Pharmacy,Facilities were well maintained and easy to access.,4,positive,0.599,2024-12-25T16:27:26Z
+FB200686,P5766,DOC028,Pharmacy,Staff behavior was excellent and guidance was proper.,5,positive,0.769,2024-12-27T08:42:18Z
+FB200687,P5645,DOC026,Surgery,Room or department was clean and well maintained.,5,positive,0.897,2024-08-07T02:31:39Z
+FB200688,P5246,DOC022,Laboratory,Good service overall but waiting time was slightly long.,1,negative,-0.564,2024-02-22T06:17:21Z
+FB200689,P5518,DOC050,Emergency,Staff behavior was excellent and guidance was proper.,4,positive,0.56,2024-10-14T10:04:37Z
+FB200690,P5324,DOC027,Emergency,Reports were delayed causing change in follow-up plan.,1,negative,-0.701,2024-12-26T02:51:18Z
+FB200691,P5272,DOC029,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.841,2024-06-22T07:22:45Z
+FB200692,P5261,DOC026,General,Very fast response and treatment offered immediately.,1,negative,-0.621,2024-10-25T12:03:06Z
+FB200693,P5714,DOC031,Surgery,Facilities were well maintained and easy to access.,4,positive,0.971,2024-03-20T13:12:44Z
+FB200694,P5162,DOC002,IPD,Medication availability was delayed initially.,5,positive,0.985,2024-01-06T15:25:26Z
+FB200695,P5437,DOC030,OPD,Cost felt slightly higher compared to other places.,5,positive,0.515,2024-08-09T10:17:46Z
+FB200696,P5883,DOC039,IPD,Room or department was clean and well maintained.,4,positive,0.578,2024-10-13T13:14:38Z
+FB200697,P5554,DOC040,OPD,Cost felt slightly higher compared to other places.,1,negative,-0.812,2024-06-02T10:25:45Z
+FB200698,P5911,DOC031,OPD,Medication availability was delayed initially.,5,positive,0.965,2024-01-18T02:46:58Z
+FB200699,P5608,DOC008,Laboratory,Staff behavior was excellent and guidance was proper.,4,positive,0.815,2024-05-03T05:42:23Z
+FB200700,P5609,DOC026,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.678,2024-09-09T19:19:03Z
+FB200701,P5716,DOC006,IPD,Good service overall but waiting time was slightly long.,2,negative,-0.919,2024-05-09T05:28:25Z
+FB200702,P5811,DOC009,Emergency,Medication availability was delayed initially.,5,positive,0.629,2024-09-22T08:46:59Z
+FB200703,P5534,DOC020,Radiology,Good service overall but waiting time was slightly long.,3,neutral,-0.002,2024-02-06T00:17:26Z
+FB200704,P5201,DOC019,Surgery,Cost felt slightly higher compared to other places.,1,negative,-0.741,2024-03-02T04:12:12Z
+FB200705,P5659,DOC021,Surgery,Room or department was clean and well maintained.,1,negative,-0.3,2024-12-17T06:15:43Z
+FB200706,P5406,DOC011,Emergency,Staff behavior was excellent and guidance was proper.,5,positive,0.823,2024-12-04T15:20:23Z
+FB200707,P5257,DOC010,OPD,Medication availability was delayed initially.,2,negative,-0.302,2024-08-08T05:30:37Z
+FB200708,P5231,DOC019,OPD,Medication availability was delayed initially.,2,negative,-0.452,2024-05-23T13:34:33Z
+FB200709,P5753,DOC015,OPD,Facilities were well maintained and easy to access.,4,positive,0.818,2024-12-02T16:52:24Z
+FB200710,P5761,DOC013,General,Medication availability was delayed initially.,3,neutral,0.084,2024-06-22T00:13:28Z
+FB200711,P5946,DOC011,Pharmacy,Room or department was clean and well maintained.,1,negative,-0.265,2024-07-09T17:17:07Z
+FB200712,P5530,DOC018,Radiology,Cost felt slightly higher compared to other places.,3,neutral,-0.086,2024-02-03T21:33:41Z
+FB200713,P5057,DOC049,Surgery,Staff behavior was excellent and guidance was proper.,1,negative,-0.68,2024-07-22T21:26:57Z
+FB200714,P5607,DOC021,Pharmacy,Facilities were well maintained and easy to access.,4,positive,0.847,2024-05-31T16:00:51Z
+FB200715,P5257,DOC043,OPD,Very fast response and treatment offered immediately.,5,positive,0.525,2024-08-25T14:23:53Z
+FB200716,P5491,DOC017,Surgery,Good service overall but waiting time was slightly long.,3,neutral,0.134,2024-12-25T10:08:01Z
+FB200717,P5707,DOC001,OPD,Medication availability was delayed initially.,5,positive,0.85,2024-10-05T16:50:04Z
+FB200718,P5694,DOC002,Laboratory,Good service overall but waiting time was slightly long.,4,positive,0.846,2024-07-13T21:08:23Z
+FB200719,P5231,DOC031,Emergency,Staff behavior was excellent and guidance was proper.,1,negative,-0.283,2024-05-16T06:39:00Z
+FB200720,P5045,DOC002,General,Staff behavior was excellent and guidance was proper.,1,negative,-0.634,2024-08-04T13:41:34Z
+FB200721,P5082,DOC038,Surgery,Facilities were well maintained and easy to access.,5,positive,0.656,2024-07-19T18:40:07Z
+FB200722,P5305,DOC047,Emergency,Facilities were well maintained and easy to access.,5,positive,0.915,2024-03-27T22:33:55Z
+FB200723,P5221,DOC043,IPD,Very fast response and treatment offered immediately.,2,negative,-0.201,2024-06-04T09:15:40Z
+FB200724,P5446,DOC024,Surgery,Cost felt slightly higher compared to other places.,1,negative,-0.563,2024-04-01T02:36:44Z
+FB200725,P5682,DOC010,Emergency,Very fast response and treatment offered immediately.,3,neutral,0.089,2024-09-29T11:40:36Z
+FB200726,P5347,DOC033,Surgery,Very fast response and treatment offered immediately.,1,negative,-0.934,2024-09-22T08:39:15Z
+FB200727,P5023,DOC039,Emergency,Medication availability was delayed initially.,1,negative,-0.536,2024-12-23T23:05:20Z
+FB200728,P5596,DOC044,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.757,2024-09-30T22:41:24Z
+FB200729,P5586,DOC012,Emergency,Facilities were well maintained and easy to access.,4,positive,0.559,2024-08-06T11:38:25Z
+FB200730,P5274,DOC016,IPD,Very fast response and treatment offered immediately.,5,positive,0.734,2024-04-15T04:46:48Z
+FB200731,P5004,DOC030,Laboratory,Reports were delayed causing change in follow-up plan.,4,positive,0.594,2024-05-12T22:06:03Z
+FB200732,P5815,DOC040,Radiology,Very fast response and treatment offered immediately.,4,positive,0.662,2024-05-04T11:53:21Z
+FB200733,P5565,DOC035,OPD,Staff behavior was excellent and guidance was proper.,4,positive,0.824,2024-06-12T21:36:52Z
+FB200734,P5800,DOC050,OPD,Cost felt slightly higher compared to other places.,3,neutral,0.142,2024-05-02T21:21:22Z
+FB200735,P5477,DOC027,General,Staff behavior was excellent and guidance was proper.,2,negative,-0.32,2024-01-07T10:12:46Z
+FB200736,P5691,DOC002,Laboratory,Facilities were well maintained and easy to access.,1,negative,-0.408,2024-06-08T12:08:03Z
+FB200737,P5414,DOC042,General,Room or department was clean and well maintained.,2,negative,-0.955,2024-11-21T20:35:48Z
+FB200738,P5053,DOC013,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.931,2024-05-20T07:05:29Z
+FB200739,P5897,DOC035,Surgery,Facilities were well maintained and easy to access.,5,positive,0.943,2024-02-03T02:46:57Z
+FB200740,P5997,DOC034,Emergency,Facilities were well maintained and easy to access.,1,negative,-0.353,2024-08-20T08:29:27Z
+FB200741,P5096,DOC015,Radiology,Good service overall but waiting time was slightly long.,3,neutral,0.194,2024-06-17T03:23:24Z
+FB200742,P5973,DOC018,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.797,2024-09-06T08:47:06Z
+FB200743,P5028,DOC027,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.581,2024-03-11T20:54:05Z
+FB200744,P5805,DOC036,General,Room or department was clean and well maintained.,3,neutral,0.16,2024-01-26T14:05:07Z
+FB200745,P5709,DOC009,OPD,Cost felt slightly higher compared to other places.,3,neutral,0.043,2024-06-29T02:36:23Z
+FB200746,P5569,DOC016,Emergency,Medication availability was delayed initially.,1,negative,-0.596,2024-08-09T21:07:34Z
+FB200747,P5608,DOC045,Radiology,Staff behavior was excellent and guidance was proper.,1,negative,-0.722,2024-03-21T07:39:33Z
+FB200748,P5891,DOC044,Laboratory,Very fast response and treatment offered immediately.,1,negative,-0.322,2024-04-25T22:08:33Z
+FB200749,P5574,DOC012,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,-0.059,2024-01-28T20:13:37Z
+FB200750,P5890,DOC019,General,Reports were delayed causing change in follow-up plan.,4,positive,0.858,2024-09-05T05:11:46Z
+FB200751,P5429,DOC011,General,Reports were delayed causing change in follow-up plan.,3,neutral,-0.022,2024-11-01T21:01:03Z
+FB200752,P5761,DOC014,IPD,Reports were delayed causing change in follow-up plan.,3,neutral,0.066,2024-11-17T19:52:21Z
+FB200753,P5228,DOC050,Radiology,Good service overall but waiting time was slightly long.,3,neutral,0.168,2024-07-07T19:16:03Z
+FB200754,P5322,DOC047,Laboratory,Reports were delayed causing change in follow-up plan.,1,negative,-0.355,2024-08-04T07:58:37Z
+FB200755,P5698,DOC026,Laboratory,Medication availability was delayed initially.,1,negative,-0.502,2024-03-19T16:39:24Z
+FB200756,P5051,DOC034,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.807,2024-02-22T10:55:56Z
+FB200757,P5290,DOC023,Radiology,Facilities were well maintained and easy to access.,3,neutral,0.007,2024-04-29T14:11:32Z
+FB200758,P5121,DOC045,Laboratory,Room or department was clean and well maintained.,4,positive,0.604,2024-10-23T12:30:52Z
+FB200759,P5078,DOC029,OPD,Very fast response and treatment offered immediately.,5,positive,0.926,2024-10-15T14:18:27Z
+FB200760,P5790,DOC050,OPD,Staff behavior was excellent and guidance was proper.,3,neutral,-0.039,2024-07-02T16:58:35Z
+FB200761,P5871,DOC048,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.851,2024-12-19T05:29:25Z
+FB200762,P5140,DOC022,General,Medication availability was delayed initially.,2,negative,-0.562,2024-06-30T18:23:29Z
+FB200763,P5228,DOC039,IPD,Facilities were well maintained and easy to access.,4,positive,0.966,2024-07-13T19:39:07Z
+FB200764,P5120,DOC007,General,Very fast response and treatment offered immediately.,2,negative,-0.791,2024-09-09T07:17:55Z
+FB200765,P5895,DOC009,IPD,Good service overall but waiting time was slightly long.,2,negative,-0.469,2024-01-31T05:57:35Z
+FB200766,P5190,DOC048,Radiology,Cost felt slightly higher compared to other places.,3,neutral,0.197,2024-11-24T21:43:01Z
+FB200767,P5003,DOC006,Surgery,Room or department was clean and well maintained.,4,positive,0.663,2024-10-26T13:46:22Z
+FB200768,P5364,DOC047,Radiology,Room or department was clean and well maintained.,3,neutral,0.062,2024-07-09T17:40:52Z
+FB200769,P5651,DOC046,Pharmacy,Staff behavior was excellent and guidance was proper.,1,negative,-0.715,2024-02-20T09:59:01Z
+FB200770,P5275,DOC022,IPD,Facilities were well maintained and easy to access.,2,negative,-0.44,2024-08-09T01:26:14Z
+FB200771,P5788,DOC003,OPD,Medication availability was delayed initially.,2,negative,-0.431,2024-12-25T10:24:58Z
+FB200772,P5322,DOC018,General,Very fast response and treatment offered immediately.,2,negative,-0.333,2024-05-04T11:16:07Z
+FB200773,P5544,DOC033,Emergency,Room or department was clean and well maintained.,4,positive,0.625,2024-10-06T09:56:22Z
+FB200774,P5013,DOC017,Laboratory,Good service overall but waiting time was slightly long.,2,negative,-0.533,2024-04-15T20:54:44Z
+FB200775,P5422,DOC001,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.987,2024-12-23T01:05:35Z
+FB200776,P5642,DOC020,Pharmacy,Medication availability was delayed initially.,2,negative,-0.4,2024-09-02T22:09:38Z
+FB200777,P5965,DOC032,Emergency,Cost felt slightly higher compared to other places.,3,neutral,0.155,2024-02-14T18:57:16Z
+FB200778,P5452,DOC006,Surgery,Very fast response and treatment offered immediately.,4,positive,0.745,2024-12-31T18:18:45Z
+FB200779,P5648,DOC015,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.582,2024-07-14T21:30:21Z
+FB200780,P5058,DOC050,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.919,2024-03-31T03:39:05Z
+FB200781,P5342,DOC013,General,Reports were delayed causing change in follow-up plan.,3,neutral,0.126,2024-11-08T05:50:28Z
+FB200782,P5414,DOC015,General,Very fast response and treatment offered immediately.,4,positive,0.724,2024-11-20T06:25:19Z
+FB200783,P5555,DOC039,Pharmacy,Staff behavior was excellent and guidance was proper.,5,positive,0.966,2024-12-10T09:17:02Z
+FB200784,P5983,DOC004,OPD,Reports were delayed causing change in follow-up plan.,4,positive,0.587,2024-11-02T11:34:41Z
+FB200785,P5608,DOC012,Surgery,Medication availability was delayed initially.,3,neutral,0.148,2024-05-31T14:27:41Z
+FB200786,P5081,DOC015,Laboratory,Very fast response and treatment offered immediately.,1,negative,-0.813,2024-01-11T23:28:04Z
+FB200787,P5343,DOC047,Radiology,Very fast response and treatment offered immediately.,3,neutral,0.074,2024-01-07T21:45:14Z
+FB200788,P5078,DOC035,General,Medication availability was delayed initially.,4,positive,0.927,2024-03-05T02:20:01Z
+FB200789,P5585,DOC008,OPD,Room or department was clean and well maintained.,1,negative,-0.431,2024-05-23T13:06:08Z
+FB200790,P5144,DOC015,Pharmacy,Room or department was clean and well maintained.,5,positive,0.654,2024-02-04T09:15:36Z
+FB200791,P5726,DOC031,General,Cost felt slightly higher compared to other places.,4,positive,0.58,2024-03-06T00:26:28Z
+FB200792,P5672,DOC008,IPD,Staff behavior was excellent and guidance was proper.,5,positive,0.6,2024-04-17T10:59:14Z
+FB200793,P5681,DOC041,IPD,Facilities were well maintained and easy to access.,4,positive,0.861,2024-09-12T18:05:58Z
+FB200794,P5480,DOC015,Pharmacy,Good service overall but waiting time was slightly long.,5,positive,0.987,2024-12-01T04:43:14Z
+FB200795,P5853,DOC043,Emergency,Reports were delayed causing change in follow-up plan.,2,negative,-0.297,2024-01-31T21:47:46Z
+FB200796,P5933,DOC002,Emergency,Reports were delayed causing change in follow-up plan.,2,negative,-0.345,2024-08-16T17:46:49Z
+FB200797,P5504,DOC041,Radiology,Facilities were well maintained and easy to access.,5,positive,0.699,2024-06-15T13:03:54Z
+FB200798,P5194,DOC039,Laboratory,Room or department was clean and well maintained.,5,positive,0.869,2024-11-17T20:52:03Z
+FB200799,P5092,DOC041,Pharmacy,Room or department was clean and well maintained.,2,negative,-0.262,2024-12-23T19:43:36Z
+FB200800,P5695,DOC044,Emergency,Cost felt slightly higher compared to other places.,1,negative,-0.481,2024-10-19T17:43:16Z
+FB200801,P5516,DOC015,General,Staff behavior was excellent and guidance was proper.,5,positive,0.676,2024-01-21T02:16:32Z
+FB200802,P5222,DOC022,Emergency,Cost felt slightly higher compared to other places.,4,positive,0.658,2024-10-16T07:03:50Z
+FB200803,P5173,DOC039,OPD,Medication availability was delayed initially.,1,negative,-0.826,2024-08-09T03:57:25Z
+FB200804,P5433,DOC015,Pharmacy,Good service overall but waiting time was slightly long.,3,neutral,0.184,2024-08-12T19:47:51Z
+FB200805,P5483,DOC026,Emergency,Good service overall but waiting time was slightly long.,3,neutral,-0.097,2024-11-25T10:52:17Z
+FB200806,P5550,DOC026,Radiology,Medication availability was delayed initially.,4,positive,0.52,2024-09-23T01:04:52Z
+FB200807,P5489,DOC045,OPD,Staff behavior was excellent and guidance was proper.,4,positive,0.761,2024-06-03T09:18:02Z
+FB200808,P5255,DOC016,IPD,Facilities were well maintained and easy to access.,4,positive,0.683,2024-09-27T06:32:12Z
+FB200809,P5967,DOC046,Emergency,Cost felt slightly higher compared to other places.,1,negative,-0.616,2024-05-02T16:14:31Z
+FB200810,P5895,DOC038,General,Very fast response and treatment offered immediately.,2,negative,-0.744,2024-09-03T14:49:46Z
+FB200811,P5745,DOC043,Laboratory,Room or department was clean and well maintained.,2,negative,-0.411,2024-09-13T14:50:34Z
+FB200812,P5541,DOC018,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.494,2024-08-24T06:01:50Z
+FB200813,P5350,DOC043,Radiology,Room or department was clean and well maintained.,5,positive,0.752,2024-06-26T18:12:24Z
+FB200814,P5956,DOC036,Emergency,Medication availability was delayed initially.,2,negative,-0.753,2024-07-04T07:34:00Z
+FB200815,P5166,DOC023,IPD,Medication availability was delayed initially.,3,neutral,0.136,2024-01-24T21:02:59Z
+FB200816,P5634,DOC048,Surgery,Facilities were well maintained and easy to access.,4,positive,0.897,2024-01-08T20:42:38Z
+FB200817,P5609,DOC023,General,Facilities were well maintained and easy to access.,4,positive,0.519,2024-03-06T04:55:15Z
+FB200818,P5794,DOC001,IPD,Medication availability was delayed initially.,4,positive,0.715,2024-08-09T20:53:24Z
+FB200819,P5646,DOC025,Radiology,Staff behavior was excellent and guidance was proper.,2,negative,-0.827,2024-01-18T06:18:05Z
+FB200820,P5791,DOC010,Laboratory,Room or department was clean and well maintained.,5,positive,0.71,2024-01-04T00:27:02Z
+FB200821,P5127,DOC047,Surgery,Reports were delayed causing change in follow-up plan.,5,positive,0.741,2024-02-16T07:47:54Z
+FB200822,P5085,DOC001,OPD,Medication availability was delayed initially.,1,negative,-0.645,2024-08-12T23:53:08Z
+FB200823,P5745,DOC039,Surgery,Medication availability was delayed initially.,1,negative,-0.867,2024-09-26T05:07:10Z
+FB200824,P5223,DOC044,Emergency,Very fast response and treatment offered immediately.,4,positive,0.731,2024-05-05T05:15:30Z
+FB200825,P5409,DOC005,General,Facilities were well maintained and easy to access.,4,positive,0.687,2024-10-24T04:46:38Z
+FB200826,P5683,DOC023,Pharmacy,Staff behavior was excellent and guidance was proper.,4,positive,0.511,2024-10-24T14:49:01Z
+FB200827,P5614,DOC020,Surgery,Medication availability was delayed initially.,2,negative,-0.933,2024-03-23T14:03:39Z
+FB200828,P5103,DOC035,Radiology,Medication availability was delayed initially.,3,neutral,0.173,2024-08-29T18:07:40Z
+FB200829,P5510,DOC017,Laboratory,Room or department was clean and well maintained.,3,neutral,0.116,2024-12-16T06:04:59Z
+FB200830,P5003,DOC020,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.41,2024-06-17T06:48:26Z
+FB200831,P5781,DOC039,Laboratory,Room or department was clean and well maintained.,3,neutral,0.153,2024-03-13T08:58:09Z
+FB200832,P5803,DOC027,General,Reports were delayed causing change in follow-up plan.,5,positive,0.723,2024-10-29T06:39:30Z
+FB200833,P5265,DOC018,Laboratory,Staff behavior was excellent and guidance was proper.,2,negative,-0.219,2024-07-04T05:05:29Z
+FB200834,P5153,DOC046,Pharmacy,Cost felt slightly higher compared to other places.,4,positive,0.618,2024-02-12T23:48:51Z
+FB200835,P5011,DOC029,General,Cost felt slightly higher compared to other places.,4,positive,0.695,2024-08-19T06:34:27Z
+FB200836,P5341,DOC014,Surgery,Very fast response and treatment offered immediately.,4,positive,0.997,2024-09-28T23:11:30Z
+FB200837,P5724,DOC006,Laboratory,Staff behavior was excellent and guidance was proper.,5,positive,0.563,2024-12-01T12:08:36Z
+FB200838,P5441,DOC035,Surgery,Cost felt slightly higher compared to other places.,2,negative,-0.603,2024-09-11T08:17:20Z
+FB200839,P5842,DOC029,Pharmacy,Reports were delayed causing change in follow-up plan.,3,neutral,-0.02,2024-02-11T19:04:23Z
+FB200840,P5166,DOC036,Surgery,Reports were delayed causing change in follow-up plan.,2,negative,-0.881,2024-11-30T22:04:32Z
+FB200841,P5363,DOC027,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,0.171,2024-09-03T03:18:30Z
+FB200842,P5734,DOC039,Radiology,Cost felt slightly higher compared to other places.,4,positive,0.804,2024-09-04T18:14:26Z
+FB200843,P5734,DOC043,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.727,2024-09-26T18:59:47Z
+FB200844,P5765,DOC047,IPD,Facilities were well maintained and easy to access.,3,neutral,0.05,2024-10-06T20:46:02Z
+FB200845,P5351,DOC001,Emergency,Very fast response and treatment offered immediately.,5,positive,0.577,2024-08-31T18:59:34Z
+FB200846,P5029,DOC007,Laboratory,Good service overall but waiting time was slightly long.,4,positive,0.845,2024-05-05T03:27:59Z
+FB200847,P5729,DOC028,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.831,2024-07-11T03:55:10Z
+FB200848,P5737,DOC007,General,Facilities were well maintained and easy to access.,5,positive,0.927,2024-11-07T12:12:55Z
+FB200849,P5092,DOC050,Emergency,Reports were delayed causing change in follow-up plan.,5,positive,0.72,2024-08-19T12:32:40Z
+FB200850,P5512,DOC004,Surgery,Medication availability was delayed initially.,2,negative,-0.998,2024-05-18T22:26:32Z
+FB200851,P5996,DOC041,Pharmacy,Very fast response and treatment offered immediately.,3,neutral,-0.027,2024-05-29T10:06:54Z
+FB200852,P5696,DOC014,General,Good service overall but waiting time was slightly long.,4,positive,0.6,2024-10-11T13:42:41Z
+FB200853,P5846,DOC026,Surgery,Cost felt slightly higher compared to other places.,5,positive,0.816,2024-11-04T11:04:13Z
+FB200854,P5393,DOC022,Laboratory,Room or department was clean and well maintained.,1,negative,-0.723,2024-02-21T05:22:41Z
+FB200855,P5571,DOC043,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,0.076,2024-10-06T09:22:00Z
+FB200856,P5324,DOC001,OPD,Medication availability was delayed initially.,1,negative,-0.733,2024-09-30T04:16:18Z
+FB200857,P5020,DOC039,Pharmacy,Cost felt slightly higher compared to other places.,2,negative,-0.763,2024-10-05T10:57:53Z
+FB200858,P5268,DOC036,General,Good service overall but waiting time was slightly long.,4,positive,0.819,2024-10-13T23:34:43Z
+FB200859,P5625,DOC035,Radiology,Cost felt slightly higher compared to other places.,2,negative,-0.849,2024-12-12T21:43:31Z
+FB200860,P5533,DOC017,Pharmacy,Good service overall but waiting time was slightly long.,3,neutral,0.132,2024-03-16T15:28:23Z
+FB200861,P5668,DOC045,General,Medication availability was delayed initially.,2,negative,-0.573,2024-02-28T04:50:48Z
+FB200862,P5404,DOC046,Laboratory,Very fast response and treatment offered immediately.,3,neutral,0.014,2024-02-08T18:36:48Z
+FB200863,P5960,DOC011,OPD,Medication availability was delayed initially.,2,negative,-0.779,2024-10-09T00:34:31Z
+FB200864,P5770,DOC041,Pharmacy,Medication availability was delayed initially.,1,negative,-0.431,2024-07-05T08:49:46Z
+FB200865,P5888,DOC029,Laboratory,Reports were delayed causing change in follow-up plan.,4,positive,0.777,2024-10-03T14:52:21Z
+FB200866,P5795,DOC023,Radiology,Good service overall but waiting time was slightly long.,1,negative,-0.225,2024-01-16T12:03:10Z
+FB200867,P5535,DOC036,General,Facilities were well maintained and easy to access.,5,positive,0.839,2024-12-31T02:01:19Z
+FB200868,P5140,DOC040,IPD,Very fast response and treatment offered immediately.,4,positive,0.84,2024-07-21T18:34:37Z
+FB200869,P5156,DOC032,IPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.712,2024-12-13T00:42:37Z
+FB200870,P5023,DOC002,Pharmacy,Facilities were well maintained and easy to access.,4,positive,0.971,2024-09-16T23:44:41Z
+FB200871,P5305,DOC038,OPD,Reports were delayed causing change in follow-up plan.,3,neutral,-0.03,2024-05-11T02:48:23Z
+FB200872,P5881,DOC006,Pharmacy,Staff behavior was excellent and guidance was proper.,5,positive,0.582,2024-10-04T03:17:04Z
+FB200873,P5998,DOC017,Radiology,Cost felt slightly higher compared to other places.,4,positive,0.893,2024-11-20T22:40:08Z
+FB200874,P5609,DOC008,Emergency,Medication availability was delayed initially.,2,negative,-0.627,2024-11-28T18:22:24Z
+FB200875,P5853,DOC021,Radiology,Reports were delayed causing change in follow-up plan.,4,positive,0.859,2024-02-25T01:24:49Z
+FB200876,P5881,DOC009,IPD,Good service overall but waiting time was slightly long.,5,positive,0.859,2024-09-17T11:20:24Z
+FB200877,P5922,DOC043,IPD,Medication availability was delayed initially.,5,positive,0.792,2024-06-19T21:10:11Z
+FB200878,P5578,DOC025,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.85,2024-05-19T12:46:51Z
+FB200879,P5548,DOC047,General,Very fast response and treatment offered immediately.,5,positive,0.709,2024-07-18T07:02:22Z
+FB200880,P5366,DOC034,General,Cost felt slightly higher compared to other places.,1,negative,-0.88,2024-02-09T23:07:36Z
+FB200881,P5132,DOC040,IPD,Good service overall but waiting time was slightly long.,3,neutral,0.027,2024-11-08T10:16:50Z
+FB200882,P5426,DOC008,Surgery,Very fast response and treatment offered immediately.,5,positive,0.515,2024-07-31T00:17:09Z
+FB200883,P5956,DOC025,Pharmacy,Very fast response and treatment offered immediately.,3,neutral,0.06,2024-11-05T16:59:57Z
+FB200884,P5627,DOC009,Emergency,Facilities were well maintained and easy to access.,1,negative,-0.624,2024-02-06T20:31:35Z
+FB200885,P5882,DOC038,Pharmacy,Room or department was clean and well maintained.,5,positive,0.976,2024-03-06T12:39:03Z
+FB200886,P5773,DOC038,Surgery,Staff behavior was excellent and guidance was proper.,3,neutral,-0.094,2024-03-10T16:55:02Z
+FB200887,P5608,DOC025,General,Very fast response and treatment offered immediately.,4,positive,0.956,2024-10-03T17:53:08Z
+FB200888,P5349,DOC020,IPD,Facilities were well maintained and easy to access.,3,neutral,-0.041,2024-08-01T00:38:40Z
+FB200889,P5818,DOC015,Surgery,Facilities were well maintained and easy to access.,2,negative,-0.723,2024-09-07T04:08:26Z
+FB200890,P5807,DOC011,IPD,Staff behavior was excellent and guidance was proper.,4,positive,0.582,2024-02-09T10:00:33Z
+FB200891,P5260,DOC022,Pharmacy,Good service overall but waiting time was slightly long.,3,neutral,0.106,2024-04-08T14:40:44Z
+FB200892,P5682,DOC026,IPD,Staff behavior was excellent and guidance was proper.,3,neutral,0.144,2024-11-07T16:38:23Z
+FB200893,P5174,DOC020,General,Facilities were well maintained and easy to access.,2,negative,-0.546,2024-11-27T18:07:23Z
+FB200894,P5706,DOC027,IPD,Good service overall but waiting time was slightly long.,5,positive,0.514,2024-02-25T13:57:27Z
+FB200895,P5733,DOC047,Surgery,Room or department was clean and well maintained.,4,positive,0.671,2024-01-06T06:53:42Z
+FB200896,P5527,DOC027,Pharmacy,Medication availability was delayed initially.,3,neutral,0.165,2024-11-12T00:47:46Z
+FB200897,P5091,DOC027,Surgery,Room or department was clean and well maintained.,3,neutral,0.134,2024-07-14T01:53:38Z
+FB200898,P5771,DOC045,Pharmacy,Medication availability was delayed initially.,3,neutral,-0.008,2024-01-07T05:58:51Z
+FB200899,P5267,DOC015,Laboratory,Room or department was clean and well maintained.,4,positive,0.999,2024-10-30T22:02:42Z
+FB200900,P5070,DOC038,IPD,Medication availability was delayed initially.,5,positive,0.943,2024-10-16T09:39:27Z
+FB200901,P5265,DOC001,Pharmacy,Staff behavior was excellent and guidance was proper.,1,negative,-0.661,2024-04-15T18:46:27Z
+FB200902,P5585,DOC010,Radiology,Cost felt slightly higher compared to other places.,4,positive,0.526,2024-11-25T02:36:02Z
+FB200903,P5074,DOC009,Emergency,Medication availability was delayed initially.,1,negative,-0.395,2024-07-24T23:49:55Z
+FB200904,P5747,DOC036,Pharmacy,Reports were delayed causing change in follow-up plan.,1,negative,-0.261,2024-10-28T21:28:14Z
+FB200905,P5922,DOC008,IPD,Good service overall but waiting time was slightly long.,3,neutral,0.051,2024-07-03T09:14:30Z
+FB200906,P5638,DOC011,General,Cost felt slightly higher compared to other places.,2,negative,-0.741,2024-03-03T17:06:45Z
+FB200907,P5084,DOC009,Laboratory,Reports were delayed causing change in follow-up plan.,1,negative,-0.556,2024-03-21T21:59:19Z
+FB200908,P5343,DOC040,Laboratory,Very fast response and treatment offered immediately.,4,positive,0.694,2024-07-17T05:27:18Z
+FB200909,P5996,DOC002,Laboratory,Room or department was clean and well maintained.,3,neutral,0.015,2024-10-12T17:16:42Z
+FB200910,P5130,DOC031,Laboratory,Cost felt slightly higher compared to other places.,2,negative,-0.833,2024-01-11T11:15:05Z
+FB200911,P5940,DOC028,Laboratory,Staff behavior was excellent and guidance was proper.,1,negative,-0.295,2024-10-14T17:41:12Z
+FB200912,P5805,DOC030,Radiology,Medication availability was delayed initially.,1,negative,-0.439,2024-12-27T13:58:21Z
+FB200913,P5424,DOC044,General,Staff behavior was excellent and guidance was proper.,5,positive,0.517,2024-06-12T21:04:22Z
+FB200914,P5944,DOC032,Pharmacy,Room or department was clean and well maintained.,3,neutral,0.166,2024-08-15T09:08:36Z
+FB200915,P5956,DOC027,IPD,Room or department was clean and well maintained.,3,neutral,-0.077,2024-04-27T07:51:31Z
+FB200916,P5817,DOC021,Surgery,Cost felt slightly higher compared to other places.,3,neutral,0.073,2024-04-22T14:55:24Z
+FB200917,P5960,DOC002,Pharmacy,Cost felt slightly higher compared to other places.,4,positive,0.643,2024-08-02T02:28:17Z
+FB200918,P5897,DOC041,Pharmacy,Medication availability was delayed initially.,4,positive,0.787,2024-01-21T16:30:51Z
+FB200919,P5411,DOC032,Radiology,Medication availability was delayed initially.,1,negative,-0.808,2024-08-09T02:51:14Z
+FB200920,P5161,DOC047,Surgery,Facilities were well maintained and easy to access.,1,negative,-0.909,2024-10-13T15:10:39Z
+FB200921,P5626,DOC036,OPD,Medication availability was delayed initially.,3,neutral,0.098,2024-09-03T23:52:00Z
+FB200922,P5382,DOC039,General,Very fast response and treatment offered immediately.,1,negative,-0.64,2024-11-17T11:48:21Z
+FB200923,P5004,DOC041,OPD,Good service overall but waiting time was slightly long.,1,negative,-0.226,2024-12-13T13:44:20Z
+FB200924,P5234,DOC033,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.983,2024-06-02T13:22:27Z
+FB200925,P5239,DOC012,Laboratory,Facilities were well maintained and easy to access.,4,positive,0.843,2024-10-03T20:02:55Z
+FB200926,P5306,DOC034,OPD,Medication availability was delayed initially.,1,negative,-0.895,2024-04-09T11:50:48Z
+FB200927,P5918,DOC023,Surgery,Medication availability was delayed initially.,1,negative,-0.493,2024-05-22T07:43:51Z
+FB200928,P5313,DOC041,Emergency,Cost felt slightly higher compared to other places.,3,neutral,0.128,2024-08-30T02:20:48Z
+FB200929,P5758,DOC008,Surgery,Medication availability was delayed initially.,1,negative,-0.584,2024-02-07T03:24:35Z
+FB200930,P5922,DOC050,OPD,Cost felt slightly higher compared to other places.,1,negative,-0.864,2024-01-26T15:15:36Z
+FB200931,P5280,DOC014,General,Room or department was clean and well maintained.,3,neutral,0.042,2024-02-21T11:00:52Z
+FB200932,P5320,DOC032,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.524,2024-07-30T10:01:01Z
+FB200933,P5183,DOC002,Radiology,Cost felt slightly higher compared to other places.,4,positive,0.989,2024-03-05T22:42:14Z
+FB200934,P5050,DOC009,IPD,Very fast response and treatment offered immediately.,2,negative,-0.791,2024-02-16T14:28:31Z
+FB200935,P5934,DOC048,Laboratory,Reports were delayed causing change in follow-up plan.,3,neutral,-0.097,2024-08-26T03:26:38Z
+FB200936,P5592,DOC043,Radiology,Very fast response and treatment offered immediately.,1,negative,-0.405,2024-03-24T01:28:38Z
+FB200937,P5002,DOC017,Laboratory,Medication availability was delayed initially.,4,positive,0.633,2024-02-06T16:50:02Z
+FB200938,P5650,DOC011,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.892,2024-04-04T23:02:05Z
+FB200939,P5287,DOC023,General,Good service overall but waiting time was slightly long.,3,neutral,-0.028,2024-04-21T19:18:39Z
+FB200940,P5850,DOC047,Laboratory,Medication availability was delayed initially.,4,positive,0.637,2024-07-26T04:12:48Z
+FB200941,P5827,DOC029,Pharmacy,Facilities were well maintained and easy to access.,2,negative,-0.296,2024-10-25T21:23:45Z
+FB200942,P5221,DOC044,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.382,2024-08-13T23:13:46Z
+FB200943,P5799,DOC008,Radiology,Good service overall but waiting time was slightly long.,3,neutral,-0.069,2024-05-22T23:10:23Z
+FB200944,P5684,DOC037,Laboratory,Room or department was clean and well maintained.,4,positive,0.714,2024-05-14T20:09:42Z
+FB200945,P5203,DOC034,OPD,Facilities were well maintained and easy to access.,4,positive,0.853,2024-03-15T00:27:43Z
+FB200946,P5680,DOC033,Surgery,Medication availability was delayed initially.,3,neutral,0.027,2024-12-02T20:16:14Z
+FB200947,P5094,DOC005,Radiology,Very fast response and treatment offered immediately.,2,negative,-0.531,2024-10-25T21:37:18Z
+FB200948,P5912,DOC013,IPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.952,2024-12-03T21:41:36Z
+FB200949,P5053,DOC022,Emergency,Good service overall but waiting time was slightly long.,4,positive,0.985,2024-11-20T22:49:45Z
+FB200950,P5764,DOC006,IPD,Very fast response and treatment offered immediately.,4,positive,0.554,2024-05-31T04:39:21Z
+FB200951,P5975,DOC050,OPD,Facilities were well maintained and easy to access.,2,negative,-0.95,2024-01-06T16:14:40Z
+FB200952,P5604,DOC004,Laboratory,Room or department was clean and well maintained.,3,neutral,-0.024,2024-01-07T05:03:40Z
+FB200953,P5320,DOC027,Pharmacy,Reports were delayed causing change in follow-up plan.,2,negative,-0.224,2024-06-21T17:12:12Z
+FB200954,P5592,DOC029,IPD,Facilities were well maintained and easy to access.,4,positive,0.642,2024-03-05T12:58:53Z
+FB200955,P5897,DOC026,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.89,2024-05-14T11:27:36Z
+FB200956,P5671,DOC026,Radiology,Medication availability was delayed initially.,3,neutral,-0.097,2024-12-22T19:18:37Z
+FB200957,P5224,DOC022,Pharmacy,Facilities were well maintained and easy to access.,1,negative,-0.509,2024-08-31T18:14:18Z
+FB200958,P5481,DOC043,Laboratory,Good service overall but waiting time was slightly long.,3,neutral,-0.068,2024-06-19T08:37:26Z
+FB200959,P5719,DOC010,Emergency,Reports were delayed causing change in follow-up plan.,1,negative,-0.738,2024-04-06T22:35:14Z
+FB200960,P5645,DOC045,Surgery,Very fast response and treatment offered immediately.,3,neutral,-0.054,2024-02-02T21:16:15Z
+FB200961,P5538,DOC023,OPD,Reports were delayed causing change in follow-up plan.,3,neutral,-0.087,2024-08-28T06:38:51Z
+FB200962,P5502,DOC024,OPD,Cost felt slightly higher compared to other places.,1,negative,-0.721,2024-05-05T03:45:04Z
+FB200963,P5464,DOC049,IPD,Medication availability was delayed initially.,4,positive,0.687,2024-05-21T15:52:06Z
+FB200964,P5413,DOC010,IPD,Good service overall but waiting time was slightly long.,5,positive,0.501,2024-12-15T11:56:44Z
+FB200965,P5686,DOC014,IPD,Staff behavior was excellent and guidance was proper.,4,positive,0.785,2024-11-24T00:51:58Z
+FB200966,P5134,DOC008,Surgery,Very fast response and treatment offered immediately.,3,neutral,0.121,2024-03-26T19:09:08Z
+FB200967,P5600,DOC018,Emergency,Cost felt slightly higher compared to other places.,2,negative,-0.744,2024-04-19T18:55:41Z
+FB200968,P5129,DOC002,Radiology,Staff behavior was excellent and guidance was proper.,1,negative,-0.776,2024-09-08T18:53:40Z
+FB200969,P5768,DOC035,Pharmacy,Facilities were well maintained and easy to access.,3,neutral,-0.081,2024-07-13T06:18:14Z
+FB200970,P5062,DOC034,Radiology,Staff behavior was excellent and guidance was proper.,4,positive,0.904,2024-11-20T03:16:51Z
+FB200971,P5667,DOC037,Pharmacy,Facilities were well maintained and easy to access.,2,negative,-0.452,2024-10-26T21:16:08Z
+FB200972,P5810,DOC047,Pharmacy,Facilities were well maintained and easy to access.,1,negative,-0.531,2024-09-03T03:10:56Z
+FB200973,P5928,DOC036,General,Staff behavior was excellent and guidance was proper.,2,negative,-0.959,2024-02-29T16:23:02Z
+FB200974,P5270,DOC013,Laboratory,Room or department was clean and well maintained.,1,negative,-0.535,2024-11-30T02:45:01Z
+FB200975,P5249,DOC016,Radiology,Facilities were well maintained and easy to access.,2,negative,-0.528,2024-11-29T08:45:14Z
+FB200976,P5711,DOC034,Radiology,Good service overall but waiting time was slightly long.,1,negative,-0.553,2024-07-08T07:02:24Z
+FB200977,P5295,DOC028,Emergency,Good service overall but waiting time was slightly long.,2,negative,-0.868,2024-12-25T01:19:59Z
+FB200978,P5721,DOC044,OPD,Medication availability was delayed initially.,2,negative,-0.295,2024-01-04T22:31:36Z
+FB200979,P5867,DOC030,Radiology,Medication availability was delayed initially.,4,positive,0.546,2024-12-13T08:11:12Z
+FB200980,P5020,DOC017,General,Reports were delayed causing change in follow-up plan.,2,negative,-0.715,2024-11-29T11:56:37Z
+FB200981,P5243,DOC007,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.405,2024-09-02T04:11:39Z
+FB200982,P5908,DOC039,General,Facilities were well maintained and easy to access.,5,positive,0.551,2024-05-15T19:27:22Z
+FB200983,P5479,DOC046,Emergency,Medication availability was delayed initially.,3,neutral,0.112,2024-03-19T17:15:42Z
+FB200984,P5480,DOC040,Surgery,Cost felt slightly higher compared to other places.,2,negative,-0.614,2024-01-22T17:33:05Z
+FB200985,P5286,DOC040,Laboratory,Room or department was clean and well maintained.,3,neutral,-0.072,2024-10-22T10:04:14Z
+FB200986,P5017,DOC025,OPD,Medication availability was delayed initially.,3,neutral,0.092,2024-04-08T00:15:30Z
+FB200987,P5336,DOC035,IPD,Medication availability was delayed initially.,2,negative,-0.356,2024-09-01T20:42:01Z
+FB200988,P5083,DOC005,General,Staff behavior was excellent and guidance was proper.,5,positive,0.899,2024-10-06T22:56:09Z
+FB200989,P5604,DOC043,General,Facilities were well maintained and easy to access.,4,positive,0.846,2024-12-29T00:11:29Z
+FB200990,P5354,DOC035,Pharmacy,Cost felt slightly higher compared to other places.,4,positive,0.503,2024-01-26T01:26:01Z
+FB200991,P5095,DOC026,Radiology,Medication availability was delayed initially.,5,positive,0.808,2024-04-03T01:29:27Z
+FB200992,P5168,DOC009,Laboratory,Very fast response and treatment offered immediately.,4,positive,0.903,2024-03-20T06:26:00Z
+FB200993,P5900,DOC031,Laboratory,Room or department was clean and well maintained.,2,negative,-0.817,2024-07-12T23:25:01Z
+FB200994,P5057,DOC034,Surgery,Facilities were well maintained and easy to access.,4,positive,0.754,2024-04-26T17:35:00Z
+FB200995,P5756,DOC050,Pharmacy,Reports were delayed causing change in follow-up plan.,4,positive,0.925,2024-11-14T18:43:37Z
+FB200996,P5525,DOC008,Pharmacy,Reports were delayed causing change in follow-up plan.,1,negative,-0.798,2024-09-14T22:09:10Z
+FB200997,P5474,DOC024,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.464,2024-01-19T01:02:36Z
+FB200998,P5141,DOC033,General,Medication availability was delayed initially.,1,negative,-0.22,2024-04-04T00:25:10Z
+FB200999,P5394,DOC044,Radiology,Room or department was clean and well maintained.,4,positive,0.8,2024-09-12T00:47:30Z
+FB201000,P5945,DOC007,OPD,Room or department was clean and well maintained.,3,neutral,0.065,2024-03-20T03:19:16Z
+FB201001,P5537,DOC026,Pharmacy,Cost felt slightly higher compared to other places.,4,positive,0.7,2024-01-10T17:10:10Z
+FB201002,P5827,DOC012,Surgery,Facilities were well maintained and easy to access.,4,positive,0.814,2024-05-04T13:09:06Z
+FB201003,P5392,DOC013,Surgery,Staff behavior was excellent and guidance was proper.,4,positive,0.602,2024-06-18T15:19:40Z
+FB201004,P5602,DOC026,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.454,2024-01-03T00:35:24Z
+FB201005,P5386,DOC019,Pharmacy,Room or department was clean and well maintained.,4,positive,0.87,2024-03-23T00:27:45Z
+FB201006,P5791,DOC047,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.617,2024-10-08T20:05:36Z
+FB201007,P5475,DOC048,Surgery,Room or department was clean and well maintained.,4,positive,0.898,2024-08-28T12:25:46Z
+FB201008,P5063,DOC046,General,Cost felt slightly higher compared to other places.,3,neutral,0.163,2024-11-07T07:58:10Z
+FB201009,P5874,DOC044,IPD,Room or department was clean and well maintained.,5,positive,0.886,2024-05-01T11:28:21Z
+FB201010,P5694,DOC020,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.897,2024-04-12T13:00:10Z
+FB201011,P5590,DOC032,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.574,2024-01-25T16:08:18Z
+FB201012,P5529,DOC036,OPD,Good service overall but waiting time was slightly long.,3,neutral,-0.034,2024-03-27T00:32:29Z
+FB201013,P5682,DOC038,General,Room or department was clean and well maintained.,2,negative,-0.885,2024-06-07T19:17:23Z
+FB201014,P5275,DOC033,General,Staff behavior was excellent and guidance was proper.,4,positive,0.994,2024-12-18T02:05:49Z
+FB201015,P5448,DOC045,Pharmacy,Facilities were well maintained and easy to access.,3,neutral,0.174,2024-01-10T19:55:44Z
+FB201016,P5668,DOC033,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.345,2024-05-18T15:25:55Z
+FB201017,P5564,DOC036,Surgery,Good service overall but waiting time was slightly long.,2,negative,-0.518,2024-05-12T00:35:48Z
+FB201018,P5248,DOC035,IPD,Facilities were well maintained and easy to access.,1,negative,-0.322,2024-01-17T19:41:11Z
+FB201019,P5522,DOC010,Emergency,Room or department was clean and well maintained.,4,positive,0.961,2024-03-03T06:38:33Z
+FB201020,P5725,DOC031,General,Reports were delayed causing change in follow-up plan.,2,negative,-0.953,2024-07-26T05:23:34Z
+FB201021,P5826,DOC030,Surgery,Good service overall but waiting time was slightly long.,5,positive,0.931,2024-07-29T16:48:33Z
+FB201022,P5829,DOC009,IPD,Medication availability was delayed initially.,2,negative,-0.674,2024-11-25T16:51:25Z
+FB201023,P5562,DOC030,Laboratory,Medication availability was delayed initially.,2,negative,-0.476,2024-08-21T01:12:56Z
+FB201024,P5006,DOC042,General,Room or department was clean and well maintained.,1,negative,-0.503,2024-01-09T03:50:39Z
+FB201025,P5730,DOC027,Laboratory,Reports were delayed causing change in follow-up plan.,3,neutral,-0.083,2024-03-19T00:51:39Z
+FB201026,P5711,DOC001,Laboratory,Room or department was clean and well maintained.,2,negative,-0.903,2024-10-14T21:25:57Z
+FB201027,P5653,DOC012,OPD,Room or department was clean and well maintained.,5,positive,0.927,2024-05-21T06:10:58Z
+FB201028,P5460,DOC006,OPD,Reports were delayed causing change in follow-up plan.,4,positive,0.79,2024-06-23T14:53:22Z
+FB201029,P5355,DOC001,IPD,Very fast response and treatment offered immediately.,4,positive,0.994,2024-11-29T15:54:39Z
+FB201030,P5678,DOC010,IPD,Very fast response and treatment offered immediately.,1,negative,-0.347,2024-07-26T10:10:36Z
+FB201031,P5371,DOC023,Radiology,Very fast response and treatment offered immediately.,4,positive,0.508,2024-09-10T21:22:43Z
+FB201032,P5750,DOC001,Radiology,Reports were delayed causing change in follow-up plan.,3,neutral,-0.049,2024-06-25T23:30:03Z
+FB201033,P5708,DOC016,General,Good service overall but waiting time was slightly long.,2,negative,-0.665,2024-01-19T08:30:02Z
+FB201034,P5496,DOC041,Laboratory,Room or department was clean and well maintained.,3,neutral,0.051,2024-10-21T14:53:33Z
+FB201035,P5065,DOC025,General,Good service overall but waiting time was slightly long.,5,positive,0.531,2024-11-23T06:14:45Z
+FB201036,P5703,DOC037,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.468,2024-03-12T09:58:21Z
+FB201037,P5885,DOC019,OPD,Facilities were well maintained and easy to access.,5,positive,0.702,2024-07-15T17:15:46Z
+FB201038,P5500,DOC048,Radiology,Very fast response and treatment offered immediately.,5,positive,0.62,2024-01-05T00:22:41Z
+FB201039,P5282,DOC015,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.337,2024-01-31T07:24:00Z
+FB201040,P5099,DOC045,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.76,2024-04-01T18:28:56Z
+FB201041,P5233,DOC034,Emergency,Reports were delayed causing change in follow-up plan.,3,neutral,0.095,2024-04-19T10:47:30Z
+FB201042,P5162,DOC046,Laboratory,Good service overall but waiting time was slightly long.,4,positive,0.81,2024-01-22T11:46:59Z
+FB201043,P5527,DOC031,General,Room or department was clean and well maintained.,3,neutral,0.045,2024-12-21T16:27:41Z
+FB201044,P5185,DOC002,Radiology,Very fast response and treatment offered immediately.,5,positive,0.596,2024-02-11T00:39:28Z
+FB201045,P5587,DOC011,Surgery,Room or department was clean and well maintained.,4,positive,0.824,2024-01-21T07:31:32Z
+FB201046,P5488,DOC010,IPD,Cost felt slightly higher compared to other places.,4,positive,0.659,2024-08-24T14:02:43Z
+FB201047,P5893,DOC034,Radiology,Room or department was clean and well maintained.,3,neutral,0.114,2024-09-15T00:59:18Z
+FB201048,P5042,DOC007,Radiology,Cost felt slightly higher compared to other places.,3,neutral,0.015,2024-10-08T20:55:40Z
+FB201049,P5574,DOC007,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.781,2024-02-05T22:29:42Z
+FB201050,P5567,DOC007,OPD,Good service overall but waiting time was slightly long.,4,positive,0.626,2024-01-11T12:26:19Z
+FB201051,P5275,DOC002,Pharmacy,Facilities were well maintained and easy to access.,3,neutral,-0.067,2024-01-31T14:22:34Z
+FB201052,P5649,DOC023,Pharmacy,Reports were delayed causing change in follow-up plan.,5,positive,0.672,2024-05-25T23:12:43Z
+FB201053,P5182,DOC041,Emergency,Room or department was clean and well maintained.,4,positive,0.725,2024-08-29T20:51:25Z
+FB201054,P5016,DOC036,General,Facilities were well maintained and easy to access.,4,positive,0.811,2024-04-21T06:02:26Z
+FB201055,P5794,DOC020,IPD,Reports were delayed causing change in follow-up plan.,4,positive,0.985,2024-10-10T14:48:53Z
+FB201056,P5051,DOC005,Laboratory,Reports were delayed causing change in follow-up plan.,3,neutral,0.058,2024-01-14T15:34:16Z
+FB201057,P5771,DOC037,Surgery,Good service overall but waiting time was slightly long.,3,neutral,0.039,2024-04-12T13:59:44Z
+FB201058,P5558,DOC045,OPD,Reports were delayed causing change in follow-up plan.,5,positive,0.771,2024-12-28T21:49:07Z
+FB201059,P5287,DOC007,Surgery,Good service overall but waiting time was slightly long.,2,negative,-0.876,2024-09-26T11:07:36Z
+FB201060,P5219,DOC016,OPD,Medication availability was delayed initially.,5,positive,0.745,2024-11-08T05:17:40Z
+FB201061,P5074,DOC014,OPD,Very fast response and treatment offered immediately.,4,positive,0.628,2024-05-12T11:24:55Z
+FB201062,P5561,DOC031,OPD,Good service overall but waiting time was slightly long.,3,neutral,0.088,2024-09-13T23:38:21Z
+FB201063,P5837,DOC006,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.221,2024-06-21T17:18:18Z
+FB201064,P5126,DOC030,General,Good service overall but waiting time was slightly long.,2,negative,-0.805,2024-06-15T22:43:12Z
+FB201065,P5669,DOC012,Radiology,Good service overall but waiting time was slightly long.,2,negative,-0.987,2024-10-25T17:01:40Z
+FB201066,P5181,DOC028,Pharmacy,Very fast response and treatment offered immediately.,2,negative,-0.464,2024-06-09T23:58:42Z
+FB201067,P5166,DOC008,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.898,2024-10-04T10:44:21Z
+FB201068,P5667,DOC016,General,Good service overall but waiting time was slightly long.,4,positive,0.778,2024-05-11T06:09:08Z
+FB201069,P5957,DOC036,Surgery,Room or department was clean and well maintained.,3,neutral,-0.025,2024-02-13T16:25:47Z
+FB201070,P5518,DOC048,Radiology,Good service overall but waiting time was slightly long.,2,negative,-0.987,2024-06-11T01:54:45Z
+FB201071,P5896,DOC050,Surgery,Room or department was clean and well maintained.,3,neutral,0.083,2024-07-17T10:52:50Z
+FB201072,P5107,DOC039,IPD,Room or department was clean and well maintained.,4,positive,0.726,2024-12-06T18:03:43Z
+FB201073,P5925,DOC002,Surgery,Staff behavior was excellent and guidance was proper.,3,neutral,-0.088,2024-04-03T22:28:19Z
+FB201074,P5227,DOC029,Emergency,Reports were delayed causing change in follow-up plan.,2,negative,-0.897,2024-04-08T03:35:06Z
+FB201075,P5871,DOC007,Emergency,Reports were delayed causing change in follow-up plan.,3,neutral,-0.024,2024-05-12T01:35:54Z
+FB201076,P5803,DOC014,Radiology,Room or department was clean and well maintained.,3,neutral,-0.02,2024-07-27T01:11:49Z
+FB201077,P5953,DOC010,Radiology,Good service overall but waiting time was slightly long.,2,negative,-0.747,2024-02-22T03:04:02Z
+FB201078,P5632,DOC047,General,Reports were delayed causing change in follow-up plan.,5,positive,0.72,2024-02-22T19:39:30Z
+FB201079,P5174,DOC003,Laboratory,Room or department was clean and well maintained.,2,negative,-0.223,2024-09-24T06:48:25Z
+FB201080,P5148,DOC004,OPD,Facilities were well maintained and easy to access.,4,positive,0.886,2024-03-25T01:47:31Z
+FB201081,P5995,DOC033,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.78,2024-08-15T13:32:56Z
+FB201082,P5696,DOC011,Pharmacy,Facilities were well maintained and easy to access.,4,positive,0.978,2024-10-23T23:04:59Z
+FB201083,P5947,DOC004,General,Cost felt slightly higher compared to other places.,1,negative,-0.835,2024-04-02T03:10:39Z
+FB201084,P5337,DOC041,Pharmacy,Facilities were well maintained and easy to access.,1,negative,-0.729,2024-08-11T20:44:02Z
+FB201085,P5560,DOC015,Surgery,Very fast response and treatment offered immediately.,1,negative,-0.259,2024-02-27T13:05:20Z
+FB201086,P5802,DOC022,General,Staff behavior was excellent and guidance was proper.,5,positive,0.918,2024-01-23T19:30:54Z
+FB201087,P5673,DOC045,Laboratory,Staff behavior was excellent and guidance was proper.,4,positive,0.519,2024-02-17T22:50:38Z
+FB201088,P5331,DOC040,Laboratory,Staff behavior was excellent and guidance was proper.,1,negative,-0.521,2024-11-03T15:17:24Z
+FB201089,P5028,DOC010,General,Very fast response and treatment offered immediately.,5,positive,0.873,2024-04-23T20:00:05Z
+FB201090,P5639,DOC015,General,Good service overall but waiting time was slightly long.,1,negative,-0.754,2024-07-21T11:50:14Z
+FB201091,P5029,DOC020,IPD,Medication availability was delayed initially.,2,negative,-0.637,2024-08-01T06:57:38Z
+FB201092,P5394,DOC041,IPD,Room or department was clean and well maintained.,3,neutral,0.005,2024-04-29T08:14:35Z
+FB201093,P5884,DOC021,General,Room or department was clean and well maintained.,2,negative,-0.513,2024-06-17T13:03:54Z
+FB201094,P5986,DOC018,Pharmacy,Good service overall but waiting time was slightly long.,4,positive,0.53,2024-12-17T13:24:24Z
+FB201095,P5364,DOC042,Radiology,Good service overall but waiting time was slightly long.,1,negative,-0.908,2024-12-07T01:33:13Z
+FB201096,P5252,DOC044,Laboratory,Staff behavior was excellent and guidance was proper.,5,positive,0.957,2024-05-03T09:47:47Z
+FB201097,P5399,DOC004,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.964,2024-10-14T08:38:17Z
+FB201098,P5151,DOC009,Radiology,Staff behavior was excellent and guidance was proper.,4,positive,0.847,2024-09-18T06:34:56Z
+FB201099,P5315,DOC036,Pharmacy,Reports were delayed causing change in follow-up plan.,2,negative,-0.688,2024-04-30T08:46:46Z
+FB201100,P5200,DOC023,OPD,Room or department was clean and well maintained.,4,positive,0.577,2024-05-09T05:32:18Z
+FB201101,P5029,DOC028,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.72,2024-12-27T18:06:00Z
+FB201102,P5789,DOC012,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.284,2024-05-03T02:02:41Z
+FB201103,P5982,DOC035,Radiology,Cost felt slightly higher compared to other places.,1,negative,-0.61,2024-08-19T03:11:29Z
+FB201104,P5227,DOC021,Surgery,Medication availability was delayed initially.,3,neutral,0.069,2024-10-16T08:04:01Z
+FB201105,P5195,DOC036,General,Good service overall but waiting time was slightly long.,2,negative,-0.743,2024-07-02T18:36:06Z
+FB201106,P5558,DOC004,OPD,Room or department was clean and well maintained.,5,positive,0.835,2024-05-16T10:41:44Z
+FB201107,P5428,DOC001,IPD,Staff behavior was excellent and guidance was proper.,4,positive,0.705,2024-08-25T09:49:44Z
+FB201108,P5471,DOC021,Laboratory,Cost felt slightly higher compared to other places.,2,negative,-0.287,2024-10-07T15:48:43Z
+FB201109,P5810,DOC043,Emergency,Good service overall but waiting time was slightly long.,1,negative,-0.693,2024-03-15T22:53:54Z
+FB201110,P5917,DOC041,Radiology,Facilities were well maintained and easy to access.,1,negative,-0.786,2024-05-05T03:41:54Z
+FB201111,P5807,DOC037,OPD,Medication availability was delayed initially.,2,negative,-0.692,2024-01-30T06:19:53Z
+FB201112,P5268,DOC043,Radiology,Room or department was clean and well maintained.,2,negative,-0.743,2024-10-04T12:20:11Z
+FB201113,P5363,DOC039,Laboratory,Good service overall but waiting time was slightly long.,1,negative,-0.856,2024-12-04T12:11:43Z
+FB201114,P5803,DOC039,Radiology,Cost felt slightly higher compared to other places.,1,negative,-0.794,2024-09-29T22:38:07Z
+FB201115,P5197,DOC029,Emergency,Medication availability was delayed initially.,2,negative,-0.687,2024-05-13T04:10:54Z
+FB201116,P5705,DOC031,General,Medication availability was delayed initially.,1,negative,-0.678,2024-02-19T06:25:18Z
+FB201117,P5757,DOC022,Emergency,Cost felt slightly higher compared to other places.,1,negative,-0.609,2024-08-14T08:48:05Z
+FB201118,P5214,DOC028,Surgery,Room or department was clean and well maintained.,2,negative,-0.202,2024-12-02T07:41:01Z
+FB201119,P5405,DOC019,OPD,Facilities were well maintained and easy to access.,1,negative,-0.872,2024-03-20T20:34:53Z
+FB201120,P5083,DOC031,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.607,2024-09-20T04:37:56Z
+FB201121,P5079,DOC019,Radiology,Medication availability was delayed initially.,4,positive,0.667,2024-05-01T03:07:55Z
+FB201122,P5734,DOC009,Emergency,Room or department was clean and well maintained.,2,negative,-0.929,2024-02-09T08:09:08Z
+FB201123,P5128,DOC017,General,Room or department was clean and well maintained.,2,negative,-0.548,2024-07-01T23:12:28Z
+FB201124,P5804,DOC024,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,-0.028,2024-05-23T11:55:08Z
+FB201125,P5631,DOC009,General,Facilities were well maintained and easy to access.,3,neutral,-0.081,2024-03-26T01:04:39Z
+FB201126,P5112,DOC024,General,Facilities were well maintained and easy to access.,3,neutral,0.178,2024-02-26T02:37:41Z
+FB201127,P5320,DOC005,Emergency,Staff behavior was excellent and guidance was proper.,1,negative,-0.615,2024-07-16T00:01:36Z
+FB201128,P5491,DOC033,IPD,Room or department was clean and well maintained.,2,negative,-0.989,2024-10-14T20:44:46Z
+FB201129,P5441,DOC025,Surgery,Facilities were well maintained and easy to access.,2,negative,-0.347,2024-07-25T21:48:46Z
+FB201130,P5444,DOC030,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.337,2024-05-11T02:25:55Z
+FB201131,P5786,DOC025,Surgery,Room or department was clean and well maintained.,3,neutral,0.19,2024-08-31T14:11:32Z
+FB201132,P5169,DOC044,IPD,Good service overall but waiting time was slightly long.,3,neutral,-0.008,2024-02-16T20:20:10Z
+FB201133,P5121,DOC010,Emergency,Medication availability was delayed initially.,1,negative,-0.279,2024-06-18T02:42:02Z
+FB201134,P5974,DOC037,General,Room or department was clean and well maintained.,4,positive,0.523,2024-11-12T17:18:35Z
+FB201135,P5510,DOC005,Laboratory,Good service overall but waiting time was slightly long.,3,neutral,0.144,2024-10-26T07:09:01Z
+FB201136,P5673,DOC029,Radiology,Medication availability was delayed initially.,4,positive,0.947,2024-10-07T06:34:24Z
+FB201137,P5449,DOC039,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.623,2024-01-11T08:12:15Z
+FB201138,P5965,DOC047,Radiology,Good service overall but waiting time was slightly long.,3,neutral,-0.044,2024-03-06T07:08:31Z
+FB201139,P5149,DOC016,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.871,2024-10-26T15:12:23Z
+FB201140,P5011,DOC022,IPD,Medication availability was delayed initially.,4,positive,0.515,2024-11-25T08:47:07Z
+FB201141,P5859,DOC039,OPD,Room or department was clean and well maintained.,4,positive,0.701,2024-01-18T00:07:40Z
+FB201142,P5904,DOC048,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.97,2024-12-25T15:44:07Z
+FB201143,P5074,DOC039,Pharmacy,Very fast response and treatment offered immediately.,3,neutral,0.034,2024-03-08T08:24:30Z
+FB201144,P5628,DOC047,General,Very fast response and treatment offered immediately.,3,neutral,0.165,2024-11-15T07:31:48Z
+FB201145,P5715,DOC045,IPD,Very fast response and treatment offered immediately.,5,positive,0.882,2024-08-29T06:32:19Z
+FB201146,P5029,DOC012,Surgery,Very fast response and treatment offered immediately.,4,positive,0.56,2024-03-12T21:12:41Z
+FB201147,P5796,DOC023,Radiology,Staff behavior was excellent and guidance was proper.,2,negative,-0.693,2024-10-12T21:07:51Z
+FB201148,P5249,DOC035,Emergency,Very fast response and treatment offered immediately.,4,positive,0.511,2024-05-14T16:39:04Z
+FB201149,P5316,DOC027,Emergency,Room or department was clean and well maintained.,2,negative,-0.258,2024-11-30T06:00:08Z
+FB201150,P5543,DOC048,OPD,Very fast response and treatment offered immediately.,2,negative,-0.284,2024-09-14T11:56:36Z
+FB201151,P5001,DOC024,Emergency,Medication availability was delayed initially.,4,positive,0.789,2024-03-15T00:03:37Z
+FB201152,P5756,DOC043,Emergency,Room or department was clean and well maintained.,1,negative,-0.849,2024-09-10T04:47:59Z
+FB201153,P5244,DOC019,OPD,Medication availability was delayed initially.,1,negative,-0.553,2024-07-05T21:06:02Z
+FB201154,P5797,DOC025,General,Good service overall but waiting time was slightly long.,4,positive,0.701,2024-04-03T21:50:02Z
+FB201155,P5869,DOC030,General,Medication availability was delayed initially.,2,negative,-0.517,2024-09-04T21:26:42Z
+FB201156,P5183,DOC018,OPD,Medication availability was delayed initially.,3,neutral,-0.07,2024-05-11T07:25:59Z
+FB201157,P5865,DOC042,Emergency,Very fast response and treatment offered immediately.,1,negative,-0.606,2024-10-14T18:26:17Z
+FB201158,P5458,DOC018,Radiology,Facilities were well maintained and easy to access.,4,positive,0.934,2024-05-19T00:29:14Z
+FB201159,P5318,DOC011,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,-0.081,2024-08-03T17:21:47Z
+FB201160,P5450,DOC021,Laboratory,Staff behavior was excellent and guidance was proper.,3,neutral,0.145,2024-03-21T17:25:17Z
+FB201161,P5033,DOC027,Laboratory,Cost felt slightly higher compared to other places.,1,negative,-0.656,2024-01-08T12:08:37Z
+FB201162,P5478,DOC047,Laboratory,Cost felt slightly higher compared to other places.,5,positive,0.885,2024-07-31T00:32:04Z
+FB201163,P5447,DOC019,IPD,Room or department was clean and well maintained.,2,negative,-0.564,2024-11-26T23:46:48Z
+FB201164,P5103,DOC008,Radiology,Room or department was clean and well maintained.,5,positive,0.913,2024-05-30T12:16:09Z
+FB201165,P5138,DOC015,Emergency,Room or department was clean and well maintained.,1,negative,-0.442,2024-06-24T21:21:00Z
+FB201166,P5910,DOC025,Surgery,Very fast response and treatment offered immediately.,5,positive,0.764,2024-06-07T07:54:35Z
+FB201167,P5118,DOC033,Pharmacy,Medication availability was delayed initially.,5,positive,0.769,2024-10-17T03:25:30Z
+FB201168,P5885,DOC033,General,Room or department was clean and well maintained.,1,negative,-0.425,2024-12-03T10:47:12Z
+FB201169,P5814,DOC027,OPD,Cost felt slightly higher compared to other places.,3,neutral,0.045,2024-07-09T09:36:40Z
+FB201170,P5608,DOC026,General,Room or department was clean and well maintained.,4,positive,0.906,2024-08-15T00:58:44Z
+FB201171,P5591,DOC042,OPD,Cost felt slightly higher compared to other places.,4,positive,0.751,2024-09-25T07:12:49Z
+FB201172,P5236,DOC033,Laboratory,Cost felt slightly higher compared to other places.,4,positive,0.6,2024-07-15T08:53:32Z
+FB201173,P5917,DOC049,Emergency,Staff behavior was excellent and guidance was proper.,1,negative,-0.688,2024-12-02T02:40:04Z
+FB201174,P5591,DOC049,Laboratory,Good service overall but waiting time was slightly long.,2,negative,-0.779,2024-09-26T14:40:13Z
+FB201175,P5899,DOC012,General,Cost felt slightly higher compared to other places.,2,negative,-0.353,2024-04-24T14:22:17Z
+FB201176,P5818,DOC034,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.213,2024-07-20T11:31:26Z
+FB201177,P5013,DOC040,Surgery,Facilities were well maintained and easy to access.,3,neutral,0.107,2024-09-19T01:22:13Z
+FB201178,P5612,DOC012,Pharmacy,Cost felt slightly higher compared to other places.,4,positive,0.606,2024-01-05T03:09:54Z
+FB201179,P5462,DOC025,OPD,Facilities were well maintained and easy to access.,5,positive,0.793,2024-11-24T08:43:02Z
+FB201180,P5580,DOC044,Emergency,Cost felt slightly higher compared to other places.,3,neutral,0.087,2024-01-20T17:14:49Z
+FB201181,P5453,DOC003,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,0.092,2024-02-17T05:57:58Z
+FB201182,P5385,DOC039,OPD,Medication availability was delayed initially.,4,positive,0.555,2024-08-22T23:41:51Z
+FB201183,P5071,DOC014,General,Good service overall but waiting time was slightly long.,1,negative,-0.868,2024-02-09T07:18:23Z
+FB201184,P5866,DOC006,IPD,Facilities were well maintained and easy to access.,1,negative,-0.817,2024-04-03T13:05:49Z
+FB201185,P5783,DOC046,Radiology,Good service overall but waiting time was slightly long.,3,neutral,0.19,2024-11-03T23:55:21Z
+FB201186,P5509,DOC050,Surgery,Good service overall but waiting time was slightly long.,4,positive,0.514,2024-03-10T05:41:52Z
+FB201187,P5221,DOC032,General,Medication availability was delayed initially.,5,positive,0.907,2024-12-26T15:16:05Z
+FB201188,P5525,DOC045,IPD,Facilities were well maintained and easy to access.,1,negative,-0.592,2024-05-28T06:15:44Z
+FB201189,P5494,DOC018,General,Very fast response and treatment offered immediately.,2,negative,-0.959,2024-06-07T14:45:54Z
+FB201190,P5065,DOC009,Laboratory,Very fast response and treatment offered immediately.,3,neutral,-0.073,2024-01-17T13:02:41Z
+FB201191,P5671,DOC045,OPD,Medication availability was delayed initially.,2,negative,-0.78,2024-02-27T08:25:04Z
+FB201192,P5940,DOC032,Pharmacy,Cost felt slightly higher compared to other places.,1,negative,-0.965,2024-10-16T13:11:09Z
+FB201193,P5591,DOC010,Pharmacy,Reports were delayed causing change in follow-up plan.,2,negative,-0.692,2024-10-15T11:24:33Z
+FB201194,P5536,DOC045,Radiology,Facilities were well maintained and easy to access.,3,neutral,0.146,2024-10-29T20:18:38Z
+FB201195,P5009,DOC003,Surgery,Facilities were well maintained and easy to access.,2,negative,-0.439,2024-09-24T22:27:01Z
+FB201196,P5496,DOC030,Radiology,Very fast response and treatment offered immediately.,2,negative,-0.938,2024-10-20T07:00:43Z
+FB201197,P5116,DOC036,OPD,Very fast response and treatment offered immediately.,3,neutral,0.137,2024-09-22T07:10:15Z
+FB201198,P5100,DOC043,General,Cost felt slightly higher compared to other places.,1,negative,-0.361,2024-10-07T06:11:39Z
+FB201199,P5442,DOC026,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.791,2024-05-15T03:16:12Z
+FB201200,P5982,DOC033,OPD,Very fast response and treatment offered immediately.,1,negative,-0.23,2024-06-28T20:50:02Z
+FB201201,P5400,DOC034,IPD,Medication availability was delayed initially.,3,neutral,0.129,2024-08-19T00:50:25Z
+FB201202,P5247,DOC006,Emergency,Room or department was clean and well maintained.,2,negative,-0.381,2024-08-28T07:43:07Z
+FB201203,P5999,DOC046,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.516,2024-04-18T11:19:27Z
+FB201204,P5251,DOC043,Surgery,Medication availability was delayed initially.,4,positive,0.842,2024-01-06T01:41:13Z
+FB201205,P5997,DOC036,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.826,2024-01-08T02:07:32Z
+FB201206,P5918,DOC041,IPD,Cost felt slightly higher compared to other places.,1,negative,-0.724,2024-04-06T02:43:29Z
+FB201207,P5232,DOC041,Radiology,Staff behavior was excellent and guidance was proper.,1,negative,-0.954,2024-09-10T22:03:06Z
+FB201208,P5616,DOC012,Surgery,Cost felt slightly higher compared to other places.,3,neutral,-0.096,2024-01-19T11:55:50Z
+FB201209,P5509,DOC014,Pharmacy,Medication availability was delayed initially.,2,negative,-0.964,2024-06-29T17:29:59Z
+FB201210,P5714,DOC020,IPD,Medication availability was delayed initially.,3,neutral,0.072,2024-03-03T05:11:51Z
+FB201211,P5710,DOC009,OPD,Very fast response and treatment offered immediately.,3,neutral,0.054,2024-02-15T05:01:38Z
+FB201212,P5781,DOC021,Radiology,Facilities were well maintained and easy to access.,4,positive,0.528,2024-04-10T19:39:57Z
+FB201213,P5428,DOC011,OPD,Facilities were well maintained and easy to access.,5,positive,0.582,2024-09-15T17:12:05Z
+FB201214,P5374,DOC035,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.565,2024-05-05T17:52:53Z
+FB201215,P5719,DOC001,IPD,Medication availability was delayed initially.,3,neutral,0.077,2024-11-09T14:15:55Z
+FB201216,P5883,DOC039,IPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.911,2024-08-02T17:23:00Z
+FB201217,P5876,DOC049,Surgery,Reports were delayed causing change in follow-up plan.,2,negative,-0.237,2024-06-08T02:55:32Z
+FB201218,P5844,DOC031,IPD,Very fast response and treatment offered immediately.,2,negative,-0.412,2024-03-27T22:43:00Z
+FB201219,P5835,DOC042,Surgery,Room or department was clean and well maintained.,2,negative,-0.712,2024-07-31T08:34:59Z
+FB201220,P5079,DOC047,Pharmacy,Reports were delayed causing change in follow-up plan.,3,neutral,-0.081,2024-12-20T19:02:05Z
+FB201221,P5761,DOC038,IPD,Very fast response and treatment offered immediately.,2,negative,-0.896,2024-10-24T19:43:32Z
+FB201222,P5570,DOC003,Laboratory,Cost felt slightly higher compared to other places.,3,neutral,-0.062,2024-03-23T13:28:47Z
+FB201223,P5523,DOC019,Laboratory,Very fast response and treatment offered immediately.,1,negative,-0.948,2024-01-30T14:33:11Z
+FB201224,P5330,DOC009,OPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.683,2024-02-14T18:57:12Z
+FB201225,P5395,DOC037,General,Facilities were well maintained and easy to access.,3,neutral,-0.066,2024-09-09T08:03:54Z
+FB201226,P5489,DOC012,General,Staff behavior was excellent and guidance was proper.,5,positive,0.761,2024-01-07T03:53:58Z
+FB201227,P5059,DOC050,OPD,Good service overall but waiting time was slightly long.,3,neutral,-0.079,2024-12-08T13:51:12Z
+FB201228,P5965,DOC026,Laboratory,Cost felt slightly higher compared to other places.,2,negative,-0.803,2024-12-06T09:47:56Z
+FB201229,P5242,DOC035,IPD,Room or department was clean and well maintained.,4,positive,0.799,2024-11-24T13:36:22Z
+FB201230,P5556,DOC033,OPD,Good service overall but waiting time was slightly long.,5,positive,0.965,2024-10-13T06:47:07Z
+FB201231,P5024,DOC002,OPD,Very fast response and treatment offered immediately.,5,positive,0.686,2024-03-17T18:36:13Z
+FB201232,P5550,DOC036,General,Medication availability was delayed initially.,5,positive,0.8,2024-11-10T05:01:59Z
+FB201233,P5427,DOC023,Radiology,Medication availability was delayed initially.,3,neutral,0.074,2024-10-01T04:27:57Z
+FB201234,P5016,DOC011,Pharmacy,Reports were delayed causing change in follow-up plan.,2,negative,-0.91,2024-08-29T20:17:59Z
+FB201235,P5579,DOC030,Pharmacy,Very fast response and treatment offered immediately.,1,negative,-0.492,2024-05-28T22:36:34Z
+FB201236,P5355,DOC039,Surgery,Medication availability was delayed initially.,5,positive,0.968,2024-03-02T16:50:15Z
+FB201237,P5927,DOC017,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.68,2024-01-26T03:58:37Z
+FB201238,P5885,DOC034,IPD,Staff behavior was excellent and guidance was proper.,2,negative,-0.304,2024-06-02T07:42:42Z
+FB201239,P5068,DOC011,OPD,Reports were delayed causing change in follow-up plan.,5,positive,0.771,2024-06-24T19:01:32Z
+FB201240,P5980,DOC049,Emergency,Very fast response and treatment offered immediately.,1,negative,-0.292,2024-11-10T14:45:54Z
+FB201241,P5156,DOC034,General,Staff behavior was excellent and guidance was proper.,5,positive,0.837,2024-03-11T00:45:03Z
+FB201242,P5254,DOC007,Laboratory,Reports were delayed causing change in follow-up plan.,5,positive,0.65,2024-12-29T16:54:31Z
+FB201243,P5095,DOC040,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.353,2024-04-28T12:08:15Z
+FB201244,P5485,DOC001,OPD,Cost felt slightly higher compared to other places.,3,neutral,-0.008,2024-12-10T14:10:16Z
+FB201245,P5688,DOC025,OPD,Good service overall but waiting time was slightly long.,4,positive,0.658,2024-08-21T18:20:16Z
+FB201246,P5088,DOC005,Pharmacy,Room or department was clean and well maintained.,5,positive,0.648,2024-07-02T17:19:54Z
+FB201247,P5979,DOC023,Pharmacy,Staff behavior was excellent and guidance was proper.,5,positive,0.816,2024-07-17T04:55:58Z
+FB201248,P5055,DOC048,OPD,Good service overall but waiting time was slightly long.,4,positive,0.646,2024-08-27T21:41:04Z
+FB201249,P5842,DOC018,OPD,Cost felt slightly higher compared to other places.,4,positive,0.625,2024-08-07T22:23:12Z
+FB201250,P5560,DOC007,Surgery,Very fast response and treatment offered immediately.,4,positive,0.718,2024-11-17T22:13:24Z
+FB201251,P5928,DOC026,General,Very fast response and treatment offered immediately.,4,positive,0.504,2024-06-23T20:34:23Z
+FB201252,P5582,DOC029,IPD,Medication availability was delayed initially.,5,positive,0.948,2024-04-07T02:54:20Z
+FB201253,P5705,DOC046,General,Facilities were well maintained and easy to access.,4,positive,0.587,2024-09-23T08:08:32Z
+FB201254,P5571,DOC038,Emergency,Facilities were well maintained and easy to access.,5,positive,0.804,2024-02-18T14:43:39Z
+FB201255,P5245,DOC047,Radiology,Medication availability was delayed initially.,2,negative,-0.477,2024-12-02T00:23:23Z
+FB201256,P5414,DOC035,Pharmacy,Medication availability was delayed initially.,5,positive,0.695,2024-05-16T23:00:42Z
+FB201257,P5118,DOC049,OPD,Reports were delayed causing change in follow-up plan.,5,positive,0.934,2024-02-08T18:43:27Z
+FB201258,P5904,DOC047,OPD,Room or department was clean and well maintained.,1,negative,-0.6,2024-10-21T03:17:30Z
+FB201259,P5856,DOC013,Emergency,Facilities were well maintained and easy to access.,1,negative,-0.546,2024-06-08T15:21:08Z
+FB201260,P5322,DOC027,Emergency,Cost felt slightly higher compared to other places.,1,negative,-0.281,2024-09-30T08:02:26Z
+FB201261,P5615,DOC047,Laboratory,Reports were delayed causing change in follow-up plan.,4,positive,0.838,2024-05-11T13:20:17Z
+FB201262,P5282,DOC032,Radiology,Room or department was clean and well maintained.,3,neutral,0.114,2024-07-23T03:35:10Z
+FB201263,P5937,DOC008,Emergency,Cost felt slightly higher compared to other places.,2,negative,-0.628,2024-01-02T00:09:35Z
+FB201264,P5580,DOC032,Laboratory,Room or department was clean and well maintained.,4,positive,0.942,2024-09-23T21:58:01Z
+FB201265,P5965,DOC034,IPD,Reports were delayed causing change in follow-up plan.,4,positive,0.688,2024-06-09T08:11:48Z
+FB201266,P5553,DOC006,OPD,Very fast response and treatment offered immediately.,5,positive,0.635,2024-07-09T13:13:12Z
+FB201267,P5459,DOC035,OPD,Good service overall but waiting time was slightly long.,1,negative,-0.583,2024-12-14T05:26:29Z
+FB201268,P5451,DOC017,Laboratory,Medication availability was delayed initially.,5,positive,0.513,2024-07-30T13:38:02Z
+FB201269,P5188,DOC042,General,Room or department was clean and well maintained.,2,negative,-0.985,2024-12-02T21:13:46Z
+FB201270,P5509,DOC049,Laboratory,Staff behavior was excellent and guidance was proper.,1,negative,-0.337,2024-02-20T07:28:31Z
+FB201271,P5189,DOC022,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.799,2024-06-12T14:41:37Z
+FB201272,P5219,DOC025,Laboratory,Medication availability was delayed initially.,2,negative,-0.843,2024-09-17T14:35:54Z
+FB201273,P5091,DOC040,General,Cost felt slightly higher compared to other places.,1,negative,-0.835,2024-12-17T11:46:54Z
+FB201274,P5570,DOC018,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.768,2024-01-31T20:44:02Z
+FB201275,P5275,DOC002,Pharmacy,Staff behavior was excellent and guidance was proper.,4,positive,0.918,2024-10-28T20:33:43Z
+FB201276,P5024,DOC038,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.972,2024-09-18T07:20:30Z
+FB201277,P5560,DOC043,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.735,2024-11-04T00:57:00Z
+FB201278,P5517,DOC043,Laboratory,Facilities were well maintained and easy to access.,5,positive,0.814,2024-04-21T16:38:59Z
+FB201279,P5796,DOC005,General,Facilities were well maintained and easy to access.,5,positive,0.545,2024-08-30T00:16:32Z
+FB201280,P5243,DOC030,Emergency,Room or department was clean and well maintained.,4,positive,0.982,2024-08-22T07:37:56Z
+FB201281,P5111,DOC021,Pharmacy,Room or department was clean and well maintained.,5,positive,0.886,2024-12-24T16:02:41Z
+FB201282,P5364,DOC023,OPD,Reports were delayed causing change in follow-up plan.,2,negative,-0.531,2024-08-20T01:37:58Z
+FB201283,P5827,DOC030,IPD,Facilities were well maintained and easy to access.,2,negative,-0.343,2024-04-21T18:04:37Z
+FB201284,P5246,DOC012,Emergency,Cost felt slightly higher compared to other places.,3,neutral,0.138,2024-05-21T13:00:40Z
+FB201285,P5101,DOC029,Emergency,Staff behavior was excellent and guidance was proper.,2,negative,-0.441,2024-10-19T02:48:58Z
+FB201286,P5316,DOC045,Radiology,Cost felt slightly higher compared to other places.,3,neutral,-0.015,2024-02-17T23:56:51Z
+FB201287,P5370,DOC015,IPD,Room or department was clean and well maintained.,5,positive,0.758,2024-01-25T08:01:12Z
+FB201288,P5984,DOC015,General,Good service overall but waiting time was slightly long.,1,negative,-0.41,2024-04-18T21:29:24Z
+FB201289,P5179,DOC033,General,Reports were delayed causing change in follow-up plan.,2,negative,-0.539,2024-03-04T11:58:59Z
+FB201290,P5378,DOC026,General,Medication availability was delayed initially.,5,positive,0.58,2024-07-01T15:44:50Z
+FB201291,P5533,DOC026,Pharmacy,Medication availability was delayed initially.,5,positive,0.606,2024-05-17T10:10:31Z
+FB201292,P5323,DOC001,OPD,Staff behavior was excellent and guidance was proper.,4,positive,0.668,2024-06-28T08:09:28Z
+FB201293,P5688,DOC008,Laboratory,Room or department was clean and well maintained.,2,negative,-0.475,2024-04-04T08:27:23Z
+FB201294,P5457,DOC037,IPD,Good service overall but waiting time was slightly long.,5,positive,0.592,2024-08-10T09:01:02Z
+FB201295,P5485,DOC036,OPD,Room or department was clean and well maintained.,2,negative,-0.541,2024-12-24T21:04:43Z
+FB201296,P5236,DOC025,Surgery,Reports were delayed causing change in follow-up plan.,2,negative,-0.55,2024-07-10T21:12:45Z
+FB201297,P5900,DOC027,Pharmacy,Medication availability was delayed initially.,1,negative,-0.512,2024-09-14T08:13:55Z
+FB201298,P5727,DOC039,IPD,Staff behavior was excellent and guidance was proper.,5,positive,0.649,2024-11-29T10:12:31Z
+FB201299,P5070,DOC016,General,Staff behavior was excellent and guidance was proper.,3,neutral,0.067,2024-12-06T22:27:36Z
+FB201300,P5606,DOC003,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.55,2024-09-07T20:01:36Z
+FB201301,P5159,DOC021,General,Room or department was clean and well maintained.,1,negative,-0.774,2024-06-17T06:11:36Z
+FB201302,P5840,DOC001,IPD,Facilities were well maintained and easy to access.,2,negative,-0.499,2024-09-24T11:36:58Z
+FB201303,P5769,DOC044,Radiology,Reports were delayed causing change in follow-up plan.,4,positive,0.897,2024-12-11T08:21:48Z
+FB201304,P5588,DOC050,Laboratory,Good service overall but waiting time was slightly long.,3,neutral,0.093,2024-12-22T09:19:56Z
+FB201305,P5386,DOC010,Surgery,Reports were delayed causing change in follow-up plan.,2,negative,-0.223,2024-01-15T23:51:29Z
+FB201306,P5850,DOC035,General,Room or department was clean and well maintained.,1,negative,-0.749,2024-05-14T22:24:04Z
+FB201307,P5645,DOC012,Laboratory,Reports were delayed causing change in follow-up plan.,5,positive,0.884,2024-12-29T01:37:11Z
+FB201308,P5715,DOC048,Laboratory,Facilities were well maintained and easy to access.,3,neutral,0.139,2024-10-14T09:25:01Z
+FB201309,P5740,DOC039,Surgery,Staff behavior was excellent and guidance was proper.,3,neutral,-0.018,2024-07-12T05:24:57Z
+FB201310,P5001,DOC041,Surgery,Very fast response and treatment offered immediately.,1,negative,-0.967,2024-01-13T08:51:44Z
+FB201311,P5629,DOC040,Radiology,Reports were delayed causing change in follow-up plan.,5,positive,0.551,2024-08-29T23:13:06Z
+FB201312,P5836,DOC004,General,Reports were delayed causing change in follow-up plan.,1,negative,-0.755,2024-01-15T06:34:29Z
+FB201313,P5187,DOC028,Emergency,Cost felt slightly higher compared to other places.,4,positive,0.736,2024-07-07T09:22:09Z
+FB201314,P5617,DOC029,General,Staff behavior was excellent and guidance was proper.,1,negative,-0.56,2024-08-23T11:54:52Z
+FB201315,P5724,DOC015,General,Very fast response and treatment offered immediately.,2,negative,-0.644,2024-08-08T22:39:54Z
+FB201316,P5542,DOC029,Pharmacy,Very fast response and treatment offered immediately.,4,positive,0.779,2024-09-23T06:01:54Z
+FB201317,P5874,DOC036,Pharmacy,Facilities were well maintained and easy to access.,3,neutral,0.146,2024-07-07T22:06:36Z
+FB201318,P5073,DOC046,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.797,2024-08-26T21:40:01Z
+FB201319,P5015,DOC034,General,Medication availability was delayed initially.,5,positive,0.646,2024-09-10T09:59:45Z
+FB201320,P5020,DOC018,General,Reports were delayed causing change in follow-up plan.,5,positive,0.729,2024-09-21T13:36:52Z
+FB201321,P5508,DOC020,General,Reports were delayed causing change in follow-up plan.,5,positive,0.929,2024-04-15T08:31:14Z
+FB201322,P5007,DOC017,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.935,2024-01-21T00:26:55Z
+FB201323,P5788,DOC003,Laboratory,Cost felt slightly higher compared to other places.,1,negative,-0.555,2024-10-10T13:12:31Z
+FB201324,P5655,DOC019,OPD,Medication availability was delayed initially.,4,positive,0.97,2024-04-29T00:43:09Z
+FB201325,P5565,DOC022,General,Medication availability was delayed initially.,4,positive,0.93,2024-01-19T00:49:43Z
+FB201326,P5177,DOC013,Surgery,Very fast response and treatment offered immediately.,4,positive,0.629,2024-06-12T01:47:11Z
+FB201327,P5409,DOC025,OPD,Medication availability was delayed initially.,2,negative,-0.577,2024-08-21T13:28:21Z
+FB201328,P5126,DOC003,Radiology,Reports were delayed causing change in follow-up plan.,1,negative,-0.461,2024-08-09T12:55:00Z
+FB201329,P5552,DOC004,General,Cost felt slightly higher compared to other places.,4,positive,0.646,2024-01-31T07:27:39Z
+FB201330,P5547,DOC024,Pharmacy,Cost felt slightly higher compared to other places.,5,positive,0.994,2024-09-10T22:35:46Z
+FB201331,P5747,DOC014,Radiology,Very fast response and treatment offered immediately.,4,positive,0.937,2024-04-15T21:13:11Z
+FB201332,P5962,DOC018,Emergency,Staff behavior was excellent and guidance was proper.,1,negative,-0.792,2024-07-01T11:24:49Z
+FB201333,P5348,DOC044,Emergency,Medication availability was delayed initially.,5,positive,0.741,2024-07-09T00:13:23Z
+FB201334,P5152,DOC004,Pharmacy,Room or department was clean and well maintained.,2,negative,-0.906,2024-04-20T23:46:45Z
+FB201335,P5398,DOC007,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.809,2024-03-01T22:57:39Z
+FB201336,P5340,DOC036,Laboratory,Very fast response and treatment offered immediately.,3,neutral,-0.037,2024-11-14T22:44:38Z
+FB201337,P5136,DOC024,OPD,Very fast response and treatment offered immediately.,1,negative,-0.702,2024-07-19T15:47:26Z
+FB201338,P5322,DOC017,General,Cost felt slightly higher compared to other places.,4,positive,0.768,2024-02-21T22:18:14Z
+FB201339,P5298,DOC013,OPD,Very fast response and treatment offered immediately.,1,negative,-0.71,2024-02-24T17:14:44Z
+FB201340,P5335,DOC048,Emergency,Medication availability was delayed initially.,4,positive,0.935,2024-12-04T03:59:56Z
+FB201341,P5277,DOC043,Emergency,Cost felt slightly higher compared to other places.,1,negative,-0.893,2024-11-26T01:40:44Z
+FB201342,P5141,DOC003,Radiology,Good service overall but waiting time was slightly long.,4,positive,0.912,2024-03-06T02:49:12Z
+FB201343,P5363,DOC030,Pharmacy,Staff behavior was excellent and guidance was proper.,2,negative,-0.438,2024-04-21T03:47:35Z
+FB201344,P5601,DOC022,General,Room or department was clean and well maintained.,1,negative,-0.524,2024-08-27T01:18:06Z
+FB201345,P5224,DOC025,Surgery,Reports were delayed causing change in follow-up plan.,1,negative,-0.574,2024-11-23T14:20:37Z
+FB201346,P5606,DOC043,OPD,Staff behavior was excellent and guidance was proper.,1,negative,-0.786,2024-12-29T15:33:26Z
+FB201347,P5844,DOC015,IPD,Cost felt slightly higher compared to other places.,4,positive,0.547,2024-04-21T00:57:48Z
+FB201348,P5722,DOC041,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.739,2024-10-31T19:39:39Z
+FB201349,P5516,DOC006,Pharmacy,Medication availability was delayed initially.,4,positive,0.606,2024-09-05T02:27:14Z
+FB201350,P5672,DOC034,IPD,Good service overall but waiting time was slightly long.,1,negative,-0.578,2024-04-29T06:43:20Z
+FB201351,P5867,DOC005,Radiology,Facilities were well maintained and easy to access.,2,negative,-0.551,2024-04-06T06:18:57Z
+FB201352,P5892,DOC005,Surgery,Reports were delayed causing change in follow-up plan.,2,negative,-0.716,2024-09-15T07:15:14Z
+FB201353,P5462,DOC020,OPD,Reports were delayed causing change in follow-up plan.,4,positive,0.645,2024-10-11T01:32:02Z
+FB201354,P5843,DOC033,General,Room or department was clean and well maintained.,2,negative,-0.801,2024-07-24T13:34:07Z
+FB201355,P5776,DOC029,Radiology,Room or department was clean and well maintained.,3,neutral,-0.098,2024-01-12T16:48:48Z
+FB201356,P5249,DOC029,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.321,2024-03-17T03:07:34Z
+FB201357,P5191,DOC002,Surgery,Room or department was clean and well maintained.,2,negative,-0.897,2024-08-30T23:41:12Z
+FB201358,P5042,DOC002,General,Medication availability was delayed initially.,4,positive,0.844,2024-01-15T07:32:51Z
+FB201359,P5004,DOC049,Emergency,Good service overall but waiting time was slightly long.,4,positive,0.786,2024-12-31T16:28:23Z
+FB201360,P5376,DOC034,OPD,Good service overall but waiting time was slightly long.,1,negative,-0.485,2024-02-03T18:59:53Z
+FB201361,P5822,DOC023,Emergency,Very fast response and treatment offered immediately.,2,negative,-0.671,2024-02-09T04:09:55Z
+FB201362,P5776,DOC012,Laboratory,Medication availability was delayed initially.,5,positive,0.604,2024-05-26T21:49:03Z
+FB201363,P5530,DOC002,Emergency,Facilities were well maintained and easy to access.,1,negative,-0.408,2024-06-23T00:11:44Z
+FB201364,P5720,DOC030,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.411,2024-10-11T08:36:22Z
+FB201365,P5088,DOC029,Laboratory,Facilities were well maintained and easy to access.,2,negative,-0.34,2024-01-22T13:57:40Z
+FB201366,P5968,DOC046,OPD,Good service overall but waiting time was slightly long.,2,negative,-0.358,2024-03-06T13:26:53Z
+FB201367,P5898,DOC035,Laboratory,Reports were delayed causing change in follow-up plan.,2,negative,-0.935,2024-05-10T15:47:08Z
+FB201368,P5860,DOC006,General,Medication availability was delayed initially.,1,negative,-0.544,2024-12-20T09:54:43Z
+FB201369,P5780,DOC015,Emergency,Room or department was clean and well maintained.,5,positive,0.535,2024-01-15T05:07:09Z
+FB201370,P5688,DOC046,Laboratory,Very fast response and treatment offered immediately.,4,positive,0.72,2024-03-20T03:55:43Z
+FB201371,P5271,DOC042,Emergency,Cost felt slightly higher compared to other places.,3,neutral,0.17,2024-06-22T18:07:41Z
+FB201372,P5157,DOC022,OPD,Room or department was clean and well maintained.,5,positive,0.977,2024-09-17T23:20:27Z
+FB201373,P5196,DOC046,Emergency,Very fast response and treatment offered immediately.,4,positive,0.707,2024-05-31T19:44:14Z
+FB201374,P5889,DOC049,Radiology,Reports were delayed causing change in follow-up plan.,1,negative,-0.34,2024-12-28T15:01:56Z
+FB201375,P5890,DOC013,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.575,2024-02-14T06:36:24Z
+FB201376,P5581,DOC039,Surgery,Cost felt slightly higher compared to other places.,1,negative,-0.574,2024-05-27T18:47:16Z
+FB201377,P5661,DOC037,Laboratory,Medication availability was delayed initially.,2,negative,-0.824,2024-02-11T15:09:57Z
+FB201378,P5803,DOC036,Pharmacy,Staff behavior was excellent and guidance was proper.,5,positive,0.796,2024-01-29T18:38:37Z
+FB201379,P5421,DOC046,Laboratory,Room or department was clean and well maintained.,1,negative,-0.726,2024-07-23T09:20:41Z
+FB201380,P5857,DOC001,Radiology,Cost felt slightly higher compared to other places.,5,positive,0.543,2024-09-15T19:30:16Z
+FB201381,P5367,DOC021,Emergency,Reports were delayed causing change in follow-up plan.,5,positive,0.703,2024-03-03T22:19:05Z
+FB201382,P5347,DOC016,IPD,Good service overall but waiting time was slightly long.,2,negative,-0.558,2024-07-23T23:25:24Z
+FB201383,P5161,DOC010,IPD,Cost felt slightly higher compared to other places.,1,negative,-0.726,2024-11-15T05:17:54Z
+FB201384,P5630,DOC048,Radiology,Very fast response and treatment offered immediately.,5,positive,0.959,2024-12-02T07:04:48Z
+FB201385,P5861,DOC004,OPD,Facilities were well maintained and easy to access.,3,neutral,-0.085,2024-03-24T12:04:22Z
+FB201386,P5594,DOC039,Pharmacy,Medication availability was delayed initially.,2,negative,-0.533,2024-08-06T12:31:46Z
+FB201387,P5657,DOC033,Surgery,Facilities were well maintained and easy to access.,5,positive,0.508,2024-10-24T21:09:12Z
+FB201388,P5068,DOC015,Pharmacy,Cost felt slightly higher compared to other places.,5,positive,0.645,2024-03-14T10:11:02Z
+FB201389,P5441,DOC018,Emergency,Cost felt slightly higher compared to other places.,5,positive,0.965,2024-01-26T09:48:33Z
+FB201390,P5538,DOC007,Emergency,Good service overall but waiting time was slightly long.,2,negative,-0.698,2024-10-20T13:50:49Z
+FB201391,P5492,DOC017,General,Facilities were well maintained and easy to access.,2,negative,-0.897,2024-08-28T04:04:57Z
+FB201392,P5956,DOC033,General,Staff behavior was excellent and guidance was proper.,5,positive,0.733,2024-10-31T06:48:06Z
+FB201393,P5539,DOC024,OPD,Very fast response and treatment offered immediately.,4,positive,0.739,2024-09-11T18:54:27Z
+FB201394,P5178,DOC027,Pharmacy,Facilities were well maintained and easy to access.,5,positive,0.948,2024-10-12T09:29:53Z
+FB201395,P5924,DOC043,IPD,Good service overall but waiting time was slightly long.,2,negative,-0.784,2024-06-23T04:25:30Z
+FB201396,P5299,DOC046,Emergency,Room or department was clean and well maintained.,5,positive,0.868,2024-02-13T07:45:18Z
+FB201397,P5502,DOC024,General,Cost felt slightly higher compared to other places.,2,negative,-0.404,2024-09-24T03:12:31Z
+FB201398,P5618,DOC011,OPD,Facilities were well maintained and easy to access.,2,negative,-0.624,2024-02-16T21:21:52Z
+FB201399,P5533,DOC024,Surgery,Medication availability was delayed initially.,5,positive,0.993,2024-09-11T17:39:50Z
+FB201400,P5524,DOC004,Emergency,Facilities were well maintained and easy to access.,3,neutral,-0.062,2024-04-13T19:12:54Z
+FB201401,P5854,DOC024,Surgery,Facilities were well maintained and easy to access.,2,negative,-0.304,2024-09-03T23:21:10Z
+FB201402,P5146,DOC016,IPD,Facilities were well maintained and easy to access.,1,negative,-0.385,2024-09-27T17:37:58Z
+FB201403,P5170,DOC002,Surgery,Reports were delayed causing change in follow-up plan.,5,positive,0.595,2024-06-23T17:31:07Z
+FB201404,P5351,DOC047,IPD,Cost felt slightly higher compared to other places.,4,positive,0.877,2024-10-20T08:43:15Z
+FB201405,P5722,DOC008,Radiology,Very fast response and treatment offered immediately.,5,positive,0.754,2024-05-21T12:16:33Z
+FB201406,P5989,DOC027,Emergency,Staff behavior was excellent and guidance was proper.,1,negative,-0.414,2024-04-23T01:38:39Z
+FB201407,P5538,DOC016,Laboratory,Cost felt slightly higher compared to other places.,1,negative,-0.554,2024-10-24T13:22:33Z
+FB201408,P5800,DOC013,OPD,Cost felt slightly higher compared to other places.,5,positive,0.895,2024-10-21T01:35:29Z
+FB201409,P5646,DOC017,IPD,Reports were delayed causing change in follow-up plan.,5,positive,0.611,2024-07-12T18:10:31Z
+FB201410,P5566,DOC006,General,Cost felt slightly higher compared to other places.,5,positive,0.573,2024-06-05T04:13:18Z
+FB201411,P5526,DOC049,Surgery,Staff behavior was excellent and guidance was proper.,3,neutral,-0.093,2024-08-25T05:34:25Z
+FB201412,P5427,DOC047,Surgery,Very fast response and treatment offered immediately.,2,negative,-0.721,2024-05-01T13:19:07Z
+FB201413,P5809,DOC030,General,Facilities were well maintained and easy to access.,4,positive,0.981,2024-12-16T08:13:13Z
+FB201414,P5080,DOC024,Laboratory,Good service overall but waiting time was slightly long.,5,positive,0.53,2024-06-22T15:17:35Z
+FB201415,P5238,DOC007,Pharmacy,Very fast response and treatment offered immediately.,2,negative,-0.621,2024-11-10T09:07:29Z
+FB201416,P5030,DOC040,Radiology,Facilities were well maintained and easy to access.,1,negative,-0.429,2024-12-17T13:38:31Z
+FB201417,P5072,DOC015,Pharmacy,Facilities were well maintained and easy to access.,1,negative,-0.348,2024-11-08T20:28:36Z
+FB201418,P5683,DOC021,Emergency,Good service overall but waiting time was slightly long.,1,negative,-0.688,2024-05-21T10:41:20Z
+FB201419,P5406,DOC048,Surgery,Room or department was clean and well maintained.,5,positive,0.564,2024-12-20T16:51:23Z
+FB201420,P5404,DOC004,General,Staff behavior was excellent and guidance was proper.,5,positive,0.549,2024-12-16T14:54:01Z
+FB201421,P5495,DOC048,IPD,Room or department was clean and well maintained.,4,positive,0.878,2024-04-26T05:04:41Z
+FB201422,P5665,DOC038,Pharmacy,Medication availability was delayed initially.,1,negative,-0.794,2024-10-26T17:13:49Z
+FB201423,P5657,DOC048,Emergency,Medication availability was delayed initially.,5,positive,0.939,2024-04-16T04:59:36Z
+FB201424,P5823,DOC041,IPD,Good service overall but waiting time was slightly long.,4,positive,0.862,2024-09-20T19:27:56Z
+FB201425,P5233,DOC015,OPD,Medication availability was delayed initially.,5,positive,0.561,2024-01-08T21:49:47Z
+FB201426,P5300,DOC021,Pharmacy,Room or department was clean and well maintained.,5,positive,0.692,2024-01-31T12:42:26Z
+FB201427,P5659,DOC046,Laboratory,Medication availability was delayed initially.,3,neutral,0.198,2024-08-06T14:12:49Z
+FB201428,P5443,DOC017,IPD,Staff behavior was excellent and guidance was proper.,4,positive,0.555,2024-06-08T20:02:26Z
+FB201429,P5319,DOC010,Surgery,Room or department was clean and well maintained.,5,positive,0.917,2024-09-10T00:47:05Z
+FB201430,P5161,DOC034,OPD,Very fast response and treatment offered immediately.,1,negative,-0.795,2024-12-26T10:04:56Z
+FB201431,P5666,DOC004,OPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.217,2024-04-26T13:12:35Z
+FB201432,P5587,DOC007,Emergency,Very fast response and treatment offered immediately.,1,negative,-0.81,2024-09-14T17:43:11Z
+FB201433,P5199,DOC001,Surgery,Medication availability was delayed initially.,4,positive,0.952,2024-07-12T05:54:26Z
+FB201434,P5222,DOC027,Pharmacy,Reports were delayed causing change in follow-up plan.,1,negative,-0.668,2024-03-01T10:43:50Z
+FB201435,P5436,DOC030,Pharmacy,Good service overall but waiting time was slightly long.,3,neutral,0.149,2024-08-19T12:01:50Z
+FB201436,P5198,DOC039,Emergency,Good service overall but waiting time was slightly long.,4,positive,0.584,2024-12-19T23:59:16Z
+FB201437,P5335,DOC020,General,Good service overall but waiting time was slightly long.,5,positive,0.948,2024-01-19T10:47:20Z
+FB201438,P5085,DOC003,Pharmacy,Reports were delayed causing change in follow-up plan.,5,positive,0.909,2024-09-28T04:41:54Z
+FB201439,P5336,DOC014,Emergency,Very fast response and treatment offered immediately.,1,negative,-0.594,2024-12-07T11:21:06Z
+FB201440,P5835,DOC002,Radiology,Room or department was clean and well maintained.,4,positive,0.939,2024-07-22T18:11:36Z
+FB201441,P5995,DOC050,General,Good service overall but waiting time was slightly long.,2,negative,-0.817,2024-11-17T03:47:33Z
+FB201442,P5033,DOC036,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,0.119,2024-07-31T05:55:12Z
+FB201443,P5952,DOC039,General,Very fast response and treatment offered immediately.,5,positive,0.715,2024-06-15T20:08:39Z
+FB201444,P5885,DOC049,Laboratory,Room or department was clean and well maintained.,4,positive,0.642,2024-11-04T01:36:55Z
+FB201445,P5517,DOC028,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.615,2024-04-21T07:52:37Z
+FB201446,P5929,DOC015,Surgery,Cost felt slightly higher compared to other places.,3,neutral,0.171,2024-01-15T16:07:43Z
+FB201447,P5726,DOC025,Pharmacy,Good service overall but waiting time was slightly long.,1,negative,-0.314,2024-05-15T19:17:24Z
+FB201448,P5999,DOC024,Emergency,Very fast response and treatment offered immediately.,5,positive,0.594,2024-01-06T23:18:14Z
+FB201449,P5543,DOC030,IPD,Reports were delayed causing change in follow-up plan.,1,negative,-0.578,2024-05-31T16:43:52Z
+FB201450,P5954,DOC040,Laboratory,Very fast response and treatment offered immediately.,4,positive,0.637,2024-12-11T00:06:15Z
+FB201451,P5774,DOC045,Emergency,Very fast response and treatment offered immediately.,5,positive,0.623,2024-04-16T06:23:13Z
+FB201452,P5037,DOC042,Pharmacy,Reports were delayed causing change in follow-up plan.,1,negative,-0.314,2024-02-13T09:17:31Z
+FB201453,P5553,DOC044,OPD,Cost felt slightly higher compared to other places.,3,neutral,0.033,2024-05-27T09:42:32Z
+FB201454,P5715,DOC047,Emergency,Very fast response and treatment offered immediately.,3,neutral,0.154,2024-02-18T00:03:24Z
+FB201455,P5488,DOC040,Radiology,Room or department was clean and well maintained.,2,negative,-0.991,2024-01-22T20:46:36Z
+FB201456,P5409,DOC024,Pharmacy,Very fast response and treatment offered immediately.,5,positive,0.529,2024-07-14T20:35:50Z
+FB201457,P5311,DOC024,General,Very fast response and treatment offered immediately.,3,neutral,-0.049,2024-11-20T23:04:11Z
+FB201458,P5093,DOC033,Emergency,Staff behavior was excellent and guidance was proper.,3,neutral,-0.059,2024-06-26T06:35:59Z
+FB201459,P5262,DOC019,OPD,Good service overall but waiting time was slightly long.,2,negative,-0.306,2024-05-09T11:57:42Z
+FB201460,P5673,DOC021,Surgery,Medication availability was delayed initially.,4,positive,0.743,2024-02-08T15:55:52Z
+FB201461,P5198,DOC036,General,Cost felt slightly higher compared to other places.,3,neutral,-0.077,2024-06-06T15:35:57Z
+FB201462,P5194,DOC008,Surgery,Staff behavior was excellent and guidance was proper.,2,negative,-0.916,2024-09-06T22:29:13Z
+FB201463,P5511,DOC039,Pharmacy,Facilities were well maintained and easy to access.,4,positive,0.906,2024-07-09T12:24:45Z
+FB201464,P5120,DOC011,Laboratory,Staff behavior was excellent and guidance was proper.,3,neutral,0.123,2024-06-09T00:11:28Z
+FB201465,P5469,DOC008,Laboratory,Cost felt slightly higher compared to other places.,4,positive,0.648,2024-05-03T20:02:02Z
+FB201466,P5516,DOC019,OPD,Reports were delayed causing change in follow-up plan.,5,positive,0.812,2024-02-22T23:18:12Z
+FB201467,P5970,DOC025,General,Medication availability was delayed initially.,5,positive,0.816,2024-10-13T04:04:10Z
+FB201468,P5205,DOC048,Laboratory,Room or department was clean and well maintained.,1,negative,-0.326,2024-02-05T08:54:52Z
+FB201469,P5100,DOC018,OPD,Cost felt slightly higher compared to other places.,5,positive,0.977,2024-09-05T10:10:31Z
+FB201470,P5956,DOC030,OPD,Cost felt slightly higher compared to other places.,2,negative,-0.984,2024-12-10T01:15:40Z
+FB201471,P5453,DOC022,Surgery,Cost felt slightly higher compared to other places.,3,neutral,0.142,2024-06-19T14:57:45Z
+FB201472,P5004,DOC047,Laboratory,Medication availability was delayed initially.,3,neutral,0.199,2024-10-28T01:29:20Z
+FB201473,P5703,DOC021,OPD,Medication availability was delayed initially.,1,negative,-0.472,2024-03-10T19:17:32Z
+FB201474,P5588,DOC029,Surgery,Staff behavior was excellent and guidance was proper.,5,positive,0.883,2024-06-28T01:30:35Z
+FB201475,P5111,DOC027,General,Cost felt slightly higher compared to other places.,2,negative,-0.864,2024-08-05T11:20:39Z
+FB201476,P5821,DOC040,Radiology,Facilities were well maintained and easy to access.,5,positive,0.668,2024-11-28T05:05:18Z
+FB201477,P5562,DOC023,General,Medication availability was delayed initially.,3,neutral,0.074,2024-11-30T03:50:59Z
+FB201478,P5420,DOC047,Laboratory,Cost felt slightly higher compared to other places.,5,positive,0.747,2024-05-21T22:20:07Z
+FB201479,P5711,DOC036,Pharmacy,Reports were delayed causing change in follow-up plan.,3,neutral,-0.017,2024-01-04T07:39:46Z
+FB201480,P5064,DOC036,IPD,Good service overall but waiting time was slightly long.,2,negative,-0.608,2024-01-01T18:43:42Z
+FB201481,P5396,DOC004,Emergency,Reports were delayed causing change in follow-up plan.,3,neutral,-0.034,2024-10-11T18:01:40Z
+FB201482,P5519,DOC047,Surgery,Medication availability was delayed initially.,5,positive,0.549,2024-08-26T14:43:55Z
+FB201483,P5475,DOC042,Pharmacy,Cost felt slightly higher compared to other places.,3,neutral,-0.007,2024-11-16T02:40:32Z
+FB201484,P5959,DOC032,Surgery,Medication availability was delayed initially.,3,neutral,0.071,2024-07-10T11:28:43Z
+FB201485,P5259,DOC021,General,Cost felt slightly higher compared to other places.,3,neutral,-0.096,2024-11-07T19:51:15Z
+FB201486,P5967,DOC039,IPD,Room or department was clean and well maintained.,1,negative,-0.505,2024-06-10T02:14:20Z
+FB201487,P5408,DOC037,Emergency,Good service overall but waiting time was slightly long.,4,positive,0.866,2024-08-16T19:48:29Z
+FB201488,P5519,DOC048,IPD,Medication availability was delayed initially.,3,neutral,-0.088,2024-08-15T08:00:20Z
+FB201489,P5024,DOC010,IPD,Cost felt slightly higher compared to other places.,5,positive,0.828,2024-04-17T13:18:54Z
+FB201490,P5366,DOC020,OPD,Facilities were well maintained and easy to access.,4,positive,0.503,2024-08-02T18:16:14Z
+FB201491,P5006,DOC039,Surgery,Staff behavior was excellent and guidance was proper.,5,positive,0.915,2024-11-08T01:21:22Z
+FB201492,P5399,DOC007,OPD,Staff behavior was excellent and guidance was proper.,5,positive,0.698,2024-07-18T17:25:42Z
+FB201493,P5978,DOC023,Laboratory,Very fast response and treatment offered immediately.,5,positive,0.88,2024-05-17T17:03:58Z
+FB201494,P5872,DOC035,Pharmacy,Room or department was clean and well maintained.,5,positive,0.871,2024-10-10T18:48:06Z
+FB201495,P5782,DOC004,Emergency,Cost felt slightly higher compared to other places.,5,positive,0.633,2024-05-27T17:13:36Z
+FB201496,P5436,DOC037,Pharmacy,Staff behavior was excellent and guidance was proper.,3,neutral,-0.019,2024-08-09T09:56:27Z
+FB201497,P5919,DOC042,OPD,Reports were delayed causing change in follow-up plan.,3,neutral,-0.024,2024-09-22T11:16:12Z
+FB201498,P5585,DOC008,Pharmacy,Staff behavior was excellent and guidance was proper.,4,positive,0.734,2024-01-18T13:42:56Z
+FB201499,P5593,DOC016,Emergency,Reports were delayed causing change in follow-up plan.,2,negative,-0.415,2024-07-18T13:10:17Z
+FB201500,P5762,DOC001,Pharmacy,Good service overall but waiting time was slightly long.,4,positive,0.82,2024-11-03T18:38:02Z

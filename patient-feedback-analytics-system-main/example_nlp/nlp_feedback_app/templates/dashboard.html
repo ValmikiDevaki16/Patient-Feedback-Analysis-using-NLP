@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analytics Dashboard - PFAS</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <script src="https://cdn.plot.ly/plotly-2.26.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <div class="container">
+        <a class="navbar-brand" href="/">PFAS - Patient Feedback Analytics</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/chatbot">Submit Feedback</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="/dashboard">Dashboard</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div id="dashboardContent" class="container my-4">
+      <div class="row mb-4">
+        <div class="col">
+          <h2 class="fw-bold">Analytics Dashboard</h2>
+          <p class="text-muted">
+            Frontend-based feedback analytics - upload CSV to analyze
+          </p>
+        </div>
+        <div class="col-auto">
+          <button
+            class="btn btn-success"
+            id="csvUploadBtn"
+            data-bs-toggle="modal"
+            data-bs-target="#csvUploadModal"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="17 8 12 3 7 8"></polyline>
+              <line x1="12" y1="3" x2="12" y2="15"></line>
+            </svg>
+            Upload CSV
+          </button>
+          <button class="btn btn-primary ms-2" id="refreshBtn">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <polyline points="23 4 23 10 17 10"></polyline>
+              <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+            </svg>
+            Refresh
+          </button>
+        </div>
+      </div>
+
+      <div class="modal fade" id="csvUploadModal" tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Upload Feedback CSV</h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <p>
+                Upload a CSV file with columns: feedback_text, department
+                (optional)
+              </p>
+              <input
+                type="file"
+                id="csvFileInput"
+                class="form-control"
+                accept=".csv"
+              />
+              <small class="text-muted d-block mt-2"
+                >Supported: CSV files with feedback_text and department
+                columns</small
+              >
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Cancel
+              </button>
+              <button type="button" class="btn btn-primary" id="uploadCsvBtn">
+                Upload & Analyze
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-md-4">
+          <div class="stat-card">
+            <div class="stat-icon bg-primary">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path
+                  d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"
+                ></path>
+              </svg>
+            </div>
+            <div class="stat-content">
+              <h6>Total Feedback</h6>
+              <h2 id="totalFeedback">0</h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="stat-card">
+            <div class="stat-icon bg-success">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="M8 14s1.5 2 4 2 4-2 4-2"></path>
+                <line x1="9" y1="9" x2="9.01" y2="9"></line>
+                <line x1="15" y1="9" x2="15.01" y2="9"></line>
+              </svg>
+            </div>
+            <div class="stat-content">
+              <h6>Avg Sentiment Score</h6>
+              <h2 id="avgSentiment">0.0</h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="stat-card">
+            <div class="stat-icon bg-danger">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path
+                  d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"
+                ></path>
+                <line x1="12" y1="9" x2="12" y2="13"></line>
+                <line x1="12" y1="17" x2="12.01" y2="17"></line>
+              </svg>
+            </div>
+            <div class="stat-content">
+              <h6>Critical Issues</h6>
+              <h2 id="criticalIssues">0</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-lg-6">
+          <div class="chart-card">
+            <h5 class="mb-3">Sentiment Distribution</h5>
+            <div id="sentimentChart"></div>
+          </div>
+        </div>
+
+        <div class="col-lg-6">
+          <div class="chart-card">
+            <h5 class="mb-3">Issue Categories</h5>
+            <div id="categoryChart"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-lg-12">
+          <div class="chart-card">
+            <h5 class="mb-3">Department-wise Ratings</h5>
+            <div id="departmentChart"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-lg-12">
+          <div class="chart-card">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+              <h5 class="mb-0">Severity Heatmap</h5>
+              <button
+                class="btn btn-sm btn-outline-primary"
+                id="downloadCsvBtn"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                  <polyline points="7 10 12 15 17 10"></polyline>
+                  <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                Download CSV
+              </button>
+            </div>
+            <div id="heatmapChart"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-lg-12">
+          <div class="recommendations-card">
+            <h5 class="mb-3">Recommendations</h5>
+            <div id="recommendationsList"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-lg-12">
+          <div class="chart-card">
+            <h5 class="mb-3">Recent Feedback</h5>
+            <div class="table-responsive">
+              <table class="table table-hover" id="recentFeedbackTable">
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Department</th>
+                    <th>Sentiment</th>
+                    <th>Category</th>
+                    <th>Severity</th>
+                    <th>Feedback</th>
+                  </tr>
+                </thead>
+                <tbody id="recentFeedbackBody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="bg-dark text-white py-4 mt-5">
+      <div class="container text-center">
+        <p class="mb-0">
+          &copy; 2024 Patient Feedback Analytics System. Final Year CSE Project.
+        </p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/feedback_processor.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/dashboard_frontend.js') }}"></script>
+  </body>
+</html>
